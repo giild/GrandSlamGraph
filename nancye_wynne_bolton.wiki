@@ -1,0 +1,288 @@
+{{short description|Australian tennis player}}
+{{Use British English|date=May 2011}}
+{{Use dmy dates|date=May 2011}}
+{{Infobox tennis biography
+| name                  = Nancye Wynne Bolton
+| fullname              = 
+| country               = {{flagu|Australia}}
+| image                 = Nancye Wynne Bolton 1938.jpg
+| birth_place           = [[Melbourne]], Australia
+| birth_date            = {{birth date|df=yes|1916|12|02}}
+| death_place           = [[Melbourne]], Australia
+| death_date            = {{Death date and age|2001|11|09|1916|12|02|df=y}}
+| height                = {{height|m=1.78}}
+| plays                 = Right-handed
+| careerprizemoney      = 
+| tennishofyear         = 2006
+| tennishofid           = nancye-wynne-bolton
+| singlesrecord         = 
+| singlestitles         = 
+| highestsinglesranking = 
+| AustralianOpenresult  = '''W''' (1937, 1940, 1946, 1947, 1948, 1951)
+| FrenchOpenresult      = 3R ([[1938 French Championships (tennis)|1938]])
+| Wimbledonresult       = QF ([[1947 Wimbledon Championships – Women's Singles|1947]])
+| USOpenresult          = F ([[1938 U.S. National Championships (tennis)|1938]])
+| doublesrecord         = 
+| doublestitles         = 
+| highestdoublesranking =
+| grandslamsdoublesresults    =
+| AustralianOpenDoublesresult         = '''W''' (1936, 1937, 1938, 1939, 1940, 1947, 1948, 1949, 1951, 1952)
+| AustralianOpenDoublesjuniorresult   =
+| AustralianOpenDoublesseniorresult   =
+| FrenchOpenDoublesresult             = 
+| FrenchOpenDoublesjuniorresult       =
+| FrenchOpenDoublesseniorresult       =
+| WimbledonDoublesresult              =
+| WimbledonDoublejuniorresult         =
+| WimbledonDoublesseniorresult        =
+| USOpenDoublesresult                 = 
+| USOpenDoublesjuniorresult           =
+| Mixed = Yes
+| mixedrecord = 
+| mixedtitles =
+| AustralianOpenMixedresult = '''W''' (1940, 1946, 1947, 1948)
+| FrenchOpenMixedresult = F (1938)
+| WimbledonMixedresult  = F (1947, 1951)
+}}
+[[File:Thelma Coyne and Nancye Wynne 1938.jpg|thumb|[[Thelma Coyne Long|Thelma Coyne]] (l) and Nancye Wynne (r) in Adelaide (1938)]]
+'''Nancye Wynne Bolton''' (''née'' '''Wynne'''; 2 December 1916 – 9 November 2001) was a [[tennis]] player from Australia.  She won the women's singles title six times at the [[Australian Open|Australian Championships]], third only to [[Margaret Court]]'s and [[Serena Williams]]' 11 and 7 titles respectively. Bolton won 20 titles at the Australian Championships, second only to Court's 23 titles.
+
+According to Wallis Myers and John Orloff of ''[[The Daily Telegraph]]'' and the ''[[Daily Mail]]'', Bolton was ranked in the world top ten in 1938, 1947, and 1948 (no rankings issued from 1940 through 1945), reaching a career high of World No. 4 in those rankings in 1947 and 1948.<ref>{{cite book |author=Collins, Bud |title=The Bud Collins History of Tennis: An Authoritative Encyclopedia and Record Book |publisher=New Chapter Press |location=New York |year=2008 |pages=695, 702 |isbn=0-942257-41-3 |oclc= |doi= |accessdate=}}</ref>  According to Ned Potter of ''[[American Lawn Tennis]]'' magazine, Bolton was the second ranked player in 1947, behind [[Louise Brough]].
+
+She married George Bolton on 6 July 1940.<ref>{{cite news |url=http://nla.gov.au/nla.news-article17689213 |title=Married in Melbourne. |newspaper=[[The Sydney Morning Herald]] |date=8 July 1940 |page=4 |publisher=National Library of Australia}}</ref> He was a [[RAAF]] pilot and was killed in May 1942 during a raid on Germany.<ref>{{cite web|title=ASN Wikibase Occurrence # 52864|url=http://aviation-safety.net/wikibase/wiki.php?id=52864|publisher=Aviation Safety Network (ASN)}}</ref>
+
+Bolton was inducted into the [[International Tennis Hall of Fame]] in 2004.
+
+==Grand Slam tournament finals==
+
+===Singles: 9 (6 titles, 3 runner-ups)===
+
+{|class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:30px"|Year
+!style="width:165px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Opponent
+!style="width:140px" class="unsortable"|Score
+|-style="background:#ffc;"
+| style="background:#ffa07a;"|Loss  ||1936 || [[1936 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Joan Hartigan]] || 4–6, 4–6
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1937 || [[1937 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Emily Hood Westacott]] || 6–3, 5–7, 6–4
+|-style="background:#ccffcc;"
+| style="background:#ffa07a;"|Loss ||1938|| [[1938 U.S. National Championships (tennis)|US Championships]] || Grass ||  {{flagicon|USA}} [[Alice Marble]] || 0–6, 3–6
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1940||[[1940 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || 5–7, 6–4, 6–0
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1946||[[1946 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Joyce Fitch]] || 6–4, 6–4
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1947||[[1947 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Nell Hall Hopman]] || 6–3, 6–2
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1948||[[1948 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Marie Toomey]] || 6–3, 6–1
+|-style="background:#ffc;"
+| style="background:#ffa07a;"|Loss ||1949||[[1949 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|USA|1912}} [[Doris Hart]] || 3–6, 4–6
+|-style="background:#ffc;"
+|  style="background:#98fb98;"|Win ||1951||[[1951 Australian Championships – Women's Singles|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || 6–1, 7–5
+|}
+
+===Doubles: 12 (10 titles, 2 runner-ups)===
+{|class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:30px"|Year
+!style="width:165px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Partner
+!style="width:190px"|Opponents
+!style="width:140px" class="unsortable"|Score
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1936||[[1936 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} May Blik <br /> {{flagicon|AUS}} Katherine Woodward || 6–2, 6–4
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1937||[[1937 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[Nell Hall Hopman]] <br /> {{flagicon|AUS}} [[Emily Hood Westacott]] || 6–2, 6–2
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1938||[[1938 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|US}} [[Dorothy Bundy Cheney]] <br /> {{flagicon|US}} Dorothy Workman || 9–7, 6–4
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1939||[[1939 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[May Hardcastle]] <br /> {{flagicon|AUS}} [[Nell Hall Hopman]] || 7–5, 6–4
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1940||[[1940 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[Joan Hartigan]] <br /> {{flagicon|AUS}} Emily Niemayer || 7–5, 6–2
+|- style="background:#ffc;"
+| style="background:#ffa07a;"|Loss ||1946||[[1946 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[Joyce Fitch]] <br /> {{flagicon|AUS}} [[Mary Bevis Hawton]] || 7–9, 4–6
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1947||[[1947 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[Joyce Fitch]] <br /> {{flagicon|AUS}} [[Mary Bevis Hawton]] || 6–3, 6–3
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1948||[[1948 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} Pat Jones <br /> {{flagicon|AUS}} [[Mary Bevis Hawton]] || 6–3, 6–3
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1949||[[1949 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|US}} [[Doris Hart]] <br /> {{flagicon|AUS}} [[Marie Toomey]] || 6–0, 6–1
+|- style="background:#ffc;"
+| style="background:#ffa07a;"|Loss ||1950||[[1950 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|US}} [[Louise Brough]] <br /> {{flagicon|US}} [[Doris Hart]] || 2–6, 6–2, 3–6
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win ||1951||[[1951 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} [[Joyce Fitch]] <br /> {{flagicon|AUS}} [[Mary Bevis Hawton]] || 6–2, 6–1
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win||1952||[[1952 Australian Championships|Australian Championships]] || Grass ||  {{flagicon|AUS}} [[Thelma Coyne Long]] || {{flagicon|AUS}} Allison Burton Baker <br /> {{flagicon|AUS}} [[Mary Bevis Hawton]] || 6–1, 6–1
+|}
+
+===Mixed doubles: 8 (4 titles, 4 runner-ups)===
+{|class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:30px"|Year
+!style="width:165px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Partner
+!style="width:190px"|Opponents
+!style="width:140px" class="unsortable"|Score
+|-style="background:#ebc2af;"
+|  style="background:#ffa07a;"|Loss || 1938 || [[1938 French Championships (tennis)|French Championships]] || Clay || {{flagicon|FRA}} [[Christian Boussus]] || {{flagicon|FRA}} [[Simonne Mathieu]]<br />{{flagicon|YUG|Kingdom}} [[Dragutin Mitić]] || 6–2, 3–6, 4–6
+|- style="background:#ffc;"
+|  style="background:#ffa07a;"|Loss || 1938 || [[1938 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|AUS}} [[Margaret Wilson (tennis)|Margaret Wilson]] <br /> {{flagicon|AUS}} [[John Bromwich]] || 3–6, 2–6
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win || 1940 || [[1940 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|AUS}} [[Nell Hall Hopman]] <br /> {{flagicon|AUS}} [[Harry Hopman]] || 7–5, 2–6, 6–4
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win || 1946 || [[1946 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|AUS}} [[Joyce Fitch]] <br /> {{flagicon|AUS}} [[John Bromwich]] || 6–0, 6–4
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Loss  || 1947 || [[1947 Wimbledon Championships|Wimbledon Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|USA}} [[Louise Brough]] <br /> {{flagicon|AUS}} [[John Bromwich]] || 6–1, 4–6, 2–6
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win || 1947 || [[1947 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|AUS}} [[Joyce Fitch]] <br /> {{flagicon|AUS}} [[John Bromwich]] || 6–3, 6–3
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win || 1948 || [[1948 Australian Championships|Australian Championships]] || Grass || {{flagicon|AUS}} [[Colin Long (tennis)|Colin Long]] || {{flagicon|AUS}} [[Thelma Coyne Long]] <br /> {{flagicon|AUS}} [[Bill Sidwell]] || 7–5, 4–6, 8–6
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Loss  || 1951 || [[1951 Wimbledon Championships|Wimbledon Championships]] || Grass || {{flagicon|AUS}} [[Mervyn Rose]] || {{flagicon|USA}} [[Doris Hart]] <br /> {{flagicon|AUS}} [[Frank Sedgman]] || 5–7, 2–6
+|}
+
+==Grand Slam singles tournament timeline==
+{{Performance key|short=yes|active=no}}
+
+{|class="wikitable"
+|- bgcolor="#efefef"
+! Tournament !! 1935 !! 1936 !! 1937 !! 1938 !! 1939 !! 1940 !! {{nowrap|1941 – 1944}} !! 1945 !! 1946{{efn|name=sequence|In 1946 and 1947, the French Championships were held after Wimbledon.}} !! 1947{{efn|name=sequence|In 1946 and 1947, the French Championships were held after Wimbledon.}} !! 1948 !! 1949 !! 1950 !! 1951 !! 1952
+! style="width:45px;" | SR
+! style="width:45px;" | {{Tooltip| W–L | Win–Loss}}
+! style="width:45px;" | {{nowrap|Win %}}
+|-
+| {{nowrap|[[Australian Championships]]}}
+| align="center" style="background:#afeeee;"|[[1935 Australian Championships – Women's Singles|2R]]
+| align="center" style="background:#D8BFD8;" | [[1936 Australian Championships – Women's Singles|F]]
+| align="center" style="background:#00ff00;" | '''[[1937 Australian Championships – Women's Singles|W]]'''
+| align="center" style="background:yellow;" | [[1938 Australian Championships – Women's Singles|SF]]
+| align="center" style="background:#afeeee;"|[[1939 Australian Championships – Women's Singles|2R]]
+| align="center" style="background:#00ff00;" | '''[[1940 Australian Championships – Women's Singles|W]]'''
+| align="center" | NH
+| align="center" | NH
+| align="center" style="background:#00ff00;" | '''[[1946 Australian Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1947 Australian Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1948 Australian Championships – Women's Singles|W]]'''
+| align="center" style="background:#D8BFD8;" | [[1949 Australian Championships – Women's Singles|F]]
+| align="center" style="background:yellow;" | [[1950 Australian Championships – Women's Singles|SF]]
+| align="center" style="background:#00ff00;" | '''[[1951 Australian Championships – Women's Singles|W]]'''
+| align="center" style="background:yellow;" | [[1952 Australian Championships – Women's Singles|SF]]
+| align="center" | 6 / 13
+| align="center" | 44–7
+| align="center" | 86.3
+|-
+| [[French Open|French Championships]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" style="background:#afeeee;"|[[1938 French Championships – Women's Singles|3R]]
+| align="center" |A
+| align="center" |NH
+| align="center" |R{{efn|name=restricted|Tournament restricted to French nationals and held under [[German military administration in occupied France during World War II|German occupation]].}}
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" | 0 / 1
+| align="center" | 1–1
+| align="center" | 50.0
+|-
+| [[The Championships, Wimbledon|Wimbledon]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" style="background:#afeeee;"|[[1938 Wimbledon Championships – Women's Singles|4R]]
+| align="center" |A
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" |A
+| align="center"  style="background:#ffebcd;"|[[1947 Wimbledon Championships – Women's Singles|QF]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" style="background:#afeeee;"|[[1951 Wimbledon Championships – Women's Singles|3R]]
+| align="center" |A
+| align="center" | 0 / 3
+| align="center" | 7–3
+| align="center" | 70.0
+|-
+| [[US Open (tennis)|U.S. Championships]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" style="background:#D8BFD8;" | [[1938 U.S. National Championships – Women's Singles|F]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" style="background:yellow;" | [[1947 U.S. National Championships – Women's Singles|SF]]
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" |A
+| align="center" | 0 / 2
+| align="center" | 7–2
+| align="center" | 77.8
+|-
+| style="background:#EFEFEF;" | '''Win–Loss'''
+| align="center" style="background:#EFEFEF;" |1–1
+| align="center" style="background:#EFEFEF;" |4–1
+| align="center" style="background:#EFEFEF;" |4–0
+| align="center" style="background:#EFEFEF;" |10–4
+| align="center" style="background:#EFEFEF;" |0–1
+| align="center" style="background:#EFEFEF;" |4–0
+| align="center" style="background:#EFEFEF;" |–
+| align="center" style="background:#EFEFEF;" |–
+| align="center" style="background:#EFEFEF;" |5–0
+| align="center" style="background:#EFEFEF;" |11–2
+| align="center" style="background:#EFEFEF;" |4–0
+| align="center" style="background:#EFEFEF;" |3–1
+| align="center" style="background:#EFEFEF;" |3–1
+| align="center" style="background:#EFEFEF;" |7–1
+| align="center" style="background:#EFEFEF;" |3–1
+| align="center" style="background:#EFEFEF;" | {{nowrap|'''6 / 19'''}}
+| align="center" style="background:#EFEFEF;" | {{nowrap|'''59–13'''}}
+| align="center" style="background:#EFEFEF;" | '''81.9'''
+|}
+
+== See also ==
+* [[Tennis performance timeline comparison (women)|Performance timelines for all female tennis players who reached at least one Grand Slam final]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Tennis Hall of Fame|nancye-wynne-bolton}}
+* {{Tennis Australia|nancye-wynne-bolton}}
+
+{{Australian Championships women's singles champions}}
+{{Australian Championships women's doubles champions}}
+{{Australian Championships mixed doubles champions}}
+
+{{DEFAULTSORT:Bolton, Nancye Wynne}}
+[[Category:1916 births]]
+[[Category:2001 deaths]]
+[[Category:Australian Championships (tennis) champions]]
+[[Category:Australian female tennis players]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Sportswomen from Victoria (Australia)]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:Grand Slam (tennis) champions in women's doubles]]
+[[Category:Grand Slam (tennis) champions in mixed doubles]]
+[[Category:Sportspeople from Melbourne]]
+[[Category:Tennis people from Victoria (Australia)]]

@@ -1,0 +1,351 @@
+{{short description|Norwegian-American tennis player}}
+{{short description|American tennis player}}
+{{Infobox tennis biography
+| full_name                   = Molla Bjurstedt Mallory
+| image                       = Molla Bjurstedt 1909.jpg
+| caption                     = Molla Bjurstedt Mallory in 1909
+| fullname                    = Anna Margrethe Bjurstedt Mallory
+| spouse                      =
+| country                     = {{NOR}}<br />{{USA}}
+| residence                   =
+| birth_date                  = {{birth date|mf=yes|1884|3|6}}
+| birth_place                 = [[Mosvik]], Norway
+| death_date                  = {{death date and age|mf=yes|1959|11|22|1884|3|6}}
+| death_place                 = [[Stockholm]], Sweden
+| height                      = 
+| college                     =
+| turnedpro                   =
+| retired                     =
+| plays                       = Right-handed
+| careerprizemoney            =
+| tennishofyear               = 1958
+| tennishofid                 = molla-bjurstedt-mallory
+| website                     = <!-- official web site address like this: [http://www.site.com/ www.site.com] -->
+| singlesrecord               =
+| singlestitles               =
+| highestsinglesranking       = No. 1 (US Ranking)
+| AustralianOpenresult        =
+| FrenchOpenresult            = 2R ([[1928 French Championships (tennis)|1928]])
+| Wimbledonresult             = F ([[1922 Wimbledon Championships|1922]])
+| USOpenresult                = '''W''' ([[1915 U.S. National Championships – Women's Singles|1915]], [[1916 U.S. National Championships – Women's Singles|1916]], [[1917 U.S. National Championships – Women's Singles|1917]], [[1918 U.S. National Championships – Women's Singles|1918]], [[1920 U.S. National Championships – Women's Singles|1920]], [[1921 U.S. National Championships – Women's Singles|1921]], [[1922 U.S. National Championships – Women's Singles|1922]], [[1926 U.S. National Championships – Women's Singles|1926]])
+| Othertournaments            = <!-- adds a "Other tournaments" title -->
+| Olympicsresult              =
+| doublesrecord               =
+| doublestitles               =
+| highestdoublesranking       =
+| grandslamsdoublesresults    =
+| AustralianOpenDoublesresult =
+| FrenchOpenDoublesresult     =
+| WimbledonDoublesresult      =
+| USOpenDoublesresult         = '''W''' (1916, 1917)
+| OthertournamentsDoubles     = <!-- adds a "Other doubles tournaments" title -->
+| OlympicsDoublesresult       =
+| Mixed                       = <!-- adds mixed information-->
+| mixedrecord                 =
+| mixedtitles                 =
+| AustralianOpenMixedresult   =
+| FrenchOpenMixedresult       =
+| WimbledonMixedresult        =
+| USOpenMixedresult           = '''W''' (1917, 1922, 1923)
+| medaltemplates-expand       = yes
+| medaltemplates              =
+{{MedalCountry | {{NOR}} }}
+{{MedalCompetition | Olympic Games – [[Tennis at the Summer Olympics|Tennis]] }}
+{{MedalBronze  | [[1912 Summer Olympics|1912 Stockholm]] | [[Tennis at the 1912 Summer Olympics|Singles]] }}
+}}
+
+'''Anna Margrethe "Molla" Bjurstedt Mallory''' (née Bjurstedt; March 6, 1884<ref name="Collins page 588">{{cite book |author=Collins, Bud |title=The Bud Collins History of Tennis: An Authoritative Encyclopedia and Record Book |publisher=New Chapter Press |location=New York, N.Y |year=2010 |isbn=978-0942257700 |pages=604, 605}}</ref> – November 22, 1959) was a [[Norway|Norwegian]] tennis player, naturalized [[United States|American]]. She won a record eight singles titles at the [[US Open (tennis)|U.S. Championships]]. She was the first woman to represent Norway at the Olympics.<ref>{{cite web|url=https://www.olympedia.org/lists/99/manual |title=First female competitors at the Olympics by country |work=Olympedia |accessdate=8 June 2020}}</ref>
+
+==Tennis career==
+Although she had won a bronze medal in singles for Norway at the [[1912 Summer Olympics]] in Stockholm,<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/athletes/bj/molla-bjurstedt-mallory-1.html |archive-url=https://web.archive.org/web/20200418034045/https://www.sports-reference.com/olympics/athletes/bj/molla-bjurstedt-mallory-1.html |url-status=dead |archive-date=2020-04-18 |title=Molla Mallory Olympic Results |accessdate=2013-05-15 |work=sports-reference.com}}</ref> and was the many-time champion of her homeland, Mallory was relatively unknown when she arrived in [[New York City]] to begin work as a masseuse in 1915. She entered the [[US Indoors|U.S. Indoor Championships]] that year unheralded and beat [[Marie Wagner]] 6–4, 6–4, which was the first of her five singles titles at that tournament.<ref name="Collins page 588" />  She also won the singles title in [[Cincinnati Masters|Cincinnati]] in 1915.
+
+Mallory had less in the way of stroke equipment than most tennis champions. But the sturdy, Norwegian-born woman, the daughter of an army officer, was a fierce competitor, running with limitless endurance.<ref name="Collins page 588" />  [[Robert Kelleher|Robert (Bob) Kelleher]], a former president of the [[United States Tennis Association]] (USTA) and a ball boy during Mallory's era, once said, "She looked and acted tough when she was on the court hitting tennis balls.  She walked around in a manner that said you'd better look out or she'd deck you. She was an indomitable scrambler and runner. She was a fighter."<ref name="King page 29">{{cite book |author=[[Billie Jean King]] with Cynthia Starr |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |isbn=0-07-034625-9 |oclc= |doi= |page=[https://archive.org/details/wehavecomelongwa00king/page/29 29] |url=https://archive.org/details/wehavecomelongwa00king/page/29 }}</ref>
+
+She was a player of the old school. She held that a woman could not sustain a volleying attack in a long match.<ref name="Collins page 588" />  "I do not know a single girl who can play the net game."<ref name="King page 29" />  Therefore, she relied on her baseline game, consisting of strong forehand attacks and a ceaseless defense that wore down her opponents. She took the ball on the rise and drove it from corner to corner to keep her opponent on the constant run. Her quick returns made her passing shots extremely effective.<ref name="Collins page 588" />  She once said, "I find that the girls generally do not hit the ball as hard as they should.  I believe in always hitting the ball with all my might, but there seems to be a disposition to 'just get it over' in many girls whom I have played.  I do not call this tennis."<ref name="King page 29" />
+
+Her second round match with [[Suzanne Lenglen]] at the 1921 U.S. National Championships brought Mallory her greatest celebrity.<ref name="Collins page 588" />  Before the match, [[Bill Tilden]] advised Mallory to "hit the cover off the ball."  Once the match began, Mallory "attacked with a vengeance" and was ahead 2–0 (40–0) when Lenglen began to cough. Mallory won the first set 6–2 and was up 40–0 on Lenglen's serve in the first game of the second set when Lenglen began to weep and walked to the [[Official (tennis)|umpire's]] stand and informed the official that she was ill and could not continue. After the match, the USTA accused Lenglen of feigning illness. The [[French Tennis Federation]] (FTF) exonerated Lenglen and accepted her testimony (and a doctor's) that she had been ill. However, Albert de Joannis, vice president of the FTF who accompanied Lenglen during her trip to the United States, quit his post in protest of the FTF's conclusion.  He claimed that Lenglen was "perfectly fit" during the match and that, "She was defeated by a player who on that date showed a better brand of tennis."<ref>{{cite book |author=[[Billie Jean King]] with Cynthia Starr |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |pages=[https://archive.org/details/wehavecomelongwa00king/page/29 29–31] |isbn=0-07-034625-9 |oclc= |doi= |url=https://archive.org/details/wehavecomelongwa00king/page/29 }}</ref>
+
+Lenglen avenged the loss by defeating Mallory 6–2, 6–0 in 26 minutes in the 1922 [[Wimbledon Championships|Wimbledon]] final,<ref>"Mlle. Lenglen Wins Over Mrs. Mallory", ''New York Times'', July 9, 1922, page 1</ref> the shortest final in a Grand Slam tournament on record.<ref>{{cite web |title=Graf Takes Shortest Line: Straight Sets |url=http://articles.sun-sentinel.com/1988-06-05/sports/8802020834_1_graf-errors-zvereva-grand-slam |publisher=SunSentinel |date=June 5, 1988}}</ref> Lenglen reportedly said to Mallory after the match, "Now, Mrs. Mallory, I have proved to you today what I could have done to you in New York last year," to which Mallory replied, "Mlle. Lenglen, you have done to me today what I did to you in New York last year; you have beaten me."<ref>{{cite book |author=[[Billie Jean King]] with Cynthia Starr |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |isbn=0-07-034625-9 |oclc= |doi= |page=[https://archive.org/details/wehavecomelongwa00king/page/31 31] |url=https://archive.org/details/wehavecomelongwa00king/page/31 }}</ref>  However, [[Kathleen McKane Godfree]] has said that Lenglen denied this exchange.{{Citation needed|date=February 2008}}  Lenglen claimed that she merely said "thank you" to Mallory and coughed very suggestively behind an uplifted hand. This was to remind Mallory that she – Lenglen – had indeed had whooping cough in their New York match the previous year. The two played for the last time that summer in [[Nice, France]] with Lenglen winning 6–0, 6–0. This completed the head-to-head rivalry between the players, with Lenglen winning their first match at the 1921 World Hard Court Championships 6–3, 6–2, after which Mallory said about Lenglen, "She is just the steadiest player that ever was.  She just sent back at me whatever I sent at her and waited for me to make a fault.  And her returns often enough were harder than the shots I sent up to her."<ref>{{cite news |title=Mlle. Lenglen wins from Mrs. Mallory |url=https://timesmachine.nytimes.com/timesmachine/1921/06/06/98701321.pdf |work=[[The New York Times]] |date=June 6, 1921 |pages=1, 5 |format=pdf}}</ref>
+
+Mallory won the singles title at the U.S. Championships a record eight times in fifteen attempts, with the last of her titles occurring at age 42 in 1926. Her worst finish there was a quarterfinal loss in 1927 at age 43.  In 1926, Mallory hit one of the heights of her career when she came back from 0–4 in the third set of the final against [[Elizabeth Ryan]], saving a match point in winning her eighth championship.<ref name="Collins page 588" />  Her farewell to the U.S. Championships was as a 45-year-old semifinalist in 1929, losing to [[Helen Wills Moody]] 6–0, 6–0 after having defeated the first foreign seeded player [[Betty Nuthall]] in the quarterfinal.<ref>{{cite news|title=Mrs. Mallory jars net race|url=https://news.google.com/newspapers?id=_M5XAAAAIBAJ&sjid=tPQDAAAAIBAJ&pg=4979%2C4933831|work=[[Spokane Daily Chronicle]]|agency=AP|date=August 23, 1929|page=24|via=[[Google News Archive]]}}</ref><ref name="Collins page 588" />  Mallory is the only woman other than [[Chris Evert]] to have won the U.S. Championships four consecutive times.
+
+She died on November 22, 1959, aged 75, in [[Stockholm, Sweden]].
+
+==Legacy==
+According to [[A. Wallis Myers]] of [[Daily Telegraph|The Daily Telegraph]] and the [[Daily Mail]], Mallory was ranked in the world top ten from 1921 (when the rankings for women began) through 1927, reaching a career high of World No. 2 in those rankings in 1921 and 1922.<ref>{{cite book |author=Collins, Bud |title=The Bud Collins History of Tennis: An Authoritative Encyclopedia and Record Book |publisher=New Chapter Press |location=New York, N.Y |year=2008 |pages=695, 701 |isbn=0-942257-41-3 |oclc= |doi= |accessdate=}}</ref>  She was ranked in the U.S. top ten 13 consecutive years from 1915 through 1928 (no rankings were issued in 1917) and was top ranked from 1915 through 1922 and in 1926.<ref>{{cite book |author=United States Tennis Association |title=1988 Official USTA Tennis Yearbook |publisher=H.O. Zimman, Inc. |location=Lynn, Massachusetts |year=1988 |isbn= |oclc= |doi= |accessdate= |page=260}}</ref>
+
+Mallory was inducted into the [[International Tennis Hall of Fame]] in 1958.
+
+In 1916, she co-authored a book, ''Tennis for Women'' with [[Samuel Crowther (journalist)|Samuel Crowther]].<ref>''Tennis for Women.'' (Illustrated from photographs), Molla Bjurstedt and [[Samuel Crowther (journalist)|Samuel Crowther]], London: Curtis Brown, 1916</ref>
+
+[[File:Molla Bjurstedt.jpg|thumb|220px|Molla Bjurstedt at the 1915 [[US Indoor Championships|Women's National Indoor Tennis Tournament]] at the [[Seventh Regiment Armory]], New York City.]]
+
+== Grand Slam finals ==
+
+=== Singles: 11 (8 titles, 3 runners-up) ===
+{| class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:35px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Opponent
+!style="width:140px" class="unsortable"|Score
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1915 U.S. National Championships|1915]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Hazel Hotchkiss Wightman]] || 4–6, 6–2, 6–0
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1916 U.S. National Championships|1916]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Louise Hammond Raymond]] || 6–0, 6–1
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1917 U.S. National Championships|1917]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Marion Vanderhoef]] || 4–6, 6–0, 6–2
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1918 U.S. National Championships|1918]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Eleanor Goss]] || 6–4, 6–3
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1920 U.S. National Championships|1920]] || [[US Open (tennis)|U.S. National Championships]] || Grass ||  {{flagicon|USA|1912}} [[Marion Zinderstein]] || 6–3, 6–1
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1921 U.S. National Championships|1921]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Mary Browne]] || 4–6, 6–4, 6–2
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss || [[1922 Wimbledon Championships – Women's Singles|1922]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|FRA}} [[Suzanne Lenglen]] || 2–6, 0–6
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1922 U.S. National Championships|1922]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Helen Wills]] || 6–3, 6–1
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1923 U.S. National Championships|1923]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Helen Wills]] || 2–6, 1–6
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1924 U.S. National Championships|1924]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Helen Wills]] || 1–6, 3–6
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1926 U.S. National Championships|1926]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA|1912}} [[Elizabeth Ryan]] || 4–6, 6–4, 9–7
+|}
+
+=== Doubles: 4 (2 titles, 2 runners-up) ===
+{| class="sortable wikitable"  
+!style="width:40px"|Result
+!style="width:35px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Partner
+!style="width:190px"|Opponents
+!style="width:140px" class="unsortable"|Score
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1916 U.S. National Championships|1916]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Eleonora Sears]] || {{flagicon|USA}} [[Louise Hammond Raymond]]<br>{{flagicon|USA}} [[Edna Wildey]] || 4–6, 6–2, 10–8
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1917 U.S. National Championships|1917]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Eleanora Sears]] || {{flagicon|USA}} [[Phyllis Walsh]]<br>{{flagicon|USA}} [[Grace Moore LeRoy]] || 6–2, 6–4
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1918 U.S. National Championships|1918]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|NOR}} [[Anna Rogge]] || {{flagicon|USA}} [[Eleanor Goss]]<br>{{flagicon|USA}} [[Marion Zinderstein]] || 5–7, 6–8
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1922 U.S. National Championships|1922]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Edith Sigourney]] || {{flagicon|USA}} [[Helen Wills]]<br>{{flagicon|USA}} [[Marion Zinderstein|Marion Zinderstein Jessup]] || 4–6, 9–7, 3–6
+|}
+
+=== Mixed doubles: 8 (3 titles, 5 runners-up) ===
+{| class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:35px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:190px"|Partner
+!style="width:190px"|Opponents
+!style="width:140px" class="unsortable"|Score
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1915 U.S. National Championships|1915]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Irving Wright]] || {{flagicon|USA}} [[Harry Johnson (tennis)|Harry Johnson]]<br>{{flagicon|USA}} [[Hazel Hotchkiss Wightman]] || 0–6, 1–6
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1917 U.S. National Championships|1917]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Irving Wright]] || {{flagicon|USA}} [[Bill Tilden]]<br>{{flagicon|USA}} [[Florence Ballin]] || 10–12, 6–1, 6–3
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1918 U.S. National Championships|1918]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Fred Alexander]] || {{flagicon|USA}} [[Irving Wright]]<br>{{flagicon|USA}} [[Hazel Hotchkiss Wightman]] || 2–6, 3–6
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1920 U.S. National Championships|1920]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Craig Biddle]] || {{flagicon|USA}} [[Wallace F. Johnson|Wallace Johnson]]<br>{{flagicon|USA}} [[Hazel Hotchkiss Wightman]] || 4–6, 3–6
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1921 U.S. National Championships|1921]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Bill Tilden]] || {{flagicon|USA}} [[Bill Johnston (tennis)|Bill Johnston]]<br>{{flagicon|USA}} [[Mary Browne]] || 6–3, 4–6, 3–6
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1922 U.S. National Championships|1922]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Bill Tilden]] || {{flagicon|USA}} [[Howard Kinsey]]<br>{{flagicon|USA}} [[Helen Wills]] || 6–4, 6–3
+|-style="background:#ccf;"
+| style="background:#98fb98;"|Win || [[1923 U.S. National Championships|1923]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Bill Tilden]] || {{flagicon|AUS}} [[John Hawkes (tennis)|John Hawkes]]<br>{{flagicon|GBR}} [[Kathleen McKane Godfree|Kitty McKane]] || 6–3, 2–6, 10–8
+|-style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || [[1924 U.S. National Championships|1924]] || [[US Open (tennis)|U.S. National Championships]] || Grass || {{flagicon|USA}} [[Bill Tilden]] || {{flagicon|USA}} [[Vincent Richards]]<br>{{flagicon|USA}} [[Helen Wills]] || 8–6, 5–7, 0–6
+|}
+
+==Grand Slam singles tournament timeline==
+{{performance key|short=yes|active=no}}
+
+{| class="wikitable"
+|- bgcolor="#efefef"
+! Tournament !! 1909 !! 1910 !! 1911 !! 1912 !! 1913 !! 1914 !! 1915 !! 1916 !! 1917 !! 1918 !! 1919 !! 1920 !! 1921 !! 1922 !! 1923 !! 1924 !! 1925 !! 1926 !! 1927 !! 1928 !! 1929 !! Career SR !! Career<br />Win-Loss
+|-
+| style="background:#EFEFEF;" | [[Australian Open|Australian Championships]]
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" style="background:#EFEFEF;" | '''0 / 0'''
+| align="center" style="background:#EFEFEF;" | '''0–0'''
+|-
+|-
+| style="background:#EFEFEF;" | [[French Open|French Championships]]<sup>1</sup>
+| align="center" | R
+| align="center" | R
+| align="center" | R
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | NH
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" style="background:#afeeee;" | [[1928 French Championships – Women's Singles|2R]]
+| align="center" | A
+| align="center" style="background:#EFEFEF;" | '''0 / 1'''
+| align="center" style="background:#EFEFEF;" | '''1–1'''
+|-
+|-
+| style="background:#EFEFEF;" | [[The Championships, Wimbledon|Wimbledon]]
+| align="center" style="background:#afeeee;" | [[1909 Wimbledon Championships – Women's Singles|2R]]
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | NH
+| align="center" | A
+| align="center" style="background:yellow;" | [[1920 Wimbledon Championships – Women's Singles|SF]]
+| align="center" style="background:#ffebcd;" | [[1921 Wimbledon Championships – Women's Singles|QF]]
+| align="center" style="background:#D8BFD8;" | [[1922 Wimbledon Championships – Women's Singles|F]]
+| align="center" style="background:#ffebcd;" | [[1923 Wimbledon Championships – Women's Singles|QF]]
+| align="center" style="background:#afeeee;" | [[1924 Wimbledon Championships – Women's Singles|2R]]
+| align="center" | A
+| align="center" style="background:yellow;" | [[1926 Wimbledon Championships – Women's Singles|SF]]
+| align="center" style="background:#afeeee;" | [[1927 Wimbledon Championships – Women's Singles|3R]]
+| align="center" style="background:#afeeee;" | [[1928 Wimbledon Championships – Women's Singles|1R]]
+| align="center" style="background:#afeeee;" | [[1929 Wimbledon Championships – Women's Singles|3R]]
+| align="center" style="background:#EFEFEF;" | '''0 / 10'''
+| align="center" style="background:#EFEFEF;" | '''23–14'''
+|-
+|-
+| style="background:#EFEFEF;" | [[US Open (tennis)|U.S. Championships]]
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" | A
+| align="center" style="background:#00ff00;" | '''[[1915 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1916 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1917 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1918 U.S. National Championships – Women's Singles|W]]'''<sup>2</sup>
+| align="center" style="background:yellow;" | [[1919 U.S. National Championships – Women's Singles|SF]]
+| align="center" style="background:#00ff00;" | '''[[1920 U.S. National Championships – Women's Singles|W]]'''<sup>3</sup>
+| align="center" style="background:#00ff00;" | '''[[1921 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#00ff00;" | '''[[1922 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#D8BFD8;" | [[1923 U.S. National Championships – Women's Singles|F]]
+| align="center" style="background:#D8BFD8;" | [[1924 U.S. National Championships – Women's Singles|F]]
+| align="center" style="background:yellow;" | [[1925 U.S. National Championships – Women's Singles|SF]]
+| align="center" style="background:#00ff00;" | '''[[1926 U.S. National Championships – Women's Singles|W]]'''
+| align="center" style="background:#ffebcd;" | [[1927 U.S. National Championships – Women's Singles|QF]]
+| align="center" style="background:yellow;" | [[1928 U.S. National Championships – Women's Singles|SF]]
+| align="center" style="background:yellow;" | [[1929 U.S. National Championships – Women's Singles|SF]]
+| align="center" style="background:#EFEFEF;" | '''8 / 15'''
+| align="center" style="background:#EFEFEF;" | '''65–7'''
+|-
+|-
+| style="background:#EFEFEF;" | SR
+| align="center" style="background:#EFEFEF;" |0 / 1
+| align="center" style="background:#EFEFEF;" |0 / 0
+| align="center" style="background:#EFEFEF;" |0 / 0
+| align="center" style="background:#EFEFEF;" |0 / 0
+| align="center" style="background:#EFEFEF;" |0 / 0
+| align="center" style="background:#EFEFEF;" |0 / 0
+| align="center" style="background:#EFEFEF;" |1 / 1
+| align="center" style="background:#EFEFEF;" |1 / 1
+| align="center" style="background:#EFEFEF;" |1 / 1
+| align="center" style="background:#EFEFEF;" |1 / 1
+| align="center" style="background:#EFEFEF;" |0 / 1
+| align="center" style="background:#EFEFEF;" |1 / 2
+| align="center" style="background:#EFEFEF;" |1 / 3
+| align="center" style="background:#EFEFEF;" |1 / 2
+| align="center" style="background:#EFEFEF;" |0 / 2
+| align="center" style="background:#EFEFEF;" |0 / 2
+| align="center" style="background:#EFEFEF;" |0 / 1
+| align="center" style="background:#EFEFEF;" |1 / 2
+| align="center" style="background:#EFEFEF;" |0 / 2
+| align="center" style="background:#EFEFEF;" |0 / 3
+| align="center" style="background:#EFEFEF;" |0 / 2
+| align="center" style="background:#EFEFEF;" | '''8 / 26'''
+| align="center" style="background:#EFEFEF;" | '''89–22'''
+|-
+|}
+
+R = tournament restricted to French nationals.<br>
+
+<sup>1</sup>Through 1923, the French Championships were open only to French nationals.  The World Hard Court Championships (WHCC), actually played on clay in Paris or Brussels, began in 1912 and were open to all nationalities.  The results from that tournament are shown here from 1912 through 1914 and from 1920 through 1923.  The Olympics replaced the WHCC in 1924, as the Olympics were held in Paris.  Beginning in 1925, the French Championships were open to all nationalities, with the results shown here beginning with that year.
+
+<sup>2</sup>Mrs. Mallory was the first female tennis player to win four consecutive major titles, which happened to be four titles of the same tournament.
+
+<sup>3</sup>Mrs. Mallory was the first female tennis player to reach the quarterfinals at more than one Grand Slam singles tournament within one calender year.
+
+==Personal life==
+She was the daughter of Major Axel Johan Bjurstedt (born 1848) and Anna Benedicte Jenssen (born 1854); Anna Benedicte was the daughter of landowner Benedict Jenssen.
+
+On September 18, 1920, at the age of 36, she married stock broker Franklin Mallory.<ref>{{cite web |title=Molla Mallory history |url=http://www.historyorb.com/people/molla-mallory |publisher=History Orb |accessdate=24 January 2015}}</ref>
+
+== See also ==
+* [[Tennis performance timeline comparison (women)|Performance timelines for all female tennis players who reached at least one Grand Slam final]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category|Molla Mallory}}
+* {{Tennis Hall of Fame}}
+* {{ITF}}
+* {{Sports-Reference|bj/molla-bjurstedt-mallory-1|Molla Bjurstedt-Mallory}}
+* {{IOC profile|margrethe-mallory|Margrethe Mallory}}
+
+{{U.S. National Championships women's singles champions}}
+{{U.S. National Championships women's doubles champions}}
+{{U.S. National Championships mixed doubles champions}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mallory, Molla}}
+[[Category:1884 births]]
+[[Category:1959 deaths]]
+[[Category:Sportspeople from Oslo]]
+[[Category:American female tennis players]]
+[[Category:Norwegian emigrants to the United States]]
+[[Category:Norwegian female tennis players]]
+[[Category:Olympic bronze medalists for Norway]]
+[[Category:Olympic tennis players of Norway]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Tennis players at the 1912 Summer Olympics]]
+[[Category:Tennis players at the 1924 Summer Olympics]]
+[[Category:United States National champions (tennis)]]
+[[Category:Olympic medalists in tennis]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:Grand Slam (tennis) champions in women's doubles]]
+[[Category:Grand Slam (tennis) champions in mixed doubles]]
+[[Category:Medalists at the 1912 Summer Olympics]]
+[[Category:People with acquired American citizenship]]

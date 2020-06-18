@@ -1,0 +1,465 @@
+{{short description|Yugoslav and American retired tennis player}}
+{{Use mdy dates|date=May 2011}}
+{{Infobox tennis biography
+|image = Monica Seles 1999.jpg
+|caption = Seles in 1999
+|country ={{YUG}} (1988–1992)<br/>{{FR-YUG}} (1992–1994)<br/>{{USA}} (1994–)<!-- She played for SFR Yugoslavia, FR Yugoslavia, and United States, see discussion. Don't change without discussion, please. --> 
+|residence = [[Sarasota, Florida]], United States
+|birth_date = {{birth date and age|mf=yes|1973|12|2}}
+|birth_place = [[Novi Sad]], [[SR Serbia]], [[SFR Yugoslavia]]
+|height = {{height|m=1.78|precision=0}}
+|turnedpro = 1989
+|retired = 2008<small> (last match in 2003)</small>
+|plays = Left-handed (two-handed both sides)
+|careerprizemoney = {{US$|14,891,762|link=yes}}
+|tennishofyear = 2009
+|tennishofid = monica-seles
+|singlesrecord = 595–122<small> (82.98%)</small>
+|singlestitles = 53
+|highestsinglesranking = [[List of WTA number 1 ranked tennis players|No. '''1''']] (March 11, 1991)
+|AustralianOpenresult= '''W''' ([[1991 Australian Open – Women's Singles|1991]], [[1992 Australian Open – Women's Singles|1992]], [[1993 Australian Open – Women's Singles|1993]], [[1996 Australian Open – Women's Singles|1996]])
+|FrenchOpenresult = '''W''' ([[1990 French Open – Women's Singles|1990]], [[1991 French Open – Women's Singles|1991]], [[1992 French Open – Women's Singles|1992]])
+|Wimbledonresult = F ([[1992 Wimbledon Championships – Women's Singles|1992]])
+|USOpenresult = '''W''' ([[1991 US Open – Women's Singles|1991]], [[1992 US Open – Women's Singles|1992]])
+|Othertournaments = Yes
+|WTAChampionshipsresult = '''W''' ([[1990 WTA Tour Championships|1990]], [[1991 WTA Tour Championships|1991]], [[1992 WTA Tour Championships|1992]])
+|Olympicsresult = [[File:Bronze medal olympic.svg|15px]] [[Bronze medal]] ([[Tennis at the 2000 Summer Olympics|2000]])
+|doublesrecord = 89–45
+|doublestitles = 6
+|highestdoublesranking = No. 16 (April 22, 1991)
+|AustralianOpenDoublesresult= SF (1991, 2001)
+|FrenchOpenDoublesresult= 3R (1990)
+|WimbledonDoublesresult= QF (1999)
+|USOpenDoublesresult= QF (1999)
+|medaltemplates=
+{{Medal|Sport | Women's tennis}}
+{{Medal|Country|{{flagu|United States}}}}
+{{Medal|Competition|Olympic Games}}
+{{Medal|Bronze|[[2000 Summer Olympics|2000 Sydney]]|[[Tennis at the 2000 Summer Olympics – Women's Singles|Singles]]}}
+| Team=yes
+| FedCupresult = {{flagu|United States}}<br/>'''W''' ([[1996 Fed Cup|1996]], [[1999 Fed Cup|1999]], [[2000 Fed Cup|2000]])
+| HopmanCupresult = {{YUG}}<br/>'''W''' ([[1991 Hopman Cup|1991]])<br/>{{flagu|United States}}<br/> F ([[2001 Hopman Cup|2001]], [[2002 Hopman Cup|2002]])
+}}
+
+'''Monica Seles''' ({{IPAc-en|ˈ|s|ɛ|l|ə|s}}; {{lang-hu|Szeles Mónika}}, {{IPA-hu|ˈsɛlɛʃ ˈmoːnikɒ|pron}}; {{lang-sr|Моника Селеш}}, ''Monika Seleš''; born December 2, 1973) is a retired professional tennis player, who represented [[Yugoslavia]] and the United States. An ethnic [[Hungarians|Hungarian]], she was born and raised in [[Novi Sad]], [[SFR Yugoslavia|Yugoslavia]] (now [[Serbia]]). She became a naturalized [[American citizen]] in 1994 and also received Hungarian citizenship in June 2007.<ref>{{cite web|title= Grossly Abbreviated|url=http://slam.canoe.ca/Slam/Columnists/Gross/2007/07/01/4305162-sun.html |work=[[Canadian Online Explorer]] |date=2007-07-01|accessdate=2008-06-15}}</ref><ref>{{cite web |title=Titokban lett magyar állampolgár Szeles Mónika (Szeles Mónika has become a Hungarian citizen in secret) |work=[[Heti Világgazdaság]] |language=Hungarian |url=http://hvg.hu/itthon/20070607_szeles_monika_allampolgar.aspx?s=24h |date=2007-06-07 |accessdate=2008-05-09}}</ref> A former [[List of WTA number 1 ranked players|world no. 1]], she won nine [[Grand Slam (tennis)|Grand Slam]] singles titles, eight of them as a teenager while representing Yugoslavia, and the final one while representing the United States.
+
+In 1990, Seles became the youngest ever [[1990 French Open|French Open]] champion at the age of 16. She went on to win eight Grand Slam singles titles before her 20th birthday and was the year-end world no. 1 in 1991 and 1992. However, on April 30, 1993, she was the victim of an on-court attack, when a man stabbed her in the back with a {{convert|9|in|cm|adj=on}} long knife. Seles did not return to tennis for over two years.<ref name="stabbed"/> Though she enjoyed some success after rejoining the tour in 1995, including a fourth [[1996 Australian Open|Australian Open title in 1996]], she was unable to consistently reproduce her best form. She played her last professional match at the [[2003 French Open]], but did not officially retire until February 2008.
+
+Regarded by many in the sport as one of the greatest tennis players of all time, Seles was named one of the "30 Legends of Women's Tennis: Past, Present and Future" by ''[[Time (magazine)|Time]]''.<ref name=tm>{{cite magazine|title=30 Legends of Women's Tennis: Past, Present and Future – Monica Seles|url=http://www.time.com/time/specials/packages/article/0,28804,2079150_2079148_2079130,00.html|magazine=TIME|accessdate=August 19, 2011|author=William Lee Adams|date=June 22, 2011}}</ref> Several players and historians have stated that Seles had the potential to become the most accomplished female player of all time had she not been stabbed.<ref name=guardian>{{cite news|url=https://www.theguardian.com/sport/2009/jul/05/monica-seles-interview |title=Interview: Monica Seles |first=Tim |last=Adams |work=theguardian.com |date=2009-07-04 |accessdate=2017-06-06}}</ref><ref name=espnw>{{cite news|url=http://www.tennis.com/pro-game/2013/05/navratilova-seles-would-have-won-most-slams/47293/ |title=Navratilova: Seles would have won most Slams |first=Matt |last=Cronin |work=tennis.com |date=2013-05-01 |accessdate=2017-06-06}}</ref><ref name=article>{{cite news|url=http://www.tennis.com/pro-game/2013/04/20-years-later-remembering-monica-seless-stabbing/47277/ |title=20 Years Later: Remembering Monica Seles' Stabbing |first=Jonathan |last=Scott |work=Tennis.com |date=2012-04-30 |accessdate=2017-05-27}}</ref> She was inducted into the [[International Tennis Hall of Fame]] in 2009.
+
+==Early life and career==
+Seles was born in Yugoslavia into an [[Hungarians in Vojvodina|ethnic Hungarian]] family. Her parents are Ester and Karolj<ref>{{cite web|url=http://www.wtatennis.com/players/player/7354|title=Players|publisher=}}</ref> (Eszter and Károly in Hungarian)<ref>{{cite web | url=https://hungarytoday.hu/hungarian-roots-monica-seles-monika-szeles-former-world-class-tennis-player-16693/ | title=Hungarian roots | accessdate=2 July 2019}}</ref> and she has an older brother, Zoltán. She began playing tennis at age five, coached by her father, a professional [[cartoonist]] employed for decades at the ''[[Dnevnik (Serbia)|Dnevnik]]'' and ''[[Magyar Szó]]'' newspapers,<ref>[http://yugopapir.blogspot.ca/2013/03/najbolja-jugoslovenska-teniserka-monika.html Najbolja jugoslovenska teniserka Monika Seleš (1.deo) – Naša Mala Mo!];''Studio'', 1990</ref> who drew pictures for her to make her tennis more fun. He is responsible for developing her two-handed style for both the forehand and backhand.<ref>Seles, Monica with Nancy Ann Richardson (1996) Monica From Fear to Victory</ref> Later, her coach was [[Jelena Genčić]]. In 1985, at the age of 11, she won the [[Junior Orange Bowl]] tournament in [[Miami]], Florida, catching the attention of tennis coach [[Nick Bollettieri]]. In early 1986, Seles and her brother Zoltán moved from Yugoslavia to the United States, and Seles enrolled at the Nick Bollettieri Tennis Academy, where she trained for two years and continued to practice until March 1990. Nine months after their arrival at the Academy, Seles' mother and father joined her and Zoltán in Florida.
+
+Seles played her first professional tournament as an amateur in 1988 at age 14. The following year she turned professional on February 13, 1989, and joined the professional tour full-time, winning her first career title at [[Houston, Texas|Houston]] in May 1989, where she beat the soon-to-retire [[Chris Evert]] in the final. A month later, Seles reached the semifinals of her first [[Grand Slam (tennis)|Grand Slam]] singles tournament at the French Open, losing to then-world no. 1 [[Steffi Graf]]. Seles finished her first year on the tour ranked world no. 6.
+
+==Tennis career==
+
+===1990–92===
+{{more citations needed|section|date=April 2018}}<!--only one citation in section-->
+After a slow start at the beginning of the season, Seles went on a 36-match winning streak and won 6 consecutive tournaments starting in Miami at the Lipton Player's Championships. During that winning streak she also won the U.S. Hard Court Championships (San Antonio, Texas), the Eckerd Open (Tampa, Florida), the Italian Open, and the Lufthansa Cup in Berlin, Germany (defeating Steffi Graf in the final in straight sets). Seles then won her first [[Grand Slam (tennis)|Grand Slam]] singles title at the [[1990 French Open]]. Facing world no. 1 Steffi Graf in the final, Seles saved four set points in a first-set tiebreaker, which she won 8–6, and went on to take the match in straight sets. In doing so, she became the youngest-ever French Open singles Champion at the age of 16 years, 6 months. Her winning streak was stopped by [[Zina Garrison]] at Wimbledon in the quarterfinals, where Seles had a match point before Garrison eventually won 9–7 in the 3rd set. Seles then won the Virginia Slims of Los Angeles title against Martina Navratilova and then defeated Navratilova again in winning the Oakland California tournament, in straight sets. She also won the 1990 year-end [[WTA Tour Championships|Virginia Slims Championships]], defeating [[Gabriela Sabatini]] in five sets (in the first five-set women's match since 1901 US National Championships), becoming the youngest to ever win the Season-Ending Championships. She finished the year ranked world no. 2.
+
+1991 was the first of two years in which Seles dominated the women's tour. She started out by winning the Australian Open in January, beating [[Jana Novotná]] in the final. In March, she replaced Graf as the world no. 1. She then successfully defended her French Open title, beating the former youngest-ever winner, [[Arantxa Sánchez Vicario]], in the final. Unable to play at [[The Championships, Wimbledon|Wimbledon]], suffering from [[shin splints]], Seles took a six-week break. But she was back in time for the [[US Open (tennis)|US Open]], which she won by beating [[Martina Navratilova]] in the final, her third Grand Slam title of the year, to cement her position at the top of the world rankings. She also won the year-end Virginia Slims Championships for the second consecutive time, defeating Navratilova in four sets. At the end of season, Seles had won 10 out of the 16 tournaments she entered (reaching the final of every tournament that she entered that year). She ended the year as the no. 1 ranked player in the world.
+
+[[File:Monica Seles 1991.jpg|thumb|left|Seles at the 1991 [[Connecticut Open (tennis)|U.S. Women's Hard Court Championships]] in San Antonio]]
+1992 was an equally dominant year. Seles successfully defended her titles at the Australian Open, the French Open, and the US Open. She also reached her first-ever final at Wimbledon, but lost to Graf. During Wimbledon, Seles encountered difficulty because of her habit of grunting or shrieking loudly when hitting shots. Her quarterfinal opponent [[Nathalie Tauziat]] was the first to complain to the chair umpire about it. During the third set of her semi-final match against [[Martina Navratilova]], Navratilova also complained to the chair umpire about the grunting after Seles went up a break at 4–2. Seles ended up losing the game and the break, but broke back and closed out the match.<ref>{{cite news |url=http://articles.latimes.com/1992-07-03/sports/sp-1393_1_monica-seles |title=WIMBLEDON : Seles Quiets Navratilov |first=Thomas |last=Bonk |work=[[Los Angeles Times]] |date=1992-07-03 |access-date=2018-04-28 |df=mdy-all}}</ref>
+
+From January 1991 through February 1993, Seles won 22 titles and reached 33 finals out of the 34 tournaments she played. She compiled a 159–12 win-loss record (92.9% winning percentage), including a 55–1 win-loss record (98%) in Grand Slam tournaments. In the broader context of her first four years on the circuit (1989–1992), Seles had a win-loss record of 231–25 (90.2%) and collected 30 titles. She once again ended the year as the #1 ranked player in the world.
+
+===1993 stabbing attack===
+Seles was the top ranked women's player heading into 1993, having won the [[French Open]] for three consecutive years and both the [[US Open (tennis)|US Open]] and [[Australian Open]] in consecutive years. In January 1993, Seles defeated Graf in the final of the Australian Open, which to date was her third win in four [[Grand Slam (tennis)|Grand Slam]] finals against Graf. She then won the Virginia Slims of Chicago over Martina Navratilova in three sets. This was the last title that Seles won before the attack in Hamburg, Germany.
+
+On April 30 during a quarterfinal match with [[Magdalena Maleeva]] in [[WTA Hamburg|Hamburg]] in which Seles was leading, Günter Parche, an obsessed fan of Steffi Graf, ran from the middle of the crowd to the edge of the court during a break between games and stabbed Seles with a [[boning knife]] between her shoulder blades, to a depth of 1.5&nbsp;cm (0.59&nbsp;inches). She was quickly taken to a hospital. Although her physical injuries took only a few weeks to heal, she did not return to competitive tennis for more than two years. Initially, there was speculation that the attack might have been politically motivated because Seles was from Yugoslavia. She was known to have received death threats in relation to the [[Yugoslav Wars]]. However, German authorities were quick to rule this out, describing her attacker as confused and possibly mentally disturbed.<ref name=stabbed>{{cite news|title=1993: Tennis star stabbed |work=On This Day 30&nbsp;April 1993 |publisher=BBC |url= http://news.bbc.co.uk/onthisday/hi/dates/stories/april/30/newsid_2499000/2499161.stm |date=1993-04-30 |accessdate=2011-07-17}}</ref>
+
+Parche was charged following the incident, but only spent less than 6 months in pre-trial detention.<ref>{{cite magazine |first=Giesla |last=Friedrichsen |title=Prozesse: Hätten Sie gern eine Frau? |date=March 27, 1995 |magazine=Der Spiegel |url =https://www.spiegel.de/spiegel/print/d-9177083.html}}</ref> In his trial, he was found to be psychologically abnormal, and was sentenced to two years' probation and psychological treatment. The incident prompted a significant increase in the level of security at tour events.<ref name=stabbed /> At that year's [[The Championships, Wimbledon|Wimbledon]], the players' seats were positioned with their backs to the umpire's chair, rather than the spectators. Seles, however, disputed the effectiveness of these measures. She was quoted in 2011 as saying "From the time I was stabbed, I think the security hasn't changed".<ref>{{cite news | last =O'Sullivan | first =John | title =Seles still has issues with security | work=The Irish Times | date =2011-04-09 | url = http://www.irishtimes.com/newspaper/sport/2011/0409/1224294297903.html | accessdate =2011-04-15 }}</ref> Seles vowed never to play tennis in Germany again, disenchanted by the [[German legal system]]. "What people seem to be forgetting is that this man stabbed me intentionally and he did not serve any sort of punishment for it ... I would not feel comfortable going back. I don't foresee that happening."<ref>{{cite news |first=Stephen |last=Wood |title=WTA Under Fire from Seles |date=November 16, 2000 |publisher=BBC |url =http://news.bbc.co.uk/sport1/hi/tennis/1025898.stm |work=BBC Sport }}</ref> In a later article, ''Tennis.com'' reported that Parche was living in nursing homes due to additional health problems.<ref name=article/>
+
+Graf visited Seles while she was hospitalized.<ref name=articletwo>{{cite news|url=http://www.tennis.com/pro-game/2013/05/navratilova-seles-would-have-won-most-slams/47293/ |title=Navratilova: Seles would have won most Slams |first=Matt |last=Cronin |work=Tennis.com |date=2013-05-01 |accessdate=2017-06-06}}</ref> [[Young Elders]], a band from Melbourne, Australia, sent their song called "Fly Monica Fly" to Seles while she was recuperating from the stabbing incident. She later said that the song provided inspiration to her at that time, and subsequently met the band (who later changed their name to the Monicas) following her victory at the Australian Open in 1996.<ref>{{cite book|year=1996|title=Monica: From Fear to Victory|url=https://archive.org/details/monicafromfearto00sele|url-access=registration| first1= Monica | last1= Seles| first2= Nancy Ann | last2= Richardson
+| publisher= HarperCollins| edition= 1998| isbn= 9780006388005}}</ref> The stabbing incident is the subject of [[Dan Bern]]'s 1998 tribute to Seles, [[Fifty Eggs (album)|"Monica"]]. Additionally, American band [[Majesty Crush]] paid tribute with "Seles" from the 1993 album ''Love-15''.
+
+The WTA suggested that Seles' [[List of WTA number 1 ranked players|No. 1 ranking]] be preserved during her absence, but did not do so.<ref name="newyork1995">{{cite journal |journal=New York Magazine|url=https://books.google.com/books?id=kOMCAAAAMBAJ&pg=PA78|accessdate=8 July 2015 |publisher=New York Media, LLC|page=78|title=Comeback: Back stabbers |date=31 July 1995}}</ref> According to Seles' autobiography, all active tour players opposed the idea except [[Gabriela Sabatini]], who abstained.<ref name="it61008">{{cite news| url= http://www.irishtimes.com/sport/seles-is-back-in-the-limelight-1.61008|title=Seles is back in the limelight|date=26 June 1996|work=[[The Irish Times]]|accessdate=7 July 2015}}</ref><ref name="canchallena">{{cite web |archiveurl= https://web.archive.org/web/20170730063335/http://www.lanacion.com.ar/1630170-gaby-sabatiniahora-disfruto-de-todo-lo-que-no-hice-cuando-jugaba |archivedate= 30 July 2017|url=http://canchallena.lanacion.com.ar/1630170-gaby-sabatiniahora-disfruto-de-todo-lo-que-no-hice-cuando-jugaba |language=Spanish |title=Gaby Sabatini. "Ahora disfruto de todo lo que no hice cuando jugaba" |first= Sebastián |last=Torok |work=canchallena.com}}</ref> A vote was held at a tournament in Rome in 1993, and of 17 of the top players – Graf did not participate in the tournament and was thus absent – only Sabatini abstained.
+
+===Comeback===
+Seles returned to the tour in August 1995. In the runup to her comeback, then-WTA president [[Martina Navratilova]] proposed that Seles be reinstated alongside Steffi Graf as joint number one.<ref name="newyork1995"/> The WTA did so despite some opposition from players including [[Arantxa Sánchez Vicario]] and [[Gigi Fernández]], whose tournament placements would suffer greatly by suddenly being placed behind Seles.<ref name="newyork1995"/><ref name="wheel">{{cite web | url=https://www.nytimes.com/1995/08/24/sports/tennis-it-s-not-easy-being-the-third-wheel.html | title=NY Times: It's not easy being a third wheel | accessdate=8 July 2015}}</ref> Graf supported Seles' co-ranking, but not the additional proposal that Seles' co-ranking not be determined by the minimum participation of 12 tournaments a year required of everyone else. Graf felt that would give Seles an unfair advantage in the rankings.<ref name="newyork1995"/> Seles won her first comeback tournament, the [[1995 Canadian Open (tennis)|Canadian Open]], beating [[Amanda Coetzer]] in the final and setting a tournament record for the fewest games dropped by the champion throughout the tournament (14).
+
+The following month at the [[US Open (tennis)|US Open]], Seles reached the final defeating world No.10 [[Anke Huber]], No. 4 Jana Novotná, and No. 3 Conchita Martínez (all in straight sets), but lost to Graf in the final.
+
+In January 1996, Seles won her fourth Australian Open, beating Anke Huber in the final. Her pivotal match was the semifinal vs rising American star Chanda Rubin who led her 5–3 in the final set, and had 2 break points to lead 5–1. Seles came back from 2 points from defeat to triumph and reach the final. This was to be Seles' last [[Grand Slam (tennis)|Grand Slam]] title, as she struggled to recapture her best form on a consistent basis. Seles was the runner-up at the US Open to Steffi Graf again in 1996. Seles' last Grand Slam final came at the French Open in 1998, just a few weeks after the death of her father and former coach, Karolj, from cancer. In the run to the final she had defeated world no. 3 [[Jana Novotná]] in three sets and world no. 1 [[Martina Hingis]] in straight sets, but lost to Sánchez Vicario in the three-set final.
+
+While she did not reach another [[Grand Slam (tennis)|Grand Slam]] singles final, she did consistently reach the quarterfinal and semifinal stages in those tournaments and was a fixture in the WTA Tour's top 10. In 2002, her last full year on the tour, she finished the year ranked world no. 7, defeated [[Venus Williams]], [[Martina Hingis]], [[Jennifer Capriati]], [[Justine Henin]], [[Maria Sharapova]], [[Kim Clijsters]], and [[Lindsay Davenport]], and reached at least the quarterfinals at each Grand Slam tournament.
+
+Seles competed at the [[Tennis at the 1996 Summer Olympics – Women's Singles|1996 Olympic Games]] in Atlanta, where she beat Sabatini in a third round match before losing to Jana Novotná in the quarterfinals. Four years later, at the [[Tennis at the 2000 Summer Olympics – Women's Singles|2000 Olympic Games]] in Sydney, Seles captured her first Olympic medal, a bronze in singles. She defeated [[Jelena Dokic]] in the bronze medal match, after pushing eventual gold medalist Venus Williams to a tough 3 setter in the semis, losing 6–3 in the final set.
+
+After becoming a U.S. citizen in 1994, Seles helped the U.S. team win the [[Fed Cup]] in 1996, 1999, and 2000.
+
+===Hiatus and retirement===
+[[File:Monica Seles.jpg|thumb|Seles in the 2007 exhibition against [[Martina Navratilova]] in [[New Orleans, Louisiana]]]]
+In the spring of 2003, Seles sustained a foot injury. She was forced to withdraw during the second set of a match against [[Nadia Petrova]] at the [[Italian Open (tennis)|Italian Open]]. Then, a couple of weeks later and still injured, she lost in straight sets to the same player in the first round of the [[2003 French Open]]. It was the only time she ever lost a first-round match at a Grand Slam. She never again played an official tour match.<ref>[http://www.sonyericssonwtatour.com/2/players/playerprofiles/PlayerActivity.asp?PlayerID=190141 Monica Seles playing activity] [[WTA Tour]] website</ref>
+
+In February 2005, Seles played two exhibition matches in New Zealand against Navratilova. Despite losing both matches, she played competitively and announced that she could return to the game early in 2006; however, she did not do so. She played three exhibition matches against Navratilova in 2007. On April 5, she defeated Navratilova in Houston, Texas, on [[clay court|clay]].<ref>[http://www.tennis.com/backcourt/general/backcourt.aspx?id=73172 Seles Sighting: Monica plays Martina in exhibition] {{webarchive|url=https://web.archive.org/web/20080209034256/http://www.tennis.com/backcourt/general/backcourt.aspx?id=73172 |date=February 9, 2008 }}</ref> On September 14, Seles defeated Navratilova on an indoor court in [[New Orleans, Louisiana]]. On September 16, she beat her on clay in Bucharest.<ref>{{cite web|url=http://www.womenstennisblog.com/2007/09/17/monica-seles-defeats-martina-navratilova-in-exhibition-match-in-bucharest |title=Monica Seles defeats Martina Navratilova in exhibition match in Bucharest |publisher=Womenstennisblog.com |date=2007-09-17 |accessdate=2011-07-04}}</ref>
+
+In December 2007, Seles told the press that [[Lindsay Davenport]]'s successful return to the tour had inspired her to consider her own limited comeback to play [[Grand Slam (tennis)|Grand Slam]] tournaments and the major warm-up events for those tournaments. However, on February 14, 2008, Seles announced her official retirement from professional tennis.<ref>{{cite web|url=http://www.sonyericssonwtatour.com/1/newsroom/stories/?ContentID=2045 |title=Seles Announces Retirement From Professional Tennis |publisher=Sonyericssonwtatour.com |date= |accessdate=2011-07-04}}</ref>
+
+In January 2009, Seles was elected to the [[International Tennis Hall of Fame]].<ref>{{cite news| url=https://www.nytimes.com/2009/01/16/sports/tennis/16tennis.html?_r=1 | work=[[The New York Times]] | title=Seles Is Elected to Hall of Fame | first=Liz | last=Robbins | date=January 16, 2009}}</ref>
+
+===Assessment===
+[[File:Seles outfit and racket.jpg|thumb|200px|Seles' outfit at the [[Tennis Hall of Fame]] Museum at the [[Newport Casino]], [[Newport, Rhode Island]]]]
+Seles is widely regarded as one of the greatest tennis players of all time.<ref>{{cite news|url=http://www.ibtimes.com/top-10-womens-tennis-players-all-time-where-does-serena-williams-rank-list-greatest-2073830|title=Top 10 Women's Tennis Players Of All-Time: Where Does Serena Williams Rank On List Of Greatest Ever?|newspaper=International Business Times|author1=Jason Le Miere|date=28 August 2015|accessdate=30 January 2017}}</ref><ref>{{cite news|url=https://www.bbc.com/sport/tennis/38769292|title=Serena Williams: Is she your greatest female player of the Open era?|work=BBC Sport|date=28 January 2017|accessdate=30 January 2017}}</ref><ref>{{cite web|url=http://www.espn.com/espn/feature/story/_/id/16371992/tennis-top-20-all|title=Tennis' Top 20 of All Time|publisher=ESPN|author1=Greg Garber|author2=Thomas Neumann|author3=Johnette Howard|date=23 June 2016|accessdate=30 January 2017}}</ref> In 2012, Tennis Channel created a list of the [[100 Greatest of All Time|100 greatest]] tennis players. Seles was listed at #19.
+
+Seles won eight Grand Slam titles during her teenage years. However, her career was greatly affected by the stabbing incident. Some involved with the sport have declared that Seles could have become the most accomplished female player. In an article written 20 years after Seles was stabbed, Jonathan Scott of ''Tennis.com'' stated, "Would Monica Seles have been the greatest female tennis player ever? The world will never know."<ref name=article/> In a 2013 interview, Martina Navratilova theorized that if Seles had not been stabbed, "We'd be talking about Monica with the most Grand Slam titles [ahead of] [[Margaret Court]] or Steffi Graf."<ref name=espnw/> Mary Joe Fernandez declared that Seles would have at least doubled her Grand Slam championship tally, had she not been attacked.<ref name=espnw/> Tim Adams of ''[[The Guardian]]'' stated that Seles would have become "the greatest female tennis player ever to pick up a racket."<ref name=guardian/>
+
+During the height of her career (the 1990 French Open through the 1993 Australian Open), she won eight of the 11 Grand Slam singles tournaments she contested. With eight Grand Slam singles titles before her 20th birthday, Seles holds the record for most Grand Slam singles titles won as a teenager in the Open Era.
+
+Until her loss to [[Martina Hingis]] at the [[1999 Australian Open]], Seles had a perfect record at the event (33–0), which is the longest undefeated streak for this tournament (although Margaret Court won 38 consecutive matches there from 1960 to 1968 after losing a match in 1959). It also marked her first defeat in Australia, having won the [[Medibank International|Sydney tournament]] in 1996. Seles was the first female tennis player to win her first six [[Grand Slam (tennis)|Grand Slam]] singles finals: [[1990 French Open]], [[1991 Australian Open]], [[1991 French Open]], [[1991 US Open (tennis)|1991 US Open]], [[1992 Australian Open]], and [[1992 French Open]]. Seles was also the first female player since [[Hilde Krahwinkel Sperling]] in 1937 to win the women's singles title three consecutive years at the French Open, a feat subsequently achieved by [[Justine Henin]] in 2005–7. (Also, [[Chris Evert]] won the title in four consecutive appearances in 1974, 1975, 1979, and 1980).
+
+Shortly after her retirement, ''[[Sports Illustrated]]'' writer [[Jon Wertheim]] summed up her later career:
+{{quote|Yet, transformed from champion to tragedienne, Seles became far more popular than she was while winning all those titles. It became impossible to root against her. At first, out of sympathy. Then, because she revealed herself to be so thoroughly thoughtful, graceful, dignified. When she quietly announced her retirement last week at age 34, she exited as perhaps the most adored figure in the sport's history. As happy endings go, one could do worse.<ref>{{cite news|url=http://sportsillustrated.cnn.com/2008/writers/jon_wertheim/02/20/mailbag/index.html |title=Tennis Mailbag: Saluting Seles |first=Jon |last=Wertheim |work=SportsIllustrated.com |date=2008-02-20 |accessdate=2008-02-27}}</ref>}}
+
+She was inducted into the [[International Tennis Hall of Fame]] on July 11, 2009. In 2011, Seles was named one of the "30 Legends of Women's Tennis: Past, Present and Future" by ''[[Time (magazine)|Time]]''.<ref name=tm/>
+
+==Coaches, equipment and endorsements==
+
+Seles had many coaches through the years. These included: Karoly Seleš (1979–1996), [[Jelena Genčić]] (1980–1986), [[Nick Bollettieri]] (1986–1990), [[Sven Groeneveld]] (1991–1992), Gavin Hopper (1997–1998), Bobby Banck (1999–2001), Mike Sell (2001–2002), and [[David Nainkin]] (2003).{{fact|date=April 2020}}
+
+In the early 1990s, Seles signed a $4-million endorsement contract with [[Fila (company)|Fila]] to promote its footwear and tennis apparel.<ref>{{cite news|url=http://articles.latimes.com/1990-06-26/business/fi-640_1_tennis-star |title=Athletic Firms Going to the Net in Quest for Next Tennis Celebrity |newspaper=The Los Angeles Times |date=June 26, 1990 |first=Bruce |last=Horovitz |accessdate=September 11, 2014 }}</ref> She used a [[Prince original graphite]] racquet on court.<ref>{{cite news|url=http://www.theaustralian.com.au/business/wall-street-journal/finding-the-spin/story-fnay3ubk-1226410204866?nk=ff5b5e1a7e3b23eca0390c14fd756c7e |title=Finding the spin may be a racquet |newspaper=The Australian |date=June 30, 2012 |first=Tom |last= Perrotta |accessdate=September 11, 2014 }}</ref> In August of the 1990 season, Seles switched to a Yonex racquet.
+
+When she returned to the tour in 1995 after the stabbing sabbatical, Seles wore apparel by [[Nike, Inc.|Nike]] and used a Yonex racquet on court.
+
+In the 2000s, Seles wore apparel by Yonex and used [[Yonex]] SRQ Ti-800 Pro Long racquet on court.<ref>{{cite web|url=http://www.sportsbusinessdaily.com/Journal/Issues/2000/08/20000828/No-Topic-Name/WHAT-THEYRE-WEARING-AND-HITTING-WITH-AT-THE-US-OPEN.aspx |title=WHAT THEY'RE WEARING (AND HITTING WITH) AT THE U.S. OPEN |publisher=SportsBusiness Journal |date=28 August 2000 |accessdate=10 September 2014 }}</ref>
+
+==Personal life==
+On April 21, 2009, Seles released her [[memoir]] ''Getting A Grip: On My Body, My Mind, My Self'' which chronicles her bout with depression and [[binge eating disorder]] (BED) after her stabbing, her father's [[cancer]] diagnosis and eventual death, her journey back to the game and a life beyond tennis.<ref>{{Cite news|url=https://www.npr.org/templates/story/story.php?storyId=103289593|title=Monica Seles On 'Getting A Grip' After Tragedy|newspaper=NPR.org|language=en|access-date=2017-01-30}}</ref>
+
+Seles is married to businessman [[Tom Golisano]],<ref name= yacht>{{cite news| url= http://www.espn.com/espn/story/_/id/21404458/billionaire-thomas-golisano-husband-monica-seles-suing-yacht-renovations | agency= Associated Press| title= Former Sabres owner Thomas Golisano sues over yacht renovations| date= November 17, 2017 | location= Rochester, New York | website= ESPN.com| access-date= January 21, 2018}}</ref> who is 32 years her senior. They began dating in 2009.<ref>{{cite web|last=Wilson |first=Greg |url= http://www.nbcnewyork.com/news/archive/Seles-Nets-Billionaire-Twice-Her-Age.html |title=Monica Seles Courting Billionaire, 67 |publisher= NBC New York |date= |accessdate=2011-12-20}}</ref><ref>{{cite news |last=Abelson |first=Max |via=europac.com |work=[[Business Week]] |url=http://www.europac.com/news/bankers_join_billionaires_debunk_'imbecile'_attack_top_1 |title=Bankers Seek to Debunk Attack on Top 1% |publisher=Bloomberg |date=December 20, 2011 |accessdate=2011-12-20 }}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The two announced their engagement on June 5, 2014.<ref>{{cite web|url=http://cnycentral.com/news/local/upstate-billionaire-tom-golisano-reveals-engagement-to-tennis-star-monica-seles |title= Upstate Billionaire Tom Golisano reveals engagement to tennis star Monica Seles |last= Benny |first= Michael| date=2014-06-06| publisher =WSTM|website= CNYCentral.com| access-date=2017-01-30}}</ref>
+
+As of 2015, Seles is a paid spokesperson for Shire Pharmaceuticals, the makers of the first drug approved by the [[Food and Drug Administration]] to treat BED, to raise awareness of the disorder she has suffered from since she was a young adult. Seles would eat normal amounts of food at meals, and then secretly eat large amounts of junk food when she was alone.<ref>{{Cite news| url= https://www.usatoday.com/story/sports/tennis/2015/03/08/monica-seles-gabriela-sabatini-exhibition-new-york/24609499/|title=Monica Seles sheds light on binge eating disorder|newspaper=[[USA Today]]|author=Casey, Tim|language=en| date=Mar 11, 2015|access-date=2017-01-30}}</ref>
+
+==In popular culture==
+In 1994, ''[[Seinfeld (TV series)|Seinfeld]]'' featured an episode in which the creators fictionalized Monica's return to the US Open after her stabbing. In 1996, Seles made a guest appearance in the TV sitcom ''[[The Nanny]]''.<ref>{{cite news|title=The Nanny|url=https://news.google.com/newspapers?id=opksAAAAIBAJ&sjid=pfwDAAAAIBAJ&pg=5821,68672&dq=monica+seles+the-nanny&hl=en|accessdate=November 5, 2012|newspaper=Lakeland Ledger|date=March 11, 1996}}</ref> She also appeared in 2008 in the TV series ''[[Dancing with the Stars]]'' as one of the contestants.<ref>{{cite news|title=Meet Dancing Stars Monica Seles and Cristian de la Fuente|url=http://www.tvguide.com/dancing-stars/meet-dancing-stars-10240.aspx|accessdate=November 5, 2012|newspaper=TV Guide|date=March 14, 2008}}</ref>
+
+==Career statistics==
+{{Main|Monica Seles career statistics}}
+
+===Grand Slam singles finals: 13 finals (9 titles, 4 runner-ups)===
+
+{|class="sortable wikitable" style=font-size:97%
+|-
+!Result
+!Year
+!width=200|Tournament
+!Surface
+!width=200|Opponent
+!style="width:125px;" class="unsortable"|Score
+|- style="background:#ebc2af;"
+|bgcolor=98FB98|Win
+|[[1990 French Open – Women's Singles|1990]]
+|[[French Open]]
+|Clay
+|{{flagicon|GER}} [[Steffi Graf]]
+|7–6<sup>(8–6)</sup>, 6–4
+|- style="background:#ffc;"
+|bgcolor=98FB98|Win
+|[[1991 Australian Open – Women's Singles|1991]]
+|[[Australian Open]]
+|Hard
+|{{flagicon|Czechoslovakia}} [[Jana Novotná]]
+|5–7, 6–3, 6–1
+|- style="background:#ebc2af;"
+|bgcolor=98FB98|Win
+|[[1991 French Open – Women's Singles|1991]]
+|French Open <small>(2)</small>
+|Clay
+|{{flagicon|ESP}} [[Arantxa Sánchez Vicario]]
+|6–3, 6–4
+|- style="background:#ccf;"
+|bgcolor=98FB98|Win
+|[[1991 US Open – Women's Singles|1991]]
+|[[US Open (tennis)|US Open]]
+|Hard
+|{{flagicon|USA}} [[Martina Navratilova]]
+|7–6<sup>(7–1)</sup>, 6–1
+|- style="background:#ffc;"
+|bgcolor=98FB98|Win
+|[[1992 Australian Open – Women's Singles|1992]]
+|Australian Open <small>(2)</small>
+|Hard
+|{{flagicon|USA}} [[Mary Joe Fernández]]
+|6–2, 6–3
+|- style="background:#ebc2af;"
+|bgcolor=98FB98|Win
+|[[1992 French Open – Women's Singles|1992]]
+|French Open <small>(3)</small>
+|Clay
+|{{flagicon|GER}} Steffi Graf
+|6–2, 3–6, 10–8
+|- style="background:#cfc;"
+|bgcolor=FFA07A|Loss
+|[[1992 Wimbledon Championships – Women's Singles|1992]]
+|[[The Championships, Wimbledon|Wimbledon]]
+|Grass
+|{{flagicon|GER}} Steffi Graf
+|2–6, 1–6
+|- style="background:#ccf;"
+|bgcolor=98FB98|Win
+|[[1992 US Open – Women's Singles|1992]]
+|US Open <small>(2)</small>
+|Hard
+|{{flagicon|ESP}} Arantxa Sánchez Vicario
+|6–3, 6–3
+|- style="background:#ffc;"
+|bgcolor=98FB98|Win
+|[[1993 Australian Open – Women's Singles|1993]]
+|Australian Open <small>(3)</small>
+|Hard
+|{{flagicon|GER}} Steffi Graf
+|4–6, 6–3, 6–2
+|- style="background:#ccf;"
+|bgcolor=FFA07A|Loss
+|[[1995 US Open – Women's Singles|1995]]
+|US Open
+|Hard
+|{{flagicon|GER}} Steffi Graf
+|6–7<sup>(6–8)</sup>, 6–0, 3–6
+|- style="background:#ffc;"
+|bgcolor=98FB98|Win
+|[[1996 Australian Open – Women's Singles|1996]]
+|Australian Open <small>(4)</small>
+|Hard
+|{{flagicon|GER}} [[Anke Huber]]
+|6–4, 6–1
+|- style="background:#ccf;"
+|bgcolor=FFA07A|Loss
+|[[1996 US Open – Women's Singles|1996]]
+|US Open
+|Hard
+|{{flagicon|GER}} Steffi Graf
+|5–7, 4–6
+|- style="background:#ebc2af;"
+|bgcolor=FFA07A|Loss
+|[[1998 French Open – Women's Singles|1998]]
+|French Open
+|Clay
+|{{flagicon|ESP}} Arantxa Sánchez Vicario
+|6–7<sup>(5–7)</sup>, 6–0, 2–6
+|}
+
+===Singles performance timeline===
+{{Performance key|short=yes|active=no}}
+{|class=wikitable style=text-align:center;font-size:96%
+|-
+| colspan="1" |
+| colspan="7" |Yugoslavia
+| colspan="9" |United States
+| colspan="2" |
+|-
+!Tournament!!1988!!1989!!1990!!1991!!1992!!1993!!1994!!1995!!1996!!1997!!1998!!1999!!2000!!2001!!2002!!2003!!style="width:40px;"|SR!!width=40|W–L
+|-
+| colspan="19" style="text-align:left;"|'''Grand Slam tournaments'''
+|-
+|align=left|[[Australian Open]]
+|A
+|A
+|A
+|bgcolor=lime|'''[[1991 Australian Open – Women's Singles|W]]'''
+|bgcolor=lime|'''[[1992 Australian Open – Women's Singles|W]]'''
+|bgcolor=lime|'''[[1993 Australian Open – Women's Singles|W]]'''
+|A
+|A
+|bgcolor=lime|'''[[1996 Australian Open – Women's Singles|W]]'''
+|A
+|A
+| style="background:yellow;"|[[1999 Australian Open – Women's Singles|SF]]
+|A
+|bgcolor=ffebcd|[[2001 Australian Open – Women's Singles|QF]]
+| style="background:yellow;"|[[2002 Australian Open – Women's Singles|SF]]
+|bgcolor=afeeee|[[2003 Australian Open – Women's Singles|2R]]
+|4 / 8
+|43–4
+|-
+|align=left|[[French Open]]
+|A
+| style="background:yellow;"|[[1989 French Open – Women's Singles|SF]]
+|bgcolor=lime|'''[[1990 French Open – Women's Singles|W]]'''
+|bgcolor=lime|'''[[1991 French Open – Women's Singles|W]]'''
+|bgcolor=lime|'''[[1992 French Open – Women's Singles|W]]'''
+|A
+|A
+|A
+|bgcolor=ffebcd|[[1996 French Open – Women's Singles|QF]]
+| style="background:yellow;"|[[1997 French Open – Women's Singles|SF]]
+|bgcolor=D8BFD8|[[1998 French Open – Women's Singles|F]]
+| style="background:yellow;"|[[1999 French Open – Women's Singles|SF]]
+|bgcolor=ffebcd|[[2000 French Open – Women's Singles|QF]]
+|A
+|bgcolor=ffebcd|[[2002 French Open – Women's Singles|QF]]
+|bgcolor=afeeee|[[2003 French Open – Women's Singles|1R]]
+|3 / 11
+|54–8
+|-
+|align=left|[[The Championships, Wimbledon|Wimbledon]]
+|A
+|bgcolor=afeeee|[[1989 Wimbledon Championships – Women's Singles|4R]]
+|bgcolor=ffebcd|[[1990 Wimbledon Championships – Women's Singles|QF]]
+|A
+|bgcolor=D8BFD8|[[1992 Wimbledon Championships – Women's Singles|F]]
+|A
+|A
+|A
+|bgcolor=afeeee|[[1996 Wimbledon Championships – Women's Singles|2R]]
+|bgcolor=afeeee|[[1997 Wimbledon Championships – Women's Singles|3R]]
+|bgcolor=ffebcd|[[1998 Wimbledon Championships – Women's Singles|QF]]
+|bgcolor=afeeee|[[1999 Wimbledon Championships – Women's Singles|3R]]
+|bgcolor=ffebcd|[[2000 Wimbledon Championships – Women's Singles|QF]]
+|A
+|bgcolor=ffebcd|[[2002 Wimbledon Championships – Women's Singles|QF]]
+|A
+|0 / 9
+|30–9
+|-
+|align=left|[[US Open (tennis)|US Open]]
+|A
+|bgcolor=afeeee|[[1989 US Open – Women's Singles|4R]]
+|bgcolor=afeeee|[[1990 US Open – Women's Singles|3R]]
+|bgcolor=lime|'''[[1991 US Open – Women's Singles|W]]'''
+|bgcolor=lime|'''[[1992 US Open – Women's Singles|W]]'''
+|A
+|A
+|bgcolor=D8BFD8|[[1995 US Open – Women's Singles|F]]
+|bgcolor=D8BFD8|[[1996 US Open – Women's Singles|F]]
+|bgcolor=ffebcd|[[1997 US Open – Women's Singles|QF]]
+|bgcolor=ffebcd|[[1998 US Open – Women's Singles|QF]]
+|bgcolor=ffebcd|[[1999 US Open – Women's Singles|QF]]
+|bgcolor=ffebcd|[[2000 US Open – Women's Singles|QF]]
+|bgcolor=afeeee|[[2001 US Open – Women's Singles|4R]]
+|bgcolor=ffebcd|[[2002 US Open – Women's Singles|QF]]
+|A
+|2 / 12
+|53–10
+|- style="font-weight:bold; background:#efefef;"
+|style=text-align:left|Win–Loss
+|0–0
+|11–3
+|13–2
+|21–0
+|27–1
+|7–0
+|0–0
+|6–1
+|17–3
+|11–3
+|14–3
+|16–4
+|12–3
+|7–2
+|17–4
+|1–2
+|9 / 40
+|180–31
+|}
+<small> ''Note: A walkover does not count as a win. Seles had a walkover in the second round of the US Open of 1996.'' </small>
+
+==Records==
+* These records were attained in [[Open Era]] of tennis.
+* Records in '''bold''' indicate peer-less achievements.
+
+{|class=wikitable style=font-size:97%
+|- style="background:#efefef;"
+| width=200|Grand Slam || width=50|Years || width=200|Record accomplished || width=200|Player tied
+|-
+| '''Australian Open—French Open''' || '''1990–93''' || '''Simultaneous holder of 3 consecutive Australian Open and French Open titles''' || '''Stands alone'''
+|-
+| Australian Open || 1991 || Won title on the first attempt || [[Virginia Wade]]
+|-
+| Australian Open || 1991–93 || 3 consecutive titles || [[Margaret Court]] <br/> [[Evonne Goolagong Cawley]] <br/> [[Steffi Graf]] <br/> [[Martina Hingis]]
+|-
+| '''Australian Open''' || '''1991–99''' || '''33 consecutive wins''' || '''Stands alone'''
+|-
+| French Open || 1990–92 || 3 consecutive titles || [[Justine Henin]] <br/>
+|-
+| '''French Open''' || '''1990''' || '''Youngest ever champion (16 years old)''' || '''Stands alone'''
+|-
+| Grand Slam tournaments|| 1991 || 100% (21–0) match winning percentage in 1 season || Margaret Court<br/>[[Billie Jean King]]<br/>[[Chris Evert]]<br/>Steffi Graf<br/>[[Serena Williams]]
+|-
+| Grand Slam tournaments|| 1992 || [[Grand Slam (tennis)|Reached all four Grand Slam finals in a calendar year]] || Margaret Court <br/> Chris Evert <br/> [[Martina Navratilova]] <br/> Steffi Graf <br/> Martina Hingis <br/> Justine Henin
+|-
+| Grand Slam tournaments|| 1990 || Fewest Grand Slam main draw appearances before winning(Women) ||[[Bianca Andreescu]] 
+|}
+
+==See also==
+{{Portal|Tennis}}
+{{div col|colwidth=30em}}
+*[[WTA Tour records]]
+*[[Grand Slam (tennis)]]
+*[[List of WTA number 1 ranked players]]
+*[[List of female tennis players]]
+*[[List of tennis tournaments]]
+*[[List of tennis rivalries]]
+*[[List of Grand Slam Women's Singles champions]]
+*[[Tennis records of the Open Era – Women's Singles]]
+*[[Tennis statistics]]
+*[[World number 1 women tennis players|World number 1 women tennis players from 1883–present]]
+{{div col end}}
+*[[Grunting in tennis]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Monica Seles}}
+* {{WTA}}
+* {{ITF profile}}
+* {{Fed Cup player}}
+* [http://news.bbc.co.uk/sport2/hi/tennis/1621632.stm BBC Sport profile]
+* {{Tennishof|monica-seles}}
+* {{IMDb name|1648417}}
+
+{{Monica Seles start boxes}}
+{{navboxes|title=Monica Seles in the [[grand slam (tennis)|Grand Slam Tournaments]]
+|list1=
+{{Women's tennis players who won two or more Grand Slam singles titles in one calendar year}}
+{{Australian Open women's singles champions}}
+{{French Open women's singles champions}}
+{{US Open women's singles champions}}{{Tennis women grand slam three and more}}
+}}
+{{navboxes|title=Monica Seles [[Monica Seles career statistics|Achievements]]
+|list1=
+{{Tennis World Number Ones (women)}}
+{{WTA Year-End Championship winners}}
+
+{{Associated Press Female Athlete of the Year navbox}}
+{{ESPY Female Athlete}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Seles, Monica}}
+[[Category:1973 births]]
+[[Category:American female tennis players]]
+[[Category:American people of Hungarian descent]]
+[[Category:American victims of crime]]
+[[Category:Yugoslav emigrants to the United States]]
+[[Category:Australian Open (tennis) champions]]
+[[Category:Defectors to the United States]]
+[[Category:French Open champions]]
+[[Category:Hopman Cup competitors]]
+[[Category:Hungarians in Vojvodina]]
+[[Category:Serbian people of Hungarian descent]]
+[[Category:Living people]]
+[[Category:Olympic bronze medalists for the United States in tennis]]
+[[Category:Olympic tennis players of the United States]]
+[[Category:People with acquired American citizenship]]
+[[Category:Sportspeople from Novi Sad]]
+[[Category:Sportspeople from Sarasota, Florida]]
+[[Category:Stabbing survivors]]
+[[Category:Serbian female tennis players]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Tennis people from Florida]]
+[[Category:Tennis players at the 1996 Summer Olympics]]
+[[Category:Tennis players at the 2000 Summer Olympics]]
+[[Category:US Open (tennis) champions]]
+[[Category:Violence in sports]]
+[[Category:World No. 1 tennis players]]
+[[Category:Yugoslav female tennis players]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:Medalists at the 2000 Summer Olympics]]
+[[Category:Serbian expatriates in the United States]]
+[[Category:Tennis controversies]]
+[[Category:People with acquired Hungarian citizenship]]

@@ -1,0 +1,184 @@
+{{short description|British tennis and badminton player}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox tennis biography
+|name                              = Dorothea Lambert Chambers 
+|image                             = Dorothea Douglass.jpg
+|caption                           = 
+|fullname                          = Dorothea Katherine Douglass Lambert Chambers
+|country                           = {{GBR}}
+|birth_date                        = {{birth date |df=yes|1878|09|03}}
+|birth_place                       = [[Ealing]], [[Middlesex]], England
+|death_date                        = {{death date and age|df=yes|1960|01|07|1878|09|03}}
+|death_place                       = [[Kensington]], London, England
+|height                            =
+|college                           = 
+|turnedpro                         = 
+|retired                           = 
+|plays                             = 
+|careerprizemoney                  = 
+|tennishofyear                     = 1981
+|tennishofid                       = dorothea-lambert-chambers 
+|website                           = <!-- official web site address like this: [http://www.site.com www.site.com] -->
+|singlesrecord                     = 
+|singlestitles                     = 
+|highestsinglesranking             = 
+|AustralianOpenresult              = 
+|FrenchOpenresult                  = 
+|Wimbledonresult                   = '''W''' ([[1903 Wimbledon Championships – Ladies' Singles|1903]], [[1904 Wimbledon Championships – Ladies' Singles|1904]], [[1906 Wimbledon Championships – Women's Singles|1906]], [[1910 Wimbledon Championships – Women's Singles|1910]], [[1911 Wimbledon Championships – Women's Singles|1911]], [[1913 Wimbledon Championships – Women's Singles|1913]], [[1914 Wimbledon Championships – Women's Singles|1914]])
+|USOpenresult                      = QF ([[1925 U.S. National Championships – Women's Singles|1925]])
+|Othertournaments                  = 
+|MastersCupresult                  = 
+|WTAChampionshipsresult            = 
+|doublesrecord                     = 
+|doublestitles                     = 
+|highestdoublesranking             = 
+|grandslamsdoublesresults          =
+|AustralianOpenDoublesresult       = 
+|FrenchOpenDoublesresult           = 
+|WimbledonDoublesresult            = F (1913, 1919, 1920)
+|USOpenDoublesresult               = 
+|OthertournamentsDoubles           = <!-- adds a "Other doubles tournaments" title -->
+|MastersCupDoublesresult           = 
+|WTAChampionshipsDoublesresult     = 
+|OlympicsDoublesresult             = 
+|Mixed                             = <!-- adds mixed information-->
+|mixedrecord                       = 
+|mixedtitles                       = 
+|AustralianOpenMixedresult         = 
+|FrenchOpenMixedresult             = 
+|WimbledonMixedresult              = F (1919)
+|USOpenMixedresult                 = 
+|OthertournamentsMixedDoubles      = 
+|OlympicMixedDoublesresult         = 
+|Team                              = Yes
+|DavisCupresult                    =
+|FedCupresult                      =
+|WightmanCupresult                 = '''W''' (1925)
+| medaltemplates-expand       = yes
+| medaltemplates              =
+{{MedalCompetition|Olympic Games – [[Tennis at the Summer Olympics|Tennis]]}}
+{{MedalGold | [[1908 Summer Olympics|1908 London]] | [[Tennis at the 1908 Summer Olympics|Singles]]}}
+}}
+
+'''Dorothea Lambert Chambers''' (née '''Dorothea Katherine Douglass''', 3 September 1878 – 7 January 1960)<ref>{{Cite book |url=https://books.google.com/books?id=W39oSS7c2xAC&pg=PA87 |title=Historical Dictionary of Tennis |last=Grasso |first=John |date=2011-09-16 |publisher=Scarecrow Press |isbn=978-0-8108-7237-0 |pages=87 |df=dmy-all}}</ref> was a British [[tennis]] player. She won seven [[The Championships, Wimbledon|Wimbledon]] Women's Singles titles and a gold medal at the [[Tennis at the 1908 Summer Olympics|1908 Summer Olympics]].
+
+==Tennis==
+In 1900 Douglass made her singles debut at [[The Championships, Wimbledon|Wimbledon]] and, after a bye in the first round, lost her second round match to [[Louisa Martin]]. Three years later, she won her first of seven ladies [[Singles (tennis)|singles]] titles. On 6 April 1907 she married Robert Lambert Chambers and was thereafter known by her married surname Lambert Chambers.<ref>{{cite book|editor1-last=Hartley|editor1-first=Cathy|title=A Historical Dictionary of British Women|date=2003|publisher=Europa Publications|location=London [u.a.]|isbn=978-1857432282|page=194|edition=Rev.}}</ref><ref>{{cite news|title=Men and Matters|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000164/19070408/159/0008|work=Dundee Courier|via=[[British Newspaper Archive]]|date=8 April 1907|page=8|url-access=subscription }}</ref>
+
+In 1908 she won the gold medal in the [[Tennis at the 1908 Summer Olympics – Women's singles|women's singles]] event at the [[1908 Summer Olympics]] after a straight-sets victory in the final against compatriot [[Dora Boothby]].<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/athletes/la/dorothy-lambert-chambers-1.html |title=Dorothea Douglass Lambert Chambers Olympic Results |accessdate=2014-01-30 |work=sports-reference.com |url-status=dead |archiveurl=https://web.archive.org/web/20140202160059/http://www.sports-reference.com/olympics/athletes/la/dorothy-lambert-chambers-1.html |archivedate=2 February 2014 |df=dmy-all }}</ref>
+
+She wrote ''Tennis for Ladies'', which was published in 1910. The book contained photographs of tennis techniques and contained advice on attire and equipment.
+
+In 1911 Lambert Chambers won the women's final at Wimbledon against Dora Boothby 6–0, 6–0, the first player to win a [[Grand Slam (tennis)|Grand Slam]] singles final without losing a game.<ref>{{Tennis Hall of Fame}}</ref> The only other female player to achieve this was [[Steffi Graf]] when she defeated [[Natalia Zvereva]] in the [[1988 French Open]] final.<ref>{{cite news|author=ROBIN HERMAN |url=https://www.nytimes.com/1988/06/05/sports/tennis-graf-shuts-out-zvereva-to-gain-french-open-title.html |title=TENNIS – Graf Shuts Out Zvereva to Gain French Open Title |work=[[The New York Times]] |date=1988-06-05 |accessdate=2017-06-23 |df=dmy-all}}</ref>
+
+In 1919 Lambert Chambers played the longest Wimbledon final up to that time: 44 games against Frenchwoman [[Suzanne Lenglen]]. Lambert Chambers held two match points at 6–5 in the third set but eventually lost to Lenglen 8–10, 6–4, 7–9.<ref>{{cite news |url=http://nla.gov.au/nla.news-article15252766 |title=Ladies' Lawn Tennis. |newspaper=[[The Sydney Morning Herald]] |date=10 June 1911 |page=7 |via=[[National Library of Australia]]}}</ref>
+
+Lambert Chambers only played sporadic singles after 1921 but continued to compete in doubles until 1927. She made the singles quarter-finals of the US Open in 1925<ref>{{cite web | url=http://www.britannica.com/EBchecked/topic/104979/Dorothea-Lambert-Chambers | title=Encyclopædia Britannica Biography | accessdate=2013-05-06}}</ref> and, from 1924 to 1926, she captained Britain's [[Wightman Cup]] team. In the [[1925 Wightman Cup]] edition she played, at the age of 46, a singles (against [[Eleanor Goss]]) and doubles match and won both.<ref>{{cite news|title=British Women in Tennis Victories|url=https://news.google.com/newspapers?id=c7stAAAAIBAJ&sjid=0osFAAAAIBAJ&pg=6885%2C1939350|newspaper=[[The Montreal Gazette]]|date=18 August 1925|via=[[Google News Archive]]}}</ref><ref>{{cite news|title=Woman at Tennis|url=https://news.google.com/newspapers?id=Zo8TAAAAIBAJ&sjid=lpYDAAAAIBAJ&pg=7153%2C476536|newspaper=[[The Sydney Morning Herald]]|date=17 August 1925|via=[[Google News Archive]]}}</ref>  In 1928 she turned to professional coaching.
+
+Lambert Chambers was inducted into the [[International Tennis Hall of Fame]] in 1981.<ref>{{cite web|title=Hall of Famers – Dorothea Douglass Chambers|url=https://www.tennisfame.com/hall-of-famers/dorothea-douglass-chambers|website=www.tennisfame.com|publisher=[[International Tennis Hall of Fame]]|url-status=dead|archiveurl=https://web.archive.org/web/20150402122559/https://www.tennisfame.com/hall-of-famers/dorothea-douglass-chambers|archivedate=2 April 2015|df=dmy-all}}</ref> She died in [[Kensington]], London.
+
+== Grand Slam finals ==
+[[File:Dorothea Lambert Chambers 1906.jpg|thumb|Dorothea Lambert Chambers in 1906]]
+
+=== Singles: 11 (7 titles, 4 runner-ups) ===
+{|class="sortable wikitable" style=font-size:97%
+!style="width:65px"|Outcome
+!style="width:40px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:200px"|Opponents
+!style="width:160px" class="unsortable"|Score
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner *|| [[1903 Wimbledon Championships – Ladies' Singles|1903]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|UKGBI}} [[Ethel Thomson Larcombe|Ethel Thomson]] || 4–6, 6–4, 6–2
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner || [[1904 Wimbledon Championships – Women's Singles|1904]] || [[The Championships, Wimbledon|Wimbledon]] <small>(2)</small> || Grass || {{flagicon|UKGBI}} [[Charlotte Cooper Sterry]]|| 6–0, 6–3
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Runner-up || [[1905 Wimbledon Championships – Women's Singles|1905]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|USA|1896}}  [[May Sutton]] || 3–6, 4–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner || [[1906 Wimbledon Championships – Women's Singles|1906]] || [[The Championships, Wimbledon|Wimbledon]] <small>(3)</small> || Grass || {{flagicon|USA|1896}}  [[May Sutton]] || 6–3, 9–7
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Runner-up || [[1907 Wimbledon Championships – Women's Singles|1907]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|USA|1896}}  [[May Sutton]] || 1–6, 4–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner || [[1910 Wimbledon Championships – Women's Singles|1910]] || [[The Championships, Wimbledon|Wimbledon]] <small>(4)</small> || Grass || {{flagicon|UKGBI}} [[Dora Boothby]] || 6–2, 6–2
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner || [[1911 Wimbledon Championships – Women's Singles|1911]] || [[The Championships, Wimbledon|Wimbledon]] <small>(5)</small> || Grass || {{flagicon|UKGBI}} [[Dora Boothby]] || 6–0, 6–0
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner ** || [[1913 Wimbledon Championships – Women's Singles|1913]] || [[The Championships, Wimbledon|Wimbledon]] <small>(6)</small> || Grass || {{flagicon|UKGBI}} [[Winifred McNair]] || 6–0, 6–4
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Winner || [[1914 Wimbledon Championships – Women's Singles|1914]] || [[The Championships, Wimbledon|Wimbledon]] <small>(7)</small> || Grass || {{flagicon|UKGBI}} [[Ethel Thomson Larcombe]] || 7–5, 6–4
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Runner-up || [[1919 Wimbledon Championships – Women's Singles|1919]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|FRA}} [[Suzanne Lenglen]] || 8–10, 6–4, 7–9
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Runner-up || [[1920 Wimbledon Championships – Women's Singles|1920]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|FRA}} [[Suzanne Lenglen]] || 3–6, 0–6
+|}
+<sup>*</sup> This was the all-comers final as [[Muriel Robb]] did not defend her 1902 Wimbledon title, which resulted in the winner of the all-comers final winning the challenge round and, thus, Wimbledon in 1903 by walkover.<br>
+<sup>**</sup> This was the all-comers final as Ethel Thomson Larcombe did not defend her 1912 Wimbledon title, which resulted in the winner of the all-comers final winning the challenge round and, thus, Wimbledon in 1913 by walkover.
+
+=== Doubles: 3 runner-ups ===
+{|class="sortable wikitable" style=font-size:97%
+!style="width:65px"|Outcome
+!style="width:40px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:200px"|Partner
+!style="width:200px"|Opponents
+!style="width:160px" class="unsortable"|Score
+|-bgcolor= #cfc
+| style="background:#ffa07a;"|Runner-up || [[1913 Wimbledon Championships|1913]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|GBR}} [[Charlotte Cooper Sterry]] || {{flagicon|GBR}} [[Dora Boothby]]<br>{{flagicon|GBR}} [[Winifred McNair]] || 6–4, 4–2, retired
+|-bgcolor= #cfc
+| style="background:#ffa07a;"|Runner-up || [[1919 Wimbledon Championships|1919]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|GBR}} [[Ethel Thomson Larcombe]] || {{flagicon|FRA}} [[Suzanne Lenglen]]<br>{{flagicon|USA}} [[Elizabeth Ryan]] || 6–4, 5–7, 3–6
+|-bgcolor= #cfc
+| style="background:#ffa07a;"|Runner-up || [[1920 Wimbledon Championships|1920]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|GBR}} [[Ethel Thomson Larcombe]] || {{flagicon|FRA}} [[Suzanne Lenglen]]<br>{{flagicon|USA}} [[Elizabeth Ryan]] || 4–6, 0–6
+|}
+
+=== Mixed doubles: 1 runner-up ===
+{|class="sortable wikitable" style=font-size:97%
+!style="width:65px"|Outcome
+!style="width:40px"|Year
+!style="width:200px"|Championship
+!style="width:50px"|Surface
+!style="width:200px"|Partner
+!style="width:200px"|Opponents
+!style="width:160px" class="unsortable"|Score
+|-bgcolor= #cfc
+| style="background:#ffa07a;"|Runner-up || [[1919 Wimbledon Championships|1919]] || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|GBR}} [[Albertem Prebble]] || {{flagicon|USA}} [[Elizabeth Ryan]]<br>{{flagicon|GBR}} [[Randolph Lycett]] || 0–6, 0–6
+|}
+
+==Badminton==
+In addition to playing tennis Lambert Chambers was one of the leading badminton players at the beginning of the 20th century. In 1903, 1904 and 1907 she was the runner-up at the singles event of the [[All England Badminton Championships]].<ref>{{cite web|title=Mrs Lambert Chambers|url=http://www.badmintonengland.co.uk/text.asp?section=1778#.VQDj_9LF8rs|publisher=Badminton England|access-date=12 March 2015|archive-url=https://web.archive.org/web/20160304194032/http://www.badmintonengland.co.uk/text.asp?section=1778#.VQDj_9LF8rs|archive-date=4 March 2016|url-status=dead}}</ref>
+
+==Personal life==
+During the [[First World War]] she undertook war work, first at [[Ealing Hospital]], and later at the Little Theatre.<ref>The Sportswoman's Page, ''The Illustrated Sporting and Dramatic News'', December 22, 1917, p508</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Dorothea Douglass}}
+* {{Tennis Hall of Fame}}
+* {{Gutenberg author |id=Lambert+Chambers,+Mrs. | name=Lambert Chambers}}
+* [https://archive.org/details/lawntennisforla00chamgoog Book ''Lawn Tennis for Ladies'' at Archive.org]
+
+{{Footer Olympic Champions Tennis Women}}
+{{Wimbledon women's singles champions}}
+{{Footer All England Open Championships Badminton Doubles Women}}
+{{Footer All England Open Championships Badminton Doubles Mixed}}
+
+{{DEFAULTSORT:Lambert Chambers, Dorothea}}
+[[Category:1878 births]]
+[[Category:1960 deaths]]
+[[Category:English female tennis players]]
+[[Category:English female badminton players]]
+[[Category:English Olympic medallists]]
+[[Category:Olympic gold medallists for Great Britain]]
+[[Category:Olympic tennis players of Great Britain]]
+[[Category:People from Ealing]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Tennis players at the 1908 Summer Olympics]]
+[[Category:Wimbledon champions (pre-Open Era)]]
+[[Category:Olympic medalists in tennis]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:Medalists at the 1908 Summer Olympics]]
+[[Category:Tennis writers]]
+[[Category:Tennis people from Greater London]]
+[[Category:British female tennis players]]

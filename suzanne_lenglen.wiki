@@ -1,0 +1,542 @@
+{{good article}}
+{{short description|French tennis player}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox tennis biography
+|name                              = Suzanne Lenglen
+|image                             = File:Suzanne Lenglen 1922 (instant) (cropped).jpg
+|caption                           = Lenglen in 1922 <!-- brief text caption for the image -->
+|fullname                          = 
+|country                           = {{FRA}}
+|residence                         =
+|birth_date                        = {{birth date|1899|5|24|df=y}}
+|birth_place                       = [[Paris]], France
+|death_date                        = {{death date and age|1938|7|4|1899|5|24|df=y}}
+|death_place                       = Paris, France
+|height                            = 1.68 m{{efn|approximate{{sfn|Engelmann|1988|p=46}}<ref name="height">{{cite news |last1=Morse |first1=J.G.B. |title=Suzanne Lenglen, Greatest of Women Athletes |url=https://books.google.com/books?id=llkoAQAAMAAJ&pg=RA7-PA18 |accessdate=15 August 2019 |work=The Open Road |date=January 1921}}</ref>}} <!-- {{convert|HEIGHT IN METRES|m|abbr=on}} or {{convert|FEET|ft|INCHES|in|abbr=on}} -->
+|college                           =
+|coach                             = Charles Lenglen
+|turnedpro                         = August 1926
+|retired                           = 
+|plays                             = Right-handed (one-handed backhand)
+|careerprizemoney                  =
+|tennishofyear                     = 1978
+|tennishofid                       = suzanne-lenglen
+|website                           =
+|singlesrecord                     = {{tennis record|won=332|lost=7}}
+|singlestitles                     = 83
+|highestsinglesranking             = No. '''1''' (1921){{efn|Ranking by [[A. Wallis Myers]]{{sfn|Collins|2008|pp=695, 701}}}}
+|currentsinglesranking             =
+|AustralianOpenresult              =
+|FrenchOpenresult                  = '''W''' ([[1925 French Championships – Women's Singles|1925]], [[1925 French Championships – Women's Singles|1926]])
+|Wimbledonresult                   = '''W''' ([[1919 Wimbledon Championships – Women's Singles|1919]], [[1920 Wimbledon Championships – Women's Singles|1920]], [[1921 Wimbledon Championships – Women's Singles|1921]], [[1922 Wimbledon Championships – Women's Singles|1922]], [[1923 Wimbledon Championships – Women's Singles|1923]], [[1925 Wimbledon Championships – Women's Singles|1925]])
+|USOpenresult                      = 2R ([[1921 U.S. National Championships – Women's Singles|1921]])
+|Othertournaments                  = yes
+|WHCCresult                        = '''W''' ([[1914 World Hard Court Championships – Women's Singles|1914]], [[1921 World Hard Court Championships – Women's Singles|1921]], [[1922 World Hard Court Championships – Women's Singles|1922]], [[1923 World Hard Court Championships – Women's Singles|1923]])
+|MastersCupresult                  =
+|Olympicsresult                    = '''W''' ([[Tennis at the 1920 Summer Olympics – Women's singles|1920]])
+|doublesrecord                     = {{tennis record|won=254|lost=6}}
+|doublestitles                     = 74
+|highestdoublesranking             =
+|currentdoublesranking             =
+|AustralianOpenDoublesresult       =
+|FrenchOpenDoublesresult           = '''W''' ([[1925 French Championships – Women's Doubles|1925]], [[1925 French Championships – Women's Doubles|1926]])
+|WimbledonDoublesresult            = '''W''' ([[1919 Wimbledon Championships – Women's Doubles|1919]], [[1920 Wimbledon Championships – Women's Doubles|1920]], [[1921 Wimbledon Championships – Women's Doubles|1921]], [[1922 Wimbledon Championships – Women's Doubles|1922]], [[1923 Wimbledon Championships – Women's Doubles|1923]], [[1925 Wimbledon Championships – Women's Doubles|1925]])
+|USOpenDoublesresult               =
+|OthertournamentsDoubles           = yes
+|WHCCDoublesresult                 = '''W''' ([[1914 World Hard Court Championships – Women's Doubles|1914]], [[1921 World Hard Court Championships – Women's Doubles|1921]], [[1922 World Hard Court Championships – Women's Doubles|1922]])
+|MastersCupDoublesresult           =
+|OlympicsDoublesresult             = SF – Bronze ([[Tennis at the 1920 Summer Olympics – Women's doubles|1920]])
+|Mixed                             = yes<!-- adds mixed information-->
+|mixedrecord                       = {{tennis record|won=381|lost=18}}
+|mixedtitles                       = 93
+|AustralianOpenMixedresult         =
+|FrenchOpenMixedresult             = '''W''' ([[1925 French Championships – Mixed Doubles|1925]], [[1926 French Championships – Mixed Doubles|1926]])
+|WimbledonMixedresult              = '''W''' ([[1920 Wimbledon Championships – Mixed Doubles|1920]], [[1922 Wimbledon Championships – Mixed Doubles|1922]], [[1925 Wimbledon Championships – Mixed Doubles|1925]])
+|USOpenMixedresult                 =
+|OthertournamentsMixedDoubles      = yes
+|WHCCMixedDoublesresult            = '''W''' ([[1921 World Hard Court Championships – Mixed Doubles|1921]], [[1922 World Hard Court Championships – Mixed Doubles|1922]], [[1923 World Hard Court Championships – Mixed Doubles|1923]])
+|OlympicMixedDoublesresult         = '''W''' ([[Tennis at the 1920 Summer Olympics – Mixed doubles|1920]])
+| medaltemplates-expand       = yes
+| medaltemplates              =
+{{MedalCompetition|[[Tennis at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[1920 Summer Olympics|1920 Antwerp]]|[[Tennis at the 1920 Summer Olympics – Women's singles|Women's singles]]}}
+{{MedalGold|1920 Antwerp|[[Tennis at the 1920 Summer Olympics – Mixed doubles|Mixed doubles]]}}
+{{MedalBronze|1920 Antwerp|[[Tennis at the 1920 Summer Olympics – Women's doubles|Women's doubles]]}}
+}}
+'''Suzanne Rachel Flore Lenglen'''{{sfn|Little|2007|p=1}} (24 May 1899 – 4 July 1938) was a French [[tennis]] player. She was one of tennis's biggest stars in the 1920s, building her popularity on her status as the youngest major champion in tennis history as well as her elegant style of play and exuberant personality. Often playing in front of sell-out crowds and appearing on the front pages of newspapers for her biggest matches, she is often regarded as the first female athlete to become a global sport celebrity. Lenglen was ranked No. 1 in the world from 1921 through 1926,{{efn|Recognized women's tennis rankings began in 1921.{{sfn|Collins|2008|pp=695, 701}}}} winning 8 [[Grand Slam (tennis)|Grand Slam]] singles titles and 21 in total. She also won 10 World Championship titles across all disciplines.{{efn|The three World Championship tournaments were part of the precursors to the four modern [[Grand Slam (tennis)|Grand Slam]] tournaments before the Grand Slam tournaments coalesced in 1925.}} Dissatisfied with her lack of income, she forfeited her amateur status and became the first women's tennis player to turn professional. Lenglen has been ranked by the [[Tennis Channel]] as the greatest women's tennis player from the amateur era.{{efn|Excluding players who also competed in the Open Era}}
+
+Born to wealthy parents in [[Paris]], Lenglen began playing tennis at 11 years old. Coached primarily by her father Charles throughout her career, she quickly emerged as a child prodigy. She won her first major title at the [[1914 World Hard Court Championships]] at the age of 15 with just four years of experience playing the sport. After World War I delayed her career for four years, Lenglen returned to competitive tennis in 1919 and won her [[The Championships, Wimbledon|Wimbledon]] debut in a classic final that finished as the second-longest in history by games played. Following the war, she was relatively unchallenged, only losing one match and ending her amateur career on a 179-match winning streak. She often won her matches by lopsided scores and never lost more than three games in a set in any of her 12 major singles finals apart from her first final at Wimbledon.
+
+Overall, Lenglen won six Wimbledon singles titles, including five in a row from 1919 through 1923, and also won triple crowns at the first two open [[French Open (tennis)|French Championships]] in 1925 and 1926. Her only post-war loss came in a retirement against [[Molla Mallory]] in her only amateur match in the United States. Lenglen also had prolific careers in doubles and mixed doubles. She was undefeated with her regular doubles partner [[Elizabeth Ryan]], highlighted by another six titles at Wimbledon. One of Lenglen's highest-profile matches towards the end of her career was her victory over [[Helen Wills]] in the [[Match of the Century (tennis)|Match of the Century]], their only career meeting. Following a misunderstanding at Wimbledon in 1926, Lenglen abruptly retired from amateur tennis, signing to headline a five-month professional tour in the United States beginning later that year.
+
+Lenglen was referred to by the French press as ''notre Suzanne'', or "our Suzanne", and was universally called ''La Divine'', or "The Goddess". She died in 1938 at the age of 39. Court Suzanne Lenglen, the second show court at the site of the [[French Open]], is named in her honour. Lenglen was inducted into the [[International Tennis Hall of Fame]] in 1978.
+
+==Early life and background==
+Suzanne Lenglen was born in Paris on 24 May 1899 to Charles and Anaïs Lenglen.{{sfn|Engelmann|1988|p=7}}<ref name="born-paris">{{cite news |last1=Laporte |first1=Jean |title=Autour du Championnat International de Tennis: Dans l'Intimité de la Championne | trans-title = Around the International Tennis Championship: In the Intimacy of the Champion |url=https://gallica.bnf.fr/ark:/12148/bpt6k6564637d/f16.image |accessdate=22 July 2019 |work=Femina |date=1 July 1914}}</ref> She had a younger brother who did not live past the age of three. Lenglen's father was a pharmacist who became wealthy by inheriting a [[horse-drawn omnibus]] company from his father. Several years after Suzanne was born, her father sold the omnibus business and relocated the family to [[Marest-sur-Matz]] near [[Compiègne]] in northern France in 1904. They spent their winters in [[Nice]] on the [[French Riviera]] in a villa across the street from the Nice Lawn Tennis Club. By the time Lenglen was eight, she excelled at a variety of sports including swimming and cycling. She also loved to play [[diabolo]], a game involving balancing a spinning top on a string with two attached sticks. During the winter, Lenglen frequently performed diabolo routines in front of large crowds on the [[Promenade des Anglais]] in Nice. Her father believed she developed the confidence to play tennis in large stadiums from her early experience as a diabolo performer.{{sfn|Little|2007|pp=1–3}}{{sfn|Engelmann|1988|pp=7–8}}
+
+[[File:Lenglen's father (noir) - 1.jpg|thumb|left|upright=0.72|Lenglen's father]]
+Lenglen's father became inspired by the sport of tennis through attending tournaments on the Riviera where the world's best players would compete in the months leading up to the [[French Championships]] and [[Wimbledon Championships|Wimbledon]]. Having played the sport recreationally in the past, he bought Lenglen a racket from a toy store as a present in June 1910 shortly after she had turned 11 years old. He also set up a makeshift court on the lawn of their house in Marest-sur-Matz for Lenglen to practice with friends. She quickly showed enough skill for tennis to convince her father to get her a proper racket within a month. He also began playing against his daughter and developing training exercises for her. Three months later in September, Lenglen travelled to Paris to play on a proper tennis court owned by her father's friend, Dr. Cizelly. At Cizelly's recommendation, she entered a local high-level tournament in [[Chantilly, Oise|Chantilly]]. Playing in the singles handicap event where she received a point each game and two points every other game, Lenglen won four rounds and finished in second place.{{sfn|Little|2007|p=3}}{{sfn|Engelmann|1988|pp=8–9}}
+
+Lenglen's success at the Chantilly tournament prompted her father to train her more seriously. He studied the leading male and female players and decided to teach Lenglen the tactics from the more aggressive men's game instead of the women's game, which centered around slowly constructing points from the baseline at the time. When the family returned to Nice towards the end of the fall, her father arranged for her to be allowed to play twice a week at the Nice Lawn Tennis Club even though children had never been allowed membership or access to the courts. He also arranged for her to practice with leading male players at the club. Lenglen eventually began training with [[Joseph Negro]], the club's teaching professional. Negro developed his own game around having a wide variety of shots and trained Lenglen to play the same way. Lenglen's father continued to serve as her primary coach at this time and throughout her career. He employed a harsh and rigorous style of coaching, saying, "I was a hard taskmaster, and although my advice was always well intentioned, my criticisms were at times severe, and occasionally intemperate."{{sfn|King|Starr|1988|p=27}} Both of Lenglen's parents often watched her matches and discussed minute errors in her game between themselves throughout the match. They only showed restraint in their criticisms when she was sick, leading to Lenglen becoming comfortable with being ill.{{sfn|Little|2007|p=3}}{{sfn|Engelmann|1988|pp=9–11}}
+
+==Amateur career==
+===1912–13: Maiden titles===
+[[File:Suzanne Lenglen, Elizabeth Ryan, 1914 (light).jpg|thumb|upright=1.15|Lenglen (left) with regular doubles partner Elizabeth Ryan in 1914. They first played together in 1913.]]
+Lenglen entered her first open singles event in July 1912 at the Compiègne Championships near her hometown, her only non-handicap event of the year. After her opponent defaulted in the opening round, Lenglen won her debut match in the quarterfinals before losing her semifinal to [[Jeanne Matthey]]. She also played in the singles and mixed doubles handicap events and won both of them. This success came after she did not win a title at any of the tournaments she entered at the Nice Lawn Tennis Club in the first three months of the year while her family was residing on the French Riviera. When Lenglen returned to Nice in 1913, she was more successful. After winning two handicap singles titles in January, she earned the right to represent Nice in a tie against [[Bordighera]] on the Italian side of the border. On a team of two men and two women, Lenglen played one singles rubber and won easily, only losing two games. The next month, Lenglen entered a handicap doubles event in Monte Carlo with [[Elizabeth Ryan]], an American who had moved to England a year earlier. Although they lost the final in three sets, Ryan became Lenglen's most frequent doubles partner and the pair never lost another match.{{sfn|Little|2007|pp=4–6}}
+
+Lenglen's success at handicap events led her to enter more open events in the rest of 1913. She debuted at the South of France Championships at the Nice Club in March. Although she won her opening match, she lost in the quarterfinals to the eventual champion Dagmar von Krohn. Nonetheless, when Lenglen returned to Compiègne in May, she won her first open singles title at the Picardie Championships. She won her next event in Lille as well. Both titles came within a few weeks of her 14th birthday. Lenglen lost to Matthey again at both of her events in July, the latter of which by default. She rebounded to win singles titles at her last two singles events of the year. Both titles came against Blanche Colston, who she also lost to in the mixed doubles finals at the same two tournaments.{{sfn|Little|2007|pp=6–7}}
+
+===1914: World Hard Court champion===
+[[File:Suzanne Lenglen playing baseline 1914 (cropped) 3.jpg|thumb|left|upright=1.1|Lenglen at the 1914 World Hard Court Championships]]
+Back on the Riviera in 1914, Lenglen focused on open events. She won two singles titles in January in Cannes, and also took the mixed doubles title at the latter event alongside [[Anthony Wilding]]. Her victory in singles against high-ranking British player [[Ruth Winch]] was regarded as a huge surprise. However, Lenglen still struggled at larger tournaments early in the year, losing to Ryan in the quarterfinals at Monte Carlo and then to six-time Wimbledon champion [[Dorothea Lambert Chambers]] in the semifinals at the South of France Championships. During April, Lenglen defeated Ryan in the final of another singles event in Cannes. Though, she finished runner-up to Ryan and [[Max Decugis]] in mixed doubles. In May, Lenglen was invited to enter the [[French Championships]] for the first time. Held at the Racing Club de France in Paris, the event was restricted to French players. The format gave the defending champion a bye until the final match, known as the challenge round. In that match, they would face the winner of the All Comers' competition, a standard tournament bracket for the remaining players. Lenglen won the All Comers' singles draw of six players to make it to the challenge round against [[Marguerite Broquedis]]. Despite winning the first set, she ultimately lost the match. This was the last time in Lenglen's career that she lost a completed singles match, and the only time she lost a singles final other than by default. Although she also lost the doubles challenge round at the tournament to [[Blanche Amblard|Blanche]] and [[Suzanne Amblard]], Lenglen won the mixed doubles title with Decugis as her partner.{{sfn|Little|2007|pp=7–8}}{{sfn|Engelmann|1988|pp=14–15}}
+
+Lenglen's performance at the French Championships set the stage for her debut at the [[World Hard Court Championships]], one of the major tournaments recognized by the [[International Lawn Tennis Federation]] at the time. She was challenged in her opening match against [[Phyllis Satterthwaite]] and again in the semifinals against Suzanne Amblard, needing an 8–6 score to win the second set in the former and losing the second set in the latter. Nonetheless, she won three matches to make the final, where she only lost three games en route to defeating [[Germaine Golding]] for her first major title. Her volleying ability was instrumental in defeating Amblard, while her ability to outlast Golding in long rallies gave her the advantage in the final. Lenglen also won the doubles title with Ryan over the Amblard sisters without dropping a game in the final. She finished runner-up in mixed doubles to Ryan and Decugis alongside [[Ludwig von Salm]]. Following the World Hard Court Championships, Lenglen could have made her debut at [[1914 Wimbledon Championships|Wimbledon]]; however, her father decided against it. He did not like her chances of defeating Lambert Chambers on grass, a surface on which she had never played a tournament, when she had already lost to the six-time Wimbledon champion earlier in the year on clay. Lenglen won two more singles titles and then defaulted a final at the Compiègne Championships to Suzanne Amblard before [[World War I]] began in August, ending her season.{{sfn|Little|2007|p=10}}{{sfn|Engelmann|1988|pp=15–16}}
+
+===World War I hiatus===
+During World War I, the Lenglen family lived at their home in Nice, an area much less affected by the war than Compiègne in northern France. No tournaments were held during the war, interfering with Lenglen's father's plan to have Lenglen enter Wimbledon in 1915. Although Lenglen could not play any official tournaments, she had plenty of opportunity to train while in Nice. Soldiers from around the world came to the Riviera to temporarily avoid the war. Some of these soldiers were top tennis players, including two-time United States national champions [[R. Norris Williams]] and [[Clarence Griffin]]. These players competed in charity exhibitions primarily in Cannes to raise money for the [[French Red Cross]]. Lenglen participated in these events, and in some instances had the opportunity to play singles matches against male players.{{sfn|Little|2007|pp=10–11}}{{sfn|Engelmann|1988|pp=16–17}}
+
+===1919: Classic Wimbledon final===
+[[File:1919 wimbledon final (instant) (cropped).jpg|thumb|upright=1.45|Lenglen (near court) and Lambert Chambers contesting the 1919 Wimbledon final]]
+Following the end of World War I in November 1918, many tennis tournaments resumed in 1919. Lenglen won nine singles titles in ten events, four doubles titles in four events, and eight mixed doubles titles in ten events. She won the South of France Championships in March without dropping a game in any of her four matches. Two months later, she won the Paris tournament, a stand-in for the French Championships and the World Hard Court Championships, both of which were still not held until the following year.{{sfn|Little|2007|p=13}}{{sfn|Engelmann|1988|pp=18–19}}
+
+Lenglen made her debut at [[1919 Wimbledon Championships|Wimbledon]] in July, where the All Comers' format was used. With a six-round draw, Lenglen made it through the first four rounds while only losing six games. Among the players she defeated were 1912 champion [[Ethel Thomson Larcombe|Ethel Larcombe]] and future champion [[Kathleen McKane]]. Her biggest challenge in the All Comers' competition was her doubles partner Ryan, who saved match points down 2–5 to level the second set at five games. After an hour-long rain delay at 30–30, Lenglen won the last two games to win the match. Following a lopsided victory in the All Comers' final against Sattherthwaite, Lenglen faced Lambert Chambers in the challenge round. Although the 20-year-old Lenglen was considered a favourite against the 40-year-old Lambert Chambers, all three sets of the match were extremely close. Lambert Chambers was able to trouble Lenglen with well-placed drop shots. While Lenglen led most of the first set, Lambert Chambers saved two set points with drop shots while down 3–5 and then earned two set points of her own at 6–5. However, Lenglen saved both and eventually won the set 10–8. Lambert Chambers forced a third set, despite squandering a 4–1 lead. The situation reversed in the final set as Lambert Chambers came from 4–1 down to earn two match points at 6–5. Though like in the first set, Lenglen saved both of them, including the first with a volley off the wooden frame of her racquet on an attempted passing shot by Lambert Chambers. She ultimately won the set 9–7 for her first Wimbledon title. The match set the record for most games in a Wimbledon women's singles final with 44, a mark only since surpassed by the [[1970 Wimbledon Championships|1970 final]] between [[Margaret Court]] and [[Billie Jean King]]. Over 8000 people attended the match, including [[King George V]] and [[Mary of Teck|Queen Mary]], and well above the seating capacity of 3500 on [[Centre Court]]. Lenglen defeated Lambert Chambers and Larcombe again in the doubles final with Ryan. She had already lost to Ryan and [[Randolph Lycett]] in the quarterfinals of the mixed doubles event, her only loss of the year in any discipline aside from defaults.{{sfn|Little|2007|pp=14–21}}{{sfn|Engelmann|1988|pp=19–23}}
+
+===1920: Olympic champion===
+[[File:Suzanne Lenglen 1920 Cannes (cropped).jpg|thumb|upright=1.3|Lenglen at Cannes in 1920]]
+Lenglen began 1920 with five singles titles on the Riviera, three of which she won in lopsided finals against Ryan. However, she did not defend her title at the South of France Championships, defaulting to [[Geraldine Beamish]] due to medical reasons. Beamish had won seven games in their last encounter, the most Lenglen had lost in a singles match all year. Moreover, Ryan was able to defeat Lenglen in mixed doubles at Cannes in windy conditions. This was her only mixed doubles loss of the year. Although the World Hard Court Championships returned in May, Lenglen had to withdraw due to illness. She recovered in time for the French Championships two weeks later, where she won the [[Grand Slam (tennis)#Triple Crown|triple crown]]. Lenglen easily made it to the challenge round in singles, where she defeated Broquedis in a rematch of the 1914 final. Only the second set was close at 7–5. She won the doubles event with [[Élisabeth d'Ayen]] and defended her mixed doubles title with Decugis, only needing to play the challenge round.{{sfn|Little|2007|pp=23–26}}
+
+Lenglen's next event was [[1920 Wimbledon Championships|Wimbledon]]. Lambert Chambers won the All Comers' final to set up a rematch of the previous year's final. Although the match was expected to be close again and began 2–2 in the first, Lenglen won ten of the last eleven games for her second consecutive Wimbledon singles title. She also won the triple crown at Wimbledon, taking the doubles with Ryan and the mixed doubles with Australian [[Gerald Patterson]]. The doubles final was also a rematch of the previous year's final against Lambert Chambers and Larcombe, while the mixed doubles victory came against the defending champions Ryan and Lycett. Lenglen's decision to partner with Patterson led to the French Tennis Federation threatening to not pay her expenses for the Wimbledon trip unless she paired up with a compatriot. Lenglen and her father replied by paying for the trip themselves. After Wimbledon, Lenglen won both of her events in Belgium in the lead-up to the [[Tennis at the 1920 Summer Olympics|1920 Olympic Games]] in Antwerp. At the Olympics, Lenglen won two gold medals and one bronze medal for France. She won the singles event over British player [[Dorothy Holman]], only losing three games in the final and one other game in her previous four matches. She won the mixed doubles event with Decugis. Although the pair lost the opening set of the quarterfinal against a Belgian team, they recovered and ultimately defeated the British team of Kathleen McKane and [[Max Woosnam]] for the title. Lenglen partnered with d'Ayen again in the doubles event. The pair lost their semifinal to McKane and [[Winifred McNair]] in a tight match that ended 8–6 in the decisive third set. This match was Lenglen's only loss in doubles all year. Lenglen and d'Ayen took the bronze medal after their opponents withdrew prior to the match.{{sfn|Little|2007|pp=26–29}}{{sfn|Engelmann|1988|pp=24–26}}
+
+===1921: Only singles defeat post-World War I===
+Lenglen again dominated the tournaments on the Riviera, winning eight titles in singles, six in doubles, and seven in mixed doubles. Her only loss came in mixed doubles, a third set retirement to Satterthwaite and [[Jack Hillyard]] while competing with [[Charles Aeschlimann]]. She won all of her matches against Ryan, four in singles and five in mixed doubles. Ryan partnered with [[Gordon Lowe]] in each of the mixed doubles matches, while Lenglen's most frequent partner was [[Algernon Kingscote]]. All of Lenglen's doubles titles on the Riviera were with Ryan.{{sfn|Little|2007|p=31}}
+
+Lenglen defended her triple crown at the French Championships in May, not even needing to play a singles match after Germaine Golding withdrew in the challenge round. Later that month, Lenglen returned to the World Hard Court Championships, where five-time United States national singles champion [[Molla Mallory]] was making her debut. The [[United States Lawn Tennis Association]] sent Mallory and [[Bill Tilden]] to the tournament with the hope of drawing Lenglen over to compete in the United States. Although Lenglen defeated Mallory in the final in straight sets, she trailed 2–3 in the second set before winning the last four games. Lenglen also won the triple crown at the tournament, partnering with Golding in doubles and [[Jacques Brugnon]] in mixed doubles. She then won her third consecutive Wimbledon titles in both singles and doubles. She defeated her doubles partner Ryan in a lopsided match where she won the last eleven games after losing two of the first three. She had to withdraw from the mixed doubles event in the second round after her partner [[André Gobert]] suffered an ankle injury.{{sfn|Little|2007|pp=31–33}}{{sfn|Engelmann|1988|pp=26–28}}
+
+====United States tour====
+[[File:Lenglen 1921 US Nationals afterwards (cropped).png|thumb|upright=0.9|Lenglen walking off the court after retiring against Mallory]]
+Lenglen was interested in competing at the [[1921 U.S. National Championships|U.S. National Championships]] to prove that she deserved to be called a world champion. Her father opposed the idea because he could not accompany Lenglen across the ocean due to his poor health. Although the French Tennis Federation did not have the funds to send Lenglen to the United States, philanthropist [[Anne Morgan (philanthropist)|Anne Morgan]] agreed to cover her expenses in exchange for her playing exhibition matches in support of the [[American Committee for Devastated France]]. This committee was founded by Morgan to provide relief for parts of France still recovering from World War I. Lenglen was scheduled to begin her trip on 30 July and arrive in time to play in tournaments beginning on 3 August, two weeks before the U.S. National Championships. However, bronchitis delayed her trip twice. She did not leave France until 6 August and did not make it to New York until 13 August, three days before her opening match. She was still sick when she arrived.{{sfn|Little|2007|pp=33–35}}{{sfn|Engelmann|1988|pp=28–32}}
+
+The unseeded draw at the U.S. National Championships placed Lenglen in a first round match against [[Eleanor Goss]] followed by a second round match against Mallory if both players won their opening matches. After Goss defaulted, tournament officials rescheduled the match between Lenglen and Mallory to be held that night to appease the large crowd that showed up to see Lenglen play. Journalists at the time reported that Goss likely defaulted on purpose so that Lenglen would have to face Mallory without having played a competitive match since Wimbledon six weeks earlier. With over 8000 people in attendance, Mallory took a 2–0 lead in the first set before Lenglen began coughing in the third game. Lenglen recovered to win two of the next three games before Mallory took the last four games and the set. After a lost rally and a double fault to start the second set, Lenglen retired from the match. This was the only singles loss of Lenglen's career following World War I.{{sfn|Little|2007|pp=35–36}}{{sfn|Engelmann|1988|pp=33–36}}
+
+Following the match, Lenglen withdrew from the doubles event, which she had entered with Mallory as her partner. Her retirement in singles was not well-received by fans or journalists. In particular, sportswriters believed she retired because she did not believe she could win, not because she was ill. The fact that Lenglen was seen dancing later that night further propagated the idea that she was faking an illness. Nonetheless, a doctor visited her later that week and recommended that she rest for eight days before resuming training. After multiple cancelled exhibition matches, Lenglen returned to play a practice session on 30 August but again became ill. She made her only two exhibition appearances in mixed doubles on 10–11 September. After still dealing with sickness, plans to have Lenglen enter other tournaments or play an exhibition against Mallory never materialized. She left the United States on 21 September.{{sfn|Little|2007|pp=37–39}}{{sfn|Engelmann|1988|pp=36–39}}
+
+===1922: Start of 179-match win streak===
+During the 1922 season, Lenglen did not lose a match in any discipline other than by default. She did not return to competitive tennis until March 1922, six months after her loss to Mallory. Lenglen's first tournament back was the South of France Championships, where she won the doubles and mixed doubles titles. She did not play the singles event and did not play singles again until a month later at the Beausoleil Championships in Monte Carlo. Lenglen won the title without dropping a game and only lost twelve points in the final against Goss, who had defaulted against her in the United States. This tournament began a 179-match win streak to end Lenglen's amateur career.{{sfn|Little|2007|p=41–44}}{{sfn|Engelmann|1988|pp=39–40}}
+
+In the middle of the year, Lenglen won the triple crown at the World Hard Court Championships, the French Championships, and Wimbledon. At the World Hard Court Championships, she came close to losing a set to Kathleen McKane in her singles semifinal. McKane had two set points at 5–4 in the first points; however, Lenglen saved both set points and ultimately won the set 10–8. After she only needed to play three challenge round matches to defend her three titles at the French Championships, Lenglen agreed to forgo the challenge round system and be included in the Wimbledon main draw at the request of the tournament organizers. Prior to the singles final, she lost more than one game in a set three times, once in a 7–5 second set against McKane in the second round, the second time in an 8–6 second set against Ryan in the quarterfinals, and the last in a 6–4 first set versus [[Irene Peacock]] in the semifinals. Mallory won the other semifinal to set up a rematch of their U.S. National Championship meeting. Like in the United States, Mallory won the first two games of the final. However, Lenglen rebounded and won the next twelve games for her fourth Wimbledon singles title.{{sfn|Little|2007|pp=44–46}}{{sfn|Engelmann|1988|pp=40–41}} The match only lasted 26 minutes, making it the shortest final in Wimbledon history.<ref name=si>{{cite web |last1=Wertheim |first1=Jon |title=The Incomparable Life and Mysterious Death of Suzanne Lenglen |url=https://www.si.com/tennis/2019/06/27/suzanne-lenglen-tennis-wimbledon-life-death |publisher=Sports Illustrated |accessdate=11 August 2019 | last2= Feldman | first2= Jacob | date = 27 June 2019}}</ref>
+
+===1923: Career-best 45 titles===
+Lenglen entered more events and won more titles in 1923 than in any other year. She won all 16 of the singles events she entered, as well as 13 of 14 doubles events, and 16 of 18 mixed doubles events. Unlike previous years, she did not default a match in any discipline. At the beginning of the season, Mallory travelled to France to make her debut on the French Riviera circuit. After the press accused both Lenglen and Mallory of avoiding the other, they faced each other in the semifinals of the South of France Championships. Mallory entered the match having not performed well at her other two events on the Riviera. In what turned out to be their last encounter, Lenglen defeated her without losing a game. At the same tournament, Lenglen's twelve-month win streak across all disciplines came to an end with a mixed doubles loss to Ryan and Lycett. Although Lenglen and Ryan won all eight doubles events they entered on the Riviera, they lost a set to Lambert Chambers and McKane in the Monte Carlo final, the only set of open tennis they lost together in their careers.{{sfn|Little|2007|pp=51–52}}{{sfn|Engelmann|1988|pp=41–42}}
+
+At the World Hard Court Championships, Lenglen faced McKane in the final in each event, all three of which were held in the same afternoon. She defeated McKane in singles and mixed doubles, the latter of which with [[Henri Cochet]] as her partner for the second consecutive year. However, with Ryan absent, Lenglen partnered with Golding and struggled against the British team of McKane and Beamish, only winning five games. This was the last time the World Hard Court Championships were held. At the French Championships, the challenge round format was abandoned. Nonetheless, Lenglen defended her triple crown without losing a set. She partnered with Brugnon in mixed doubles for the third straight year, while paring up with [[Julie Vlasto]] for the first time in doubles. She faced the most adversity in the final when the crowd uncharacteristically booed her for trailing 0–4 to Golding in the second set. Lenglen recovered to win the next six games. At Wimbledon, Lenglen won the singles and doubles titles with ease, never dropping more than three games in a set. However, while partnering with [[Jean Washer]], she was defeated by Ryan and Lycett for the second time this year. In September, Lenglen travelled outside of France and won several titles in Belgium, Spain, and Portugal.{{sfn|Little|1988|pp=52–57}}{{sfn|Engelmann|1988|pp=42–43}}
+
+===1924: No major titles===
+Although Lenglen did not lose a match in any discipline in 1924 except by default, she also did not win a major tournament in a year where majors were held for the first time since 1913. Minor illnesses limited her to three singles events on the Riviera, all of which she won. Lenglen played doubles more regularly, winning eight titles in both doubles and mixed doubles. Her closest match on the Riviera was in mixed doubles at the Gallia Club in Cannes. Lenglen and [[Henry Mayes]] defeated Ryan and Aeschlimann with a third set scoreline of 15–13, the longest set of Lenglen's career. In April, Lenglen travelled to Spain to compete at the Barcelona International. Although she won all three events, she contracted [[jaundice]] soon after the trip. The illness prevented her from playing the French Championships. By [[1924 Wimbledon Championships|Wimbledon]], she still had not fully recovered. Nonetheless, she entered the tournament and won her first three singles matches without dropping a game. However, in the next round, Ryan proved to be a more difficult opponent. After losing the first set, Ryan took the second set from Lenglen by a score of 8–6, only the third set of singles Lenglen had lost since World War I. Although Lenglen narrowly won the third set, she withdrew from all three events in the tournament following the advice of her doctor. She did not play another event the rest of the year. In particular, she missed the [[Tennis at the 1924 Summer Olympics|1924 Olympic Games]] in Paris, where Americans took gold in all five tennis competitions and [[Helen Wills]] won the women's singles event.{{sfn|Little|1988|pp=58–63}}{{sfn|Engelmann|1988|pp=43–44}}
+
+===1925: Open French champion===
+[[File:Mlle Lenglen et Brugnon (cropped) 2.jpg|thumb|upright=1.05|Lenglen won five mixed doubles titles at the French Championships with Jacques Brugnon, including the first two open to international players.]]
+Lenglen returned to tennis at the Beau Site New Year Meeting in Cannes the first week of the year, winning in doubles with Ryan in her only event. She only played singles at two tournaments on the Riviera, winning both, including the South of France Championships. Her only loss during this part of the season was to Ryan and [[Umberto de Morpurgo]] at the Côte d'Azur Championships in Cannes with Aeschlimann as her mixed doubles partner. In May, Lenglen entered the [[1925 French Championships (tennis)|French Championships]], the inaugural edition open to international players. The tournament was played at St. Cloud at the site of the defunct World Hard Court Championships. Lenglen won the triple crown at the tournament and was not challenged in singles or mixed doubles. She won the singles final over [[Kathleen McKane]], losing only three games. She won the mixed doubles final with Brugnon against her doubles partner Julie Vlasto and Cochet. Although Lenglen and Vlasto lost the second set of the doubles final 9–11 to McKane and [[Evelyn Colyer]], they won the other two sets with ease for the title.{{sfn|Little|2007|pp=65–66}}{{sfn|Engelmann|1988|pp=44}}
+
+Lenglen followed up her performance at the French Championships with another triple crown at [[1925 Wimbledon Championships|Wimbledon]]. She played five singles matches and did not lose a game in the second set of any of them. The five games she dropped in total remain a record for fewest games lost in a singles title run in Wimbledon history. Her opponents included Ryan in her opening match, the defending champion McKane in the semifinals, and [[Joan Fry]] in the final. Partnering with [[Jean Borotra]] in mixed doubles, Lenglen lost one set in the semifinals to Lycett and his wife [[Joan Lycett|Joan]]. They defeated Ryan and de Morpurgo in the final. In doubles, Lenglen and Ryan won the title without dropping a set in what turned out to be their last tournament together.{{sfn|Little|2007|pp=67–70}}{{sfn|Engelmann|1988|pp=44–45}}
+
+In the last part of the year, Lenglen represented France in an international tie against a team from Australia. She led France to a 7–4 victory in the tie, winning two singles rubbers and one doubles rubber with Vlasto. Members of the Australian team also entered the tournament at Deauville, where Lenglen defeated Australian [[Daphne Akhurst]] while only dropping four games. Akhurst had won the inaugural [[1925 Australasian Championships|Australasian Championships]], the precursor to the Australian Open, earlier in the year. In October, Lenglen returned to England to play at the Cromer Covered Courts, a new indoor wood tournament. Lenglen partnered with Lambert Chambers in doubles for the first and only time, while partnering with Brugnon in mixed doubles. She won both events. This was the only tournament Lenglen played in England other than Wimbledon as well as her only indoor event.{{sfn|Little|2007|pp=70–73}}
+
+===1926: Match of the Century===
+{{see also|Match of the Century (tennis)}}
+[[File:Lenglen Wills Match of the Century 1926 2 (instant) (cropped).jpg|thumb|upright=1.1|Lenglen (left) and Helen Wills (right) at the Match of the Century]]
+
+The 1926 season turned out to be Lenglen's last as an amateur even though she had not planned on retiring before the year began. At the beginning of the season, three-time reigning U.S. national champion Helen Wills travelled to France with the hope of playing a match against Lenglen. With Wills's level of stardom approaching that of Lenglen, there was an immense amount of hype for a match between them to take place. The two of them did not meet in any of Lenglen's first three tournaments of the year after she chose to only play doubles and mixed doubles draws, while Wills only played singles. Their first meeting came in mixed doubles at Nice, where Lenglen partnered with de Morpugo to defeat Wills and Aeschlimann. The following week, they both entered the singles draws at the Carlton Club tournament in Cannes. In preparation for the match, the club doubled the number of seats around their main court. When Lenglen and Wills both made the final with little opposition, all 3000 seats were sold out at 300 francs each.{{efn|The conversion rate was about 25 francs to 1 US dollar.<ref name=everyone>{{cite news |last1=Lidz |first1=Franz |title=Tennis everyone? |url=https://www.si.com/vault/1991/10/16/125154/tennis-everyone-when-helen-wills-and-suzanne-lenglen-clashed-on-the-riviera-in-1926-the-whole-world-awaited-the-news |accessdate=16 August 2019 |work=Sports Illustrated |date=16 October 1991}}</ref>}} Standing room also sold out at 100 francs per person. Additionally, owners of the villas across the street sold unofficial tickets for their roofs, while other spectators attempted to climb trees just outside the court to watch the match. In what was called the [[Match of the Century (tennis)|Match of the Century]], Lenglen defeated Wills in straight sets. Lenglen fell behind a break in both sets. While she ended up winning the first set comfortably, the second set was much more competitive. On Lenglen's first match point at 6–5, both the players and the crowd thought Lenglen had won the match when an attempted winner from Wills was called out by a spectator. After the linesman clarified the shot was good, Wills broke Lenglen to level the set. However, Lenglen recovered and won the next two games to take the match.{{sfn|Little|2007|pp=75–83}}{{sfn|Engelmann|1988|pp=154–186}}
+
+Although Wills remained in France, the two of them did not meet again during the Riviera season because neither player wanted to face the other before the Grand Slam tournaments. However, Wills's season was cut short when she needed to have her appendix removed following her second round victory at the French Championships. As a result, Wills withdrew from both Grand Slam tournaments, and another match between her and Lenglen never took place. In Wills's absence, Lenglen defended all three of her titles at the French Championships with ease, defeating [[Mary Browne]] in the singles final. She again won the doubles with Vlasto and the mixed doubles with Brugnon, only losing one set in the tournament in the quarterfinals of the mixed doubles.{{sfn|Little|2007|pp=84–86}}{{sfn|Engelmann|1988|pp=187–221}}
+
+====Wimbledon misunderstanding====
+The [[1926 Wimbledon Championships]] were known as the Jubilee Championships to commemorate the 50th edition of the tournament. Although Lenglen was a heavy favourite with Wills not participating, the tournament began with two issues. 
+With her father ill and her family expending money, Lenglen's finances were more of a concern than they had been in previous years.{{sfn|Engelmann|1988|p=190}} For previous Wimbledon tournaments, national tennis associations would pay top players more than what they needed to cover their travel expenses so they could earn money while maintaining their amateur status. However, in 1926, the Wimbledon club covered the travel expenses of top players without giving them anything extra. Meanwhile, the French Tennis Federation wanted Lenglen to enter the doubles event with a French partner in Julie Vlasto rather than her usual partner Elizabeth Ryan. Lenglen preferred to enter with Ryan even though she had partnered with Vlasto at the previous two French Championships in Ryan's absence. Although she agreed to play with Vlasto, the situation later worsened. Lenglen became unsettled by being drawn against Ryan in her opening doubles match. In the lead-up to this match, Lenglen and Ryan played an exhibition set of doubles together with Queen Mary in attendance to celebrate the start of the Jubilee Championships. They were surprisingly defeated 6–8 by McKane and [[Kea Bouman]], despite having only lost one set together in open competition in their careers.{{sfn|Little|2007|pp=86–88}}{{sfn|Engelmann|1988|pp=221–223}}
+
+Lenglen's situation did not improve once the tournament began. She opened the singles event with an uncharacteristic win against Browne in which she lost five games, the same number she had lost in the entire 1925 singles event. She was originally supposed to play the doubles match against Ryan at 4:30 PM the following day, followed by her second singles match of the day. However, her singles match was moved to 2:00 PM before the doubles match to accommodate the royal family who planned to be in attendance. Lenglen was not informed of the change until the next morning. She did not want to play the singles before her more important doubles, and did not want to play at 2:00 PM because she had a doctor's appointment at the time. Lenglen asked her regular mixed doubles partner Jacques Brugnon to tell the tournament referee to reschedule the singles match. He never received the message. By the time Lenglen arrived on the grounds at 3:30 PM, Queen Mary and the rest of the crowd were waiting over an hour. After Wimbledon officials confronted her in anger, she refused to play either match.{{sfn|Little|2007|pp=88–89}}{{sfn|Engelmann|1988|pp=223–228}}
+
+Neither the officials, nor Lenglen's opponents wanted her defaulted. As a result, the club adhered to Lenglen's wishes and rescheduled both matches the following day, with the doubles first. Nonetheless, Lenglen and Vlasto were defeated by Ryan and her partner Mary Browne in three sets, despite having three match points when they were ahead 7–6 in the second set. The crowd who had typically supported Lenglen were against her, in part as a result of a fabricated story in the newspaper that Lenglen had angered Queen Mary. With the long duration of the match, the singles was again delayed until the following day. Although Lenglen defeated Evelyn Dewhurst in the match, she lost four games, far more than anyone expected. She played and won her opening mixed doubles match before withdrawing from both singles and mixed doubles due to a shoulder injury. This was Lenglen's last amateur tournament.{{sfn|Little|2007|pp=89–91}}{{sfn|Engelmann|1988|pp=228–234}}
+
+==Professional career==
+===1926–27: United States professional tour===
+[[File:Mary Browne & Lenglen (Tennis) LCCN2014710151 (cropped).jpg|thumb|upright=1.0|Lenglen (right) shaking hands with Mary Browne during the United States professional tour]]
+A month after her withdrawal from Wimbledon, Lenglen signed a $50,000 contract with American sports promotor [[C. C. Pyle]] to headline a four-month professional tour in the United States beginning in October 1926. She had begun discussing a professional contract with Pyle's associate William Pickens when he visited her on the Riviera in April. Lenglen had previously turned down an offer of 200,000 francs to turn professional in America following her last victory over Molla Mallory in 1923, but declined in large part to keep her amateur status.{{sfn|Engelmann|1988|p=42}} In the initial discussions with Pickens, Lenglen maintained that she was only interested in a professional tour if she could keep her amateur status. However, she became less concerned with remaining an amateur following the crowd turning against her at Wimbledon. She was more interested in keeping her social status, and was convinced by Pyle that turning professional would not hurt her stardom or damage her reputation. With Lenglen on the tour, Pyle attempted to recruit other top players, including Wills, Kitty McKane, and top American men's players [[Bill Tilden]] and [[Bill Johnston (tennis)|Bill Johnston]]. Although they all declined, Pyle was able to sign Mary Browne as well as men's players [[Vincent Richards]], [[Paul Féret]], [[Howard Kinsey]], and Harvey Snodgrass. Richards was regarded as the biggest star among the male players, having won gold medals in singles and doubles at the 1924 Olympics. Once the tour began, Lenglen and all of the other players lost their amateur status.{{sfn|Little|2007|pp=93–96}}{{sfn|Engelmann|1988|pp=239–269}}
+
+Although professional tennis tournaments already existed, the tour was the first significant travelling professional exhibition series in tennis history. It featured 40 stops, starting on 9 October 1926 and ending on 14 February 1927, and including several stops in Canada as well as one in Cuba. Most nights had four matches: singles between Richards and one of the other male players, singles between Lenglen and Browne, men's doubles, and  mixed doubles in that order. The singles matches were almost best-of-three sets, while the mixed doubles was usually one set. Lenglen dominated Browne on the tour, winning all 33 of the best-of-three set matches played to completion. After the ninth stop, Pyle added a $100 bonus for Browne if she could win four games to make the matches more competitive. She regularly earned this bonus afterwards, despite having only won four games against Lenglen in two of the nine matches before it was instituted. Overall, Browne won two sets against Lenglen, the first in the second set at the 33rd stop. She also won the only set they played at the 36th stop, after Lenglen became ill and had decided to play just a one set match to avoid disappointing the fans. She remained sick and did not play in any of the last four nights of the tour. Browne also nearly won a set at the 23rd stop, losing 9–11, at which point Lenglen decided not to continue.{{efn|As the tour was an exhibition, Lenglen did not need to officially retire to end the match early.}}{{sfn|Little|2007|pp=206–211}}{{sfn|Little|2007|pp=96–109}}
+
+The tour was a financial success. Lenglen earned the most money, receiving half of the revenue from ticket sales. In total, she earned $100,000, more than the $70,000 that [[Babe Ruth]] earned in 1927 as the highest-paid player in [[Major League Baseball]].<ref name="babe-ruth">{{cite web |last1=Haupert |first1=Michael |title=MLB's annual salary leaders since 1874 |url=https://sabr.org/research/mlbs-annual-salary-leaders-1874-2012 |publisher=Society of American Baseball Research |accessdate=21 October 2019}}</ref> The average attendance was just over 4000 at the 34 venues where it was recorded. The most well-attended venues were opening night at [[Madison Square Garden]] in New York City with an attendance of 13000, the [[Public Auditorium]] in Cleveland with an attendance of 10000, and the [[Olympic Auditorium]] in Los Angeles with an attendance of 9000. Opening night in particular brought in $34,000 from ticket sales between $1.50 and $5.50.{{sfn|Little|2007|pp=206–211}}{{sfn|Little|2007|pp=96–111}}
+
+===1927: British professional tour===
+A few months after the end of the United States tour, Lenglen signed with British sports promoter [[Charles B. Cochran|Charles Cochran]] to headline a shorter professional tour in the United Kingdom. Afterwards, Cochran recruited [[Dora Köring]] and Evelyn Dewhurst to play against Lenglen. Koring was the 1912 Olympic silver medalist in singles, while Dewhurst was Lenglen's last amateur opponent. [[Karel Koželuh]] and Kinsey were the male players on the tour. The players competed in three matches on each night: men's singles, women's singles, and mixed doubles. There were seven tour stops, all in July 1927. Lenglen won all seven of her singles matches, never losing more than five games in any of them. The last three stops were played on the grounds of association football clubs, namely [[Queen's Park F.C.]] in Glasgow, [[Blackpool F.C.]], and [[Manchester United F.C.]]. These were the best attended events on the tour, with the final match at [[Old Trafford]] having an attendance of over 15000, the highest between either professional tour.{{sfn|Little|2007|pp=110–115}}{{sfn|Little|2007|pp=211–212}}
+
+===Fallout===
+Lenglen was widely criticized for her decision to turn professional. Once the tour began, the French Tennis Federation expelled her and Féret while the All England Tennis Lawn Tennis Club revoked her membership. Lenglen in turn criticized amateur tennis.
+
+{{Quotation|In the twelve years I have been champion I have earned literally millions of francs for tennis and have paid thousands of francs in entrance fees to be allowed to do so.... I have worked as hard at my career as any man or woman has worked at any career. And in my whole lifetime I have not earned $5,000 – not one cent of that by my specialty, my life study – tennis.... I am twenty-seven and not wealthy – should I embark on any other career and leave the one for which I have what people call genius?  Or should I smile at the prospect of actual poverty and continue to earn a fortune – for whom?|Lenglen, in the program for the United States professional tour{{sfn|Little|2007|p=93}}<ref>{{cite web |last1=Eisenband |first1=Jeff |title=TennisWorthy: Suzanne Lenglen, A Roaring 20s Legend |url=https://www.tennisfame.com/news/2019/TennisWorthySuzanneLenglen |website=International Tennis Hall of Fame |accessdate=2 March 2020 | date = 25 March 2019}}</ref>}}
+
+{{Quotation|Under these absurd and antiquated amateur rulings, only a wealthy person can compete, and the fact of the matter is that only wealthy people ''do'' compete. Is that fair?  Does it advance the sport?  Does it make tennis more popular – or does it tend to suppress and hinder an enormous amount of tennis talent lying dormant in the bodies of young men and women whose names are not in the social register?|Lenglen, in the program for the United States professional tour{{sfn|Little|2007|p=93}}<ref name=pro-quote2/>}}
+
+==Rivalries==
+===Lenglen vs. Mallory===
+[[File:Mallory and Lenglen 1921 St Cloud (cropped) 2.jpg|thumb|upright=1.1|Molla Mallory (left) with Lenglen in 1921]]
+[[Molla Mallory]] was the only player to defeat Lenglen in singles after World War I. Fifteen years older than Lenglen and originally from Norway, Mallory won a bronze medal at the [[Tennis at the 1912 Summer Olympics – Women's outdoor singles|1912 Olympic Games]] before emigrating to the United States in 1914. While World War I halted the world of tennis in Europe, Mallory established herself as the top-ranked American player, winning the first four U.S. National Championships she entered from 1915 through 1918. Whereas Lenglen regularly came to the net and had an all-court game built around control rather than power, the much older Mallory played almost exclusively from the baseline. The strengths of her game were that she took the ball early and had one of the most powerful forehands in women's tennis at the time. Mallory had a similar personality to Lenglen off the court. While they each hated losing, both of them smoked regularly and loved to dance.{{sfn|King|Starr|1988|pp=29}} Lenglen faced Mallory just four times in singles, compiling a 3–1 record. She also won both of their doubles and mixed doubles encounters.{{sfn|name=match-statistics|Little|2007|pp=135–196}}
+
+When they first faced each other in the final of the 1921 World Hard Court Championships, Lenglen struggled with blisters on her foot in the second set. With Lenglen facing a break point to trail 2–4, her father shouted at her from the stands to continue playing when she appeared ready to retire. Lenglen proceeded to win the last four games of the match, following her pre-match plan to play defensively and wait for Mallory to make unforced errors on attempted winners.{{sfn|Engelmann|1988|pp=26–28}} Like towards the end of the first match, Lenglen was not in good health when she faced Mallory at the 1921 U.S. National Championships. Unlike in their previous match, Mallory was able to take advantage of Lenglen's poor health, executing her usual strategy of going for winners. She won the first set 6–2 before Lenglen retired two points later. Her health prevented them from playing doubles together at the tournament.{{sfn|Engelmann|1988|pp=35–36}} At their third meeting in the 1922 Wimbledon final, Lenglen played more aggressively. She employed Mallory's strategy of hitting well-placed winners from the baseline to win the match easily.{{sfn|Little|1988|pp=45–46}}{{sfn|Engelmann|1988|p=41}} She used the same strategy in her [[Bagel (tennis)|double bagel]] victory on the Riviera the following year, their last meeting.{{sfn|Engelmann|1988|p=42}}{{sfn|name=match-statistics|Little|2007|pp=135–196}}{{sfn|Little|1988|p=49}}
+
+The press built up the rivalry between Lenglen and Mallory. After Lenglen's retirement against Mallory at the U.S. National Championships, the vast majority of American newspapers criticized Lenglen for not finishing the match and accused her of retiring because she did not think she could win. They coined a phrase "cough and quit" that became popular at the time for describing someone who needed an excuse to avoid losing.{{sfn|Engelmann|1988|pp=36–37}} After Lenglen's victory over Mallory at Wimbledon, the American press returned to supporting Lenglen. Both Lenglen and Mallory believed the newspapers exaggerated the personal nature of their rivalry. Mallory in particular said, "The newspapers are the dirtiest, filthiest things that ever happened. I don't want my name in the newspapers. I have a better chance on the courts than in the newspapers of my own country."{{sfn|Engelmann|1988|pp=40–41}}
+
+===Lenglen and Ryan===
+Lenglen's regular doubles partner [[Elizabeth Ryan]] was also her most frequent opponent in singles. Born in the United States, Ryan travelled to England in 1912 to visit her sister before deciding to stay there permanently. Although she lost all four of her appearances in major finals, Ryan won 26 major titles between doubles and mixed doubles. The biggest strength of her game was volleying. Tennis writer [[Ted Tinling]] said, "There were a few volleying pioneers, notably [[Hazel Hotchkiss Wightman|Hazel Wightman]] and [[Ethel Thomson Larcombe|Ethel Larcombe]], but volleying as a fundamental, aggressive technique was first injected into the women's game by Ryan."{{sfn|Barrett|1980|p=56}} Lenglen and Ryan first partnered together at a handicap event at Monte Carlo in 1913 they were 13 and 20 years old respectively. After losing the final at that tournament, the two of them never lost an open doubles match, only one dropping set in 1925 to Dorothea Lambert Chambers and Kathleen McKane, again at Monte Carlo. Ryan was Lenglen's doubles partner for 40 of her 74 doubles titles, including all six at Wimbledon and two of three at the World Hard Court Championships.{{sfn|name=match-statistics|Little|2007|pp=135–196}}{{sfn|Little|2007|p=87}}
+
+Ryan defeated Lenglen in their first singles meeting in straight sets at Monte Carlo in 1914 and also won a set against her in their second meeting two months later. Following their first encounter, Lenglen won all 17 of their remaining matches, including five meetings at Wimbledon and two major finals. The only time Ryan won a set against Lenglen after World War I was in the quarterfinals at Wimbledon in 1924, where Lenglen withdrew due to illness in the following round. When the French Tennis Federation asked Lenglen to take a French partner in doubles at Wimbledon in 1926, Ryan partnered with Mary Browne to defeat Lenglen and her new partner Diddie Vlasto, coming from three match points down in the second set. This match contributed to Lenglen's withdrawal from singles and mixed doubles within the following few days. Ryan also won their only other doubles meeting in 1914. In mixed doubles, Lenglen compiled a 23–9 record against Ryan. More than half of her career mixed doubles losses came against Ryan. After losing their first six encounters, she recovered to win the next thirteen. Lenglen won her first mixed doubles match against Ryan with [[Major Ritchie]] when Ryan partnered with [[Gordon Lowe]] at the 1920 Beaulieu tournament. That win streak came to an end with a loss to Ryan and Randolph Lycett at the 1923 South of France Championships while she partnered with [[Mikhail Sumarokov-Elston]].{{sfn|name=match-statistics|Little|2007|pp=135–196}}
+
+===Other rivals===
+[[Helen Wills]] was the closest to becoming Lenglen's counterpart in the mid-1920s. Wills finished her career with 19 Grand Slam singles titles, a record that was not broken until Margaret Court won her twentieth such title in 1970. She was ranked by the Tennis Channel as the third greatest female player of the amateur era, behind only Lenglen and [[Maureen Connolly]]. Late in Lenglen's amateur career, Wills had built up a similar level of stardom to Lenglen by winning the 1924 Olympic gold medal in singles in Lenglen's absence while still only 18 years old. Although their careers overlapped when Wills visited Europe in 1924 and 1926, Lenglen only faced Wills once in her career, preventing a longstanding rivalry between tennis's two biggest female stars from emerging. Lenglen withdrew from Wimbledon and the Olympics due to jaundice in 1924, while Wills withdrew from the French Championships and Wimbledon in 1926 due to appendicitis, preventing additional encounters or a longstanding rivalry between tennis's two biggest female stars of the 1920s from emerging.{{sfn|Engelmann|1988|p=81–106}}{{sfn|Engelmann|1988|p=206–234}} Lenglen defeated Wills in their only meeting, which was held at the Carlton Club on the French Riviera and known as the Match of the Century.{{sfn|Engelmann|1988|pp=154–186}}
+
+[[Jeanne Matthey]] was the only player to defeat Lenglen in singles twice. Matthey was a four-time French champion in both singles and doubles from 1909 to 1912. Both of her wins against Lenglen were in straight sets, the first in the semifinals of the Compiègne Championships in 1912 and the second in the final of the Chantilly tournament in 1913. Additionally, Lenglen defaulted in what would have been their third meeting in the final of the 1913 Compiègne Championships later that month. She never faced Matthey in 1914.{{sfn|name=match-statistics|Little|2007|pp=135–196}} Matthey did not return to competitive tennis following World War I due to right arm injuries she suffered while serving as a nurse during the war.<ref>{{cite web |title=The Heroic Jeanne Matthey |url=https://www.rolandgarros.com/en-us/article/one-woman-one-story-culture-jeanne-matthey |publisher=Roland Garros|accessdate=20 October 2019| date = 8 April 2019}}</ref>
+
+==Playing style==
+[[File:Le Miroir des sports 08071920 (cropped).jpg|thumb|upright=1.3|Lenglen leaping in a ballet motion to hit a volley]]
+Lenglen had a versatile all-court game. Her longtime doubles partner Elizabeth Ryan described her style of play as, "[Lenglen] owned every kind of shot, plus a genius for knowing how and when to use them. She never gave an opponent the same kind of shot twice in a row. She’d make you run miles... her game was all placement and deception and steadiness. I had the best drop shot anybody ever had, but she could not only get up to it but was so fast that often she could score a placement off it."<ref name="tennis-hof">{{cite web |title=Suzanne Lenglen |url=https://www.tennisfame.com/hall-of-famers/inductees/suzanne-lenglen |website=International Tennis Hall of Fame |accessdate=14 August 2019}}</ref> Her rivals Molla Mallory and Helen Wills also both noted that Lenglen excelled at extending rallies and could take control of points with defensive shots.<ref name=mallory-height/><ref name="si-vault">{{cite news |last1=Pileggi |first1=Sarah |title=The Lady in the White Silk Dress |url=https://www.si.com/vault/1982/09/13/624724/the-lady-in-the-white-silk-dress |accessdate=14 August 2019 |work=Sports Illustrated |date=13 September 1982}}</ref> Although Lenglen built her game around control rather than power, she had the ability to hit powerful shots.{{sfn|King|Starr|1988|p=26}} In particular, Mallory praised the power behind her defensive shots, saying, "She is just the steadiest player that ever was. She just sent back at me whatever I sent at her and waited for me to make a fault. And her returns often enough were harder than the shots I sent up to her."<ref name="mallory-height">{{cite news |title=Mlle. Lenglen wins from Mrs. Mallory | pages=1, 5 |url=https://timesmachine.nytimes.com/timesmachine/1921/06/06/98701321.pdf |work=New York Times |date=6 June 1921}}</ref> British journalist [[Ernest Crawley|A. E. Crawley]] regarded her as having the best movement of her time, saying, "I have never seen on a lawn tennis court either man or woman move with such mechanical and artistic perfection and prose. Whether [Lenglen's] objective is the ball or merely changing sides, she reminded you of the movement of fire over prairie grass."{{sfn|Engelmann|1988|p=23}} He also believed she was a powerful server and an aggressive volleyer, commenting, "She serves with all the male athlete's power. She smashes with the same loose and rapid action, the release of a spring of steel. Her volley is not a timid push, but an arrow from the bow. And an arrow from the bow is Suzanne herself."{{sfn|Engelmann|1988|p=23}}
+
+At the recommendation of her father, Lenglen developed her style of play based on the games of the leading men's tennis players. This approach led her to become one of the leading volleyers in women's tennis at a time when the women's game was centered around playing from the baseline, even for the top players. Lenglen aimed to come to the net to finish points quickly whenever possible.{{sfn|King|Starr|1988|p=26}} Kathleen McKane specifically noted that "Suzanne volleyed like a man" when describing her influence on women's tennis.{{sfn|Wagg|2011|p=137}} While Lenglen did not model the majority of her game after any specific player, she modeled her forehand after that of [[Anthony Wilding]], who she regarded as having the best forehand of her time. Like Wilding, she aimed to hit forehands flat and with little to no topspin.{{sfn|Lenglen|1920|pp=10, 32}} She also strived to hit balls early on the rise.{{sfn|Engelmann|1988|p=51}} Lenglen wrote in her book ''Lawn Tennis for Girls'', "A favorite shot of mine is the backhand down the line".{{sfn|Lenglen|1920|p=13}} Her father had made it a priority for her to master this shot in training as a consequence of her struggling with it early on.{{sfn|Engelmann|1988|p=12}} Lenglen was regarded as having a graceful style of play. Her movement at times was thought to resemble that of a dancer. These dancing motions may have arose from a course on classic Greek dance she had taken as a child at the Institute Massena in Nice.{{sfn|Englemann|1988|p=8}} [[René Lacoste]], a leading French men's tennis player from her era, said, "[Lenglen] played with marvelous ease the simplest strokes in the world. It was only after several games that I understood what harmony was concealed by her simplicity, what wonderful mental and physical balance was hidden by the facility of her play."{{sfn|Englemann|1988|pp=5–6}}
+
+Lenglen was known for drinking cognac during matches. In the 1919 Wimbledon final against Lambert Chambers, Lenglen's father gave her cognac at two separate points in the match. On the first occasion, he threw a vial onto the court from the stands without anyone realizing what it contained at that moment. Both instances helped Lenglen as she won the next three games following the second set incident and then took a 4–1 lead in the third set after receiving more cognac in-between sets.{{sfn|Engelmann|1988|pp=19–23}} Similarly, Lenglen's mother supplied her with cognac in her victory over [[Helen Wills]] in the Match of the Century in-between sets and during the more competitive second set.{{sfn|Engelmann|1988|pp=170–177}} When Lenglen travelled to play at the U.S. National Championships in 1921, the United States Lawn Tennis Association agreed to allow her to consume alcohol during her stay even though that was illegal under the laws of [[Prohibition in the United States|Prohibition]] at the time. However, at the very least, the USLTA did not provide Lenglen with alcohol during her retirement loss to Mallory.{{sfn|Engelmann|1988|pp=33–36}}
+
+== Legacy ==
+===Achievements===
+Lenglen was ranked as the 24th greatest player of all-time by the [[Tennis Channel]]. She was the ninth-highest ranked woman overall, as well as the highest-ranked woman to play exclusively in the amateur era.<ref>{{cite web |title=Federer Named Best of All-Time by Tennis Channel |url=https://newyorktennismagazine.com/article3940/federer-named-best-all-time-tennis-channel |website=New York Tennis Magazine |accessdate=9 November 2019 | date = 26 March 2012}}</ref> After formal annual women's tennis rankings began to be published by tennis journalist and player [[A. Wallis Myers]] in 1921, Lenglen was No. 1 in the world in each of the first six editions of the rankings through her retirement from amateur tennis in 1926.{{sfn|Collins|2008|pp=695, 701}} She won a total of 250 titles consisting of 83 in singles, 74 in doubles, and 93 in mixed doubles.{{sfn|Little|2007|p=134}} She compiled a win percentage of 96.9% across all disciplines, highlighted by a 97.9% win percentage in singles. After World War I, she won 287 of 288 matches, starting with a 108-match win streak and ending with a 179-match win streak.{{sfn|Little|2007|pp=135–196}} Helen Wills had a comparable win streak of about 180 matches following Lenglen's retirement.{{sfn|Engelmann|1988|p=435}} As her only loss in this span came on grass, Lenglen ended her career on a 255-match win streak on clay.{{sfn|Little|2007|pp=135–196}} She won nine singles tournaments without losing a game, including the 1919 South of France Championships.{{sfn|Little|2007|pp=131–134}}
+
+Lenglen's eight Grand Slam women's singles titles are tied for the tenth-most all-time, and place her tied for fourth in the amateur era behind only [[Maureen Connolly]] who had nine, [[Margaret Court]] who had thirteen, and Helen Wills who had nineteen.<ref name=grand-slam-list>{{cite web |title=Women's Grand Slam Title Winners |url=http://www.espn.com/tennis/history/_/type/women |website=ESPN |accessdate=10 November 2019}}</ref> After her first Grand Slam singles title at the 1919 Wimbledon Championships, Lenglen did not lose more than three games in a set in any of her other Grand Slam singles finals. She did not lose more than three games in a set in any of her four World Hard Court Championship singles finals either.{{sfn|Little|2007|pp=135–196}} Lenglen's six Wimbledon titles are tied for the sixth-most in history.<ref name=grand-slam-list/> Her former record of five consecutive Wimbledon titles has only since been matched by [[Martina Navratilova]], who won her sixth consecutive such title in 1987.<ref>{{cite web |last1=Schwartz |first1=Larry |title=Martina was alone on top |url=http://www.espn.com/classic/biography/s/Navratilova_Martina.html |website=ESPN |accessdate=10 November 2019}}</ref> Lenglen's title at the 1914 World Hard Court Championships made her the youngest major champion in tennis history at 15 years and 16 days old.<ref name=pro-quote2>{{cite web |title=Suzanne Lenglen: The original tennis diva of the 1920s who brought the women's game alive |url=https://www.telegraph.co.uk/technology/2016/05/24/suzanne-lenglen-the-original-tennis-diva-of-the-1920s-who-brough/ |website=The Telegraph | date = 24 May 2016 |accessdate=10 November 2019}}</ref>{{efn|Like the modern Grand Slam tournaments, the World Hard Court Championships (along with the World Covered Court Championships) is regarded as a major tournament in tennis history, but it is not labeled as a Grand Slam tournament. Lenglen won this title at a younger age than [[Lottie Dod]], who became the youngest Grand Slam singles champion by winning Wimbledon in 1887 at 15 years and 285 days old. She was also younger than [[Martina Hingis]] when she became the youngest Grand Slam champion by winning the 1996 Wimbledon doubles title at 15 years and 282 days old.<ref>{{cite web |last1=Frey |first1=Jennifer |title=Hingis Aces Wimbledon Final |url=https://www.washingtonpost.com/wp-srv/sports/tennis/longterm/1997/wimbldn/wimble06.htm |website=Washington Post |accessdate=9 November 2019 | date = 6 July 1997}}</ref>}}
+
+Lenglen won a total of 17 titles at the Wimbledon Championships, 19 titles at the French Championships, as well as 10 titles at the World Hard Court Championships across all disciplines. Lenglen completed three Wimbledon triple crowns – winning the singles, doubles, and mixed doubles events at a tournament in the same year – in 1920, 1922, and 1925. She also won two triple crowns at the World Hard Court Championships in 1921 and 1922, as well as six triple crowns at the French Championships, the first four of which came consecutively from 1920 through 1923 when the tournament was invitation-only to French nationals and the last two of which came in 1925 and 1926 when the tournament was open to internationals.{{sfn|Little|2007|pp=131–134}}
+
+===Mythical persona===
+Lenglen was presented as a mythical figure in the press, a view that was accepted by the public both in Europe and in America. Following World War I, she became a symbol of national pride in France in a country looking to recover from the war.{{sfn|King|Starr|1988|p=27}} The French press referred to Lenglen as ''notre Suzanne'', or "our Suzanne", to characterize her status as a national heroine; and more eminently as ''La Divine'', or "The Goddess" to assert her unassailability. She was also known as "The Queen" and "The Maid Marvel", and was described as ''hors classe'', a term adapted from cycling meaning "beyond classification". The press wrote about Lenglen as if she was infallible at tennis, often attributing any performance that was relatively poor by her standards to various excuses such as the fault of her doubles partner or to having concern over the health of her father. Journalists who criticized Lenglen were condemned and refuted by the rest of the press.{{sfn|Engelmann|1988|pp=4–5}} At the Olympics in 1920, she introduced herself to journalists as "The Great Lenglen", a title that was well-received.{{sfn|Engelmann|1988|p=26}} Before matches, Lenglen would predict to the press that she was going to win, a practice that Americans treated as improper. On this practice, she said, "When I am asked a question I endeavor to give a frank answer. If I know I am going to win, what harm is there in saying so?"{{sfn|Engelmann|1988|p=32}}
+
+Lenglen was the first female athlete to be acknowledged as a celebrity outside her particular sport. She was acquainted with members of royal families such as [[Gustav V]], the King of Sweden, and actresses such as [[Mary Pickford]]. She was also well known by the general public, and her matches were well-attended by people who were not otherwise interested in tennis.{{sfn|Engelmann|1988|p=46}} Many of her biggest matches were sold out, including the 1919 Wimbledon final against Dorothea Lambert Chambers, where the attendance more than doubled the seating capacity of Centre Court, and her first match against Molla Mallory, where tickets were sold at a cost of up to 500 francs and an estimated 5000 people could not gain entry to see the match after it had sold out.{{sfn|Engelmann|1988|p=27}} The record popularity of Lenglen's matches at Wimbledon was a large factor in the club moving the tournament from Worple Road to Church Road where it remains today. A new Centre Court opened in 1922 with a seating capacity of nearly 10000, well above the seating capacity of 3500 at the old venue.<ref name=si/>{{sfn|Little|2007|pp=14, 16, 33, 45}} At the Match of the Century against Wills, seated tickets that were sold out at 300 francs, equivalent to about seven American dollars, by the venue were re-sold by scalpers at up to 1200 francs, equivalent to about $44 in the United States.{{sfn|Little|2007|p=78}} This cost far exceeded that for the men's singles final at the U.S. National Championships at the time, which were sold as low as $2 for a seat.{{sfn|Engelmann|1988|p=161}} Additionally, many of Lenglen's biggest matches were covered on the front pages of newspapers such as ''[[The New York Times]]''. These included both matches against Mallory in 1921<ref name=mallory-height/><ref>{{cite news |title=Mlle. Lenglen, ill, weeps and resigns in opening match |url=https://www.nytimes.com/1921/08/17/archives/mlle-lenglen-ill-weeps-and-resigns-in-opening-match-racked-by-cough.html?searchResultPosition=27 |accessdate=10 November 2019 | date = 17 August 1921 |work=New York Times}}</ref> and the Match of the Century.<ref>{{cite news |last1=Tuohy |first1=Ferdinand |title=Lenglen is winner over Helen Wills in furious battle |url=https://www.nytimes.com/1926/02/17/archives/lenglen-is-winner-over-helen-wills-in-furious-battle-french-tennis.html?searchResultPosition=7 |accessdate=10 November 2019 |work=New York Times |date=17 February 1926}}</ref>
+
+===Honours===
+Lenglen is honoured in a variety of ways at [[Stade Roland Garros]], the site of the modern [[French Open]]. The second show court, which was built in 1994 with a capacity of about 10000, was named Court Suzanne Lenglen in 1997.<ref>{{cite web |title=Roland Garros |url=https://www.itftennis.com/juniors/tournaments/grand-slams/roland-garros.aspx |website=ITF World Tennis Tour |accessdate=10 November 2019}}</ref> There is a bronze relief statue of Lenglen outside the court as well, which was also erected in 1994. The French Tennis Federation had originally planned to erect a statue of Lenglen immediately after her death, but this plan never materialized due to the start of World War II later that year. Additionally, one of the main entrances to the ground is Porte Suzanne Lenglen, which leads to Allée Suzanne Lenglen. This alley had previously been a road, Rue Suzanne Lenglen, before the grounds were expanded in 1984. Moreover, the women's singles championship trophy was named the Coupe Suzanne Lenglen in 1987. In spite of her success at the French Championships, Lenglen never competed at Stade Roland Garros as it did not become the site for the tournament until 1928 after her retirement from amateur tennis.{{sfn|Little|2007|p=124}}
+
+Lenglen was inducted into the [[International Tennis Hall of Fame]] in 1978.<ref name="tennis-hof"/> Following her death, she was awarded the Cross of the Legion of Honour. Another road, the Avenue Suzanne Lenglen, is named in her honour outside of the Nice Lawn Tennis Club.{{sfn|Little|2007|p=124}} She has been honoured in a [[Google Doodle]] twice, once on her 117th birthday on 24 May 2016, and again on International Women's Day on 8 March 2017.<ref>{{cite web |title=Suzanne Lenglen’s 117th Birthday |url=https://www.google.com/doodles/suzanne-lenglens-117th-birthday |website=Google |accessdate=10 November 2019}}</ref><ref>{{Cite web|url=https://www.google.com/doodles/international-womens-day-2017|title=International Women's Day|accessdate=8 March 2017|website=Google}}</ref>
+
+==Personal life==
+Lenglen was in a long-term relationship with Baldwin Baldwin from 1927 to 1932. Baldwin was the grandson and heir to [[Lucky Baldwin]], a prominent businessman and real estate investor who was active in California. Lenglen met Baldwin in California during her professional tour in the United States. Although they intended to get married, those plans never materialized largely because Baldwin was already married and his wife would not agree to a divorce while Lenglen and Baldwin were together.{{sfn|Little|2007|p=103}}
+
+Lenglen was an author of several books on tennis, the first two of which she wrote during her amateur career. Her first book, ''Lawn Tennis for Girls'', covered techniques and advice on tactics for beginning tennis players. {{sfn|Little|2007|pp=21}} She also wrote ''Lawn Tennis: The Game of Nations'' and ''The Love Game: Being the Life Story of Marcelle Penrose''.{{sfn|Engelmann|1988|p=444}} Lenglen finished her last book ''Tennis by Simple Exercises'' with [[Margaret Morris (dancer)|Margaret Morris]] in 1937. The book featured a section by Lenglen on what was need to become an all-around tennis player and a section by Morris, a choreographer and dancer, on exercises designed for tennis players.{{sfn|Little|2007|pp=122–23}} She also played a role as an actress in the 1935 British musical comedy film ''[[Things Are Looking Up (film)|Things Are Looking Up]]'', in which she contests a tennis match against the lead character portrayed by [[Cicely Courtneidge]].{{sfn|Little|2007|p=120}}
+
+Lenglen never formally applied to be reinstated as an amateur with the French Tennis Federation. She asked about the possibility of reinstatement in 1932 after [[Paul Féret]] was reinstated despite his participation on Lenglen's professional tour in the United States, but she was told to wait another three years. Lenglen did not participate in any other professional tours either. The following year, Lenglen returned to tennis as a coach, serving as the director of a school on the grounds of Stade Roland Garros. She opened her own tennis school for girls in 1936 at the Tennis Mirabeau in Paris with the support of the French Tennis Federation. She began instructing adults the following year as well. A year later in May 1938, Lenglen became the inaugural director of the French National Tennis School in Paris.{{sfn|Little|2007|pp=118–23}}
+
+Shortly after this appointment, Lenglen became ill with [[pernicious anemia]].{{sfn|Little|2007|p=123}} She previously had other health issues following her retirement, most notably suffering from appendicitis and having her appendix removed in October 1934.{{sfn|Engelmann|1988|p=426}} She died three weeks after her diagnosis on 4 July 1938 at the age of 39.{{sfn|Little|2007|p=123}} Her father had died of poor health nine years earlier.{{sfn|Little|2007|p=118}} Lenglen was buried at the [[Cimetière de Saint-Ouen]] near Paris.{{sfn|Little|2007|p=124}}
+
+==Career statistics==
+{{Main|Suzanne Lenglen career statistics}}
+
+===Major finals===
+
+====Grand Slam singles: 8 (8 titles)====
+{| class='sortable wikitable'
+!style="width:60px" class="unsortable"|Result
+!style="width:35px"|Year
+!style="width:120px"|Championship
+!style="width:50px"|Surface
+!style="width:200px"|Opponent
+!style="width:100px" class="unsortable"|Score
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1919 || [[Wimbledon Championships|Wimbledon]] ||Grass|| {{flagicon|GBR}} [[Dorothea Lambert Chambers]]|| 10–8, 4–6, 9–7
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1920 || Wimbledon <small>(2)</small> ||Grass|| {{flagicon|GBR}} Dorothea Lambert Chambers || 6–3, 6–0
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1921 || Wimbledon <small>(3)</small> ||Grass|| {{flagicon|USA|1912}} [[Elizabeth Ryan]]|| 6–2, 6–0
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1922 || Wimbledon <small>(4)</small> || Grass|| {{flagicon|USA|1912}} [[Molla Mallory]] || 6–2, 6–0
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1923 || Wimbledon <small>(5)</small>||Grass|| {{flagicon|GBR}} [[Kathleen McKane Godfree|Kathleen McKane]] || 6–2, 6–2
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win ||1925 ||[[French Open|French]] ||Clay|| {{flagicon|GBR}} [[Kathleen McKane Godfree|Kathleen McKane]] || 6–1, 6–2
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1925 || Wimbledon <small>(6)</small> ||Grass|| {{flagicon|GBR}} [[Joan Fry]] || 6–2, 6–0
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win ||1926 ||French <small>(2)</small> ||Clay|| {{flagicon|USA|1912}} [[Mary Browne]] || 6–1, 6–0
+|}
+
+====World Championship singles: 4 (4 titles)====
+{| class='sortable wikitable'
+!style="width:60px" class="unsortable"|Result
+!style="width:35px"|Year
+!style="width:120px"|Championship
+!style="width:50px"|Surface
+!style="width:200px"|Opponent
+!style="width:100px" class="unsortable"|Score
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win ||1914 ||[[World Hard Court Championships|World Hard Court]] || Clay|| {{flagicon|FRA}}  [[Germaine Golding]] || 6–3, 6–2
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win  ||1921 || World Hard Court <small>(2)</small> ||Clay|| {{flagicon|USA|1912}} [[Molla Mallory]]|| 6–2, 6–3
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win ||1922 || World Hard Court <small>(3)</small> ||Clay|| {{flagicon|USA|1912}} Elizabeth Ryan || 6–3, 6–2
+|-style="background:#ebc2af;"
+| style="background:#98fb98;"|Win||1923 || World Hard Court <small>(4)</small> || Clay|| {{flagicon|GBR}} [[Kathleen McKane Godfree|Kathleen McKane]] || 6–2, 6–3
+|}
+
+===Performance timelines===
+{{performance key|short=yes|active=no}}
+
+====Singles====
+{|class="wikitable" style=text-align:center
+|- bgcolor="#efefef"
+! Tournament !! 1914 !! 1915–18 !! 1919 !! 1920 !! 1921 !! 1922 !! 1923 !! 1924 !! 1925 !! 1926 !! {{Tooltip| SR | Strike Rate}} !! {{Tooltip| W–L | Win–Loss}}!!Win %
+|-
+| colspan="26" align="left" |'''Grand Slam tournaments'''{{efn|name=Grand Slams|The modern Grand Slam events coalesced in 1925. Earlier results from the these tournaments are counted towards Grand Slam statistics, except at the French Championships, which was not open to international players until 1925. Lenglen never competed at the Australasian Championships, which began for women in 1922.}}
+|-
+| align=left| [[French Open|French]]
+| style=color:#ccc| ''F''
+|colspan=2 style=color:#ccc|''Not Held''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''A''
+| style="background:#00ff00;" | [[1925 French Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1926 French Championships – Women's Singles|'''W''']]
+|2 / 2
+|10–0
+|{{tennis win percentage|won=10|lost=0|integer=yes}}
+|-
+| align=left | [[The Championships, Wimbledon|Wimbledon]]
+|A
+|colspan=1 style=color:#ccc|NH
+| style="background:#00ff00;" | [[1919 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1920 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1921 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1922 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1923 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:yellow;" | [[1924 Wimbledon Championships – Women's Singles|SF]]
+| style="background:#00ff00;" | [[1925 Wimbledon Championships – Women's Singles|'''W''']]
+| style="background:#afeeee;"|[[1926 Wimbledon Championships – Women's Singles|3R]]
+|6 / 8
+|32–0
+|{{tennis win percentage|won=32|lost=0|integer=yes}}
+|-
+| align=left | [[US Open (tennis)|U.S. National]]
+|A
+|A
+|A
+|A
+|style="background:#afeeee;"|[[1921 U.S. National Championships – Women's Singles|2R]]
+|A
+|A
+|A
+|A
+|A
+|0 / 1
+|0–1
+|{{tennis win percentage|won=0|lost=1|integer=yes}}
+|- style="font-weight:bold; background:#efefef;"
+|-
+| colspan="26" align="left" |'''World Championship tournaments'''{{efn|name=World Championships|From 1912 to 1923, there were three World Championship tournaments: World Grass Court Championships, the World Hard Court Championships, and the World Covered Court Championships. The World Grass Court Championships (Wimbledon) retained its major status, the World Hard Court Championships were folded into the French Championships, and the World Covered Court Championships were abolished. Lenglen never competed at the World Covered Court Championships.}}
+|-
+| align=left | [[World Hard Court Championships|World Hard Court]]
+| style="background:#00ff00;" | [[1914 World Hard Court Championships – Women's Singles|'''W''']]
+|colspan=2 style=color:#ccc|Not Held
+| style="background:#afeeee;" | [[1920 World Hard Court Championships – Women's Singles|1R]]
+| style="background:#00ff00;" | [[1921 World Hard Court Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1922 World Hard Court Championships – Women's Singles|'''W''']]
+| style="background:#00ff00;" | [[1923 World Hard Court Championships – Women's Singles|'''W''']]
+|colspan=3 style=color:#ccc|Defunct
+|4 / 5
+|17–0
+|{{tennis win percentage|won=17|lost=0|integer=yes}}
+|}
+
+====Doubles====
+
+{|class="wikitable" style=text-align:center
+|- bgcolor="#efefef" 
+! Tournament !! 1914 !! 1915–18 !! 1919 !! 1920 !! 1921 !! 1922 !! 1923 !! 1924 !! 1925 !! 1926 !! {{Tooltip| SR | Strike Rate}} !! {{Tooltip| W–L | Win–Loss}} !!Win %
+|-
+| colspan="26" align="left" |'''Grand Slam tournaments'''{{efn|name=Grand Slams}}
+|-
+| align=left| [[French Open|French]]
+| style=color:#ccc| ''F''
+|colspan=2 style=color:#ccc|''Not Held''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''A''
+| style="background:#00ff00;" | [[1925 French Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1926 French Championships – Women's Doubles|'''W''']]
+| 2 / 2
+|7–0
+|{{tennis win percentage|won=7|lost=0|integer=yes}}
+|-
+| align=left | [[The Championships, Wimbledon|Wimbledon]]
+|A
+|colspan=1 style=color:#ccc|NH
+| style="background:#00ff00;" | [[1919 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1920 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1921 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1922 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1923 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#ffebcd;" | [[1924 Wimbledon Championships – Women's Doubles|QF]]
+| style="background:#00ff00;" | [[1925 Wimbledon Championships – Women's Doubles|'''W''']]
+| style="background:#afeeee;" | [[1926 Wimbledon Championships – Women's Doubles|2R]]
+| 6 / 8
+|29–1
+|{{tennis win percentage|won=29|lost=1|integer=yes}}
+|-
+| align=left | [[US Open (tennis)|U.S. National]]
+|A
+|A
+|A
+|A
+| align="center" style="background:#afeeee;"|[[1921 U.S. National Championships – Women's Doubles|1R]]
+|A
+|A
+|A
+|A
+|A
+| 0 / 1
+|0–0
+|{{tennis win percentage|won=0|lost=0|integer=yes}}
+|-
+| colspan="26" align="left" |'''World Championship tournaments'''{{efn|name=World Championships}}
+|-
+| align=left | [[World Hard Court Championships|World Hard Court]]
+| style="background:#00ff00;" | [[1914 World Hard Court Championships – Women's Doubles|'''W''']]
+|colspan=2 style=color:#ccc|Not Held
+| A
+| style="background:#00ff00;" | [[1921 World Hard Court Championships – Women's Doubles|'''W''']]
+| style="background:#00ff00;" | [[1922 World Hard Court Championships – Women's Doubles|'''W''']]
+| style="background:thistle;" | [[1923 World Hard Court Championships – Women's Doubles|F]]
+|colspan=3 style=color:#ccc|Defunct
+|3 / 4
+|13–1
+|{{tennis win percentage|won=13|lost=1|integer=yes}}
+|}
+
+====Mixed doubles====
+
+{|class="wikitable" style=text-align:center
+|- bgcolor="#efefef" 
+! Tournament !! 1914 !! 1915–18 !! 1919 !! 1920 !! 1921 !! 1922 !! 1923 !! 1924 !! 1925 !! 1926 !! {{Tooltip| SR | Strike Rate}} !! {{Tooltip| W–L | Win–Loss}} !!Win %
+|-
+| colspan="26" align="left" |'''Grand Slam tournaments'''{{efn|name=Grand Slams}}
+|-
+| align=left| [[French Open|French]]
+| style=color:#ccc| ''W''
+|colspan=2 style=color:#ccc|''Not Held''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''W''
+| style=color:#ccc| ''A''
+| style="background:#00ff00;" | [[1925 French Championships – Mixed Doubles|'''W''']]
+| style="background:#00ff00;" | [[1926 French Championships – Mixed Doubles|'''W''']]
+| 2 / 2
+|8–0
+|{{tennis win percentage|won=8|lost=0|integer=yes}}
+|-
+| align=left | [[The Championships, Wimbledon|Wimbledon]]
+|A
+|colspan=1 style=color:#ccc|NH
+| style="background:#ffebcd;" | [[1919 Wimbledon Championships – Mixed Doubles|QF]]
+| style="background:#00ff00;" | [[1920 Wimbledon Championships – Mixed Doubles|'''W''']]
+| style="background:#afeeee;" | [[1921 Wimbledon Championships – Mixed Doubles|2R]]
+| style="background:#00ff00;" | [[1922 Wimbledon Championships – Mixed Doubles|'''W''']]
+| style="background:yellow;" | [[1923 Wimbledon Championships – Mixed Doubles|SF]]
+| style="background:#ffebcd;"  | [[1924 Wimbledon Championships – Mixed Doubles|QF]]
+| style="background:#00ff00;" | [[1925 Wimbledon Championships – Mixed Doubles|'''W''']]
+| style="background:#afeeee;" | [[1926 Wimbledon Championships – Mixed Doubles|2R]]
+| 3 / 8
+|30–2
+|{{tennis win percentage|won=30|lost=2|integer=yes}}
+|-
+| colspan="26" align="left" |'''World Championship tournaments'''{{efn|name=World Championships}}
+|-
+| align=left | [[World Hard Court Championships|World Hard Court]]
+| style="background:thistle;" | [[1914 World Hard Court Championships – Mixed Doubles|F]]
+|colspan=2 style=color:#ccc|Not Held
+| A
+| style="background:#00ff00;" | [[1921 World Hard Court Championships – Mixed Doubles|'''W''']]
+| style="background:#00ff00;" | [[1922 World Hard Court Championships – Mixed Doubles|'''W''']]
+| style="background:#00ff00;" | [[1923 World Hard Court Championships – Mixed Doubles|'''W''']]
+|colspan=3 style=color:#ccc|Defunct
+|3 / 4
+|16–1
+|{{tennis win percentage|won=16|lost=1|integer=yes}}
+|}
+
+<small>Source: Little{{sfn|name=match-statistics|Little|2007|pp=135–196}}</small>
+
+==See also==
+{{Portal bar|Tennis|Biography|France|Sports|Olympics}}
+* [[List of Grand Slam women's singles champions]]
+* [[List of Grand Slam women's doubles champions]]
+* [[List of Grand Slam mixed doubles champions]]
+* [[List of Grand Slam related tennis records]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+===Books===
+*{{cite book |last1 = Barrett | first1 = John  | year= 1980 | title = World of Tennis 1980 | publisher = Queen Anne Press | isbn = 978-0362020120 | ref = harv }}
+*{{cite book |last=Collins | first=Bud |title=The Bud Collins History of Tennis: An Authoritative Encyclopedia and Record Book |publisher=New Chapter Press |location=New York |year=2008 |isbn=978-0942257410 | ref=harv}}
+*{{cite book |last1 = Engelmann | first1 = Larry | year= 1988 | title = The Goddess and the American Girl: The Story of Suzanne Lenglen and Helen Wills |url = https://archive.org/details/goddessamericang00enge |url-access = registration | publisher = Oxford University Press | location=New York | isbn = 978-0195043631 | ref = harv }}
+*{{cite book |last1=King |first1=Billie Jean |first2=Cynthia |last2=Starr |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |isbn=978-0070346253 |ref=harv |url=https://archive.org/details/wehavecomelongwa00king }}
+*{{cite book |last1 = Lenglen | first1 = Suzanne |title=Lawn Tennis for Girls |url = https://archive.org/details/lawntennisforgir00leng |publisher = American Sports Publishing |location=New York |year=1920 |isbn=978-0469069497 | ref = harv}}
+*{{cite book |last1 = Little | first1 = Alan | year= 2007 | title = Suzanne Lenglen: Tennis Idol of the Twenties | publisher = The Wimbledon Lawn Tennis Museum | isbn = 978-0906741436 | ref = harv }}
+*{{cite book |last1 = Wagg | first1 = Stephen | year= 2011 | title = Myths and Milestones in the History of Sport | publisher = Palgrave Macmillan | isbn =  978-0230241251 | ref = harv }}
+
+== External links ==
+{{Commons|Suzanne Lenglen|Suzanne Lenglen}}
+* {{Tennis Hall of Fame}}
+* {{ITF profile}}
+* {{IOC profile}}
+* {{SR/Olympics profile|le/suzanne-lenglen-1}}
+* {{IMDb name}}
+
+{{Tennis hall of fame france}}
+{{navboxes|title=Suzanne Lenglen in the [[grand slam (tennis)|Grand Slam Tournaments]]
+| list1 =
+{{French Open women's singles champions}}
+{{Wimbledon women's singles champions}}
+{{French Open women's doubles champions}}
+{{Wimbledon women's doubles champions}}
+{{French Open mixed doubles champions}}
+{{Wimbledon mixed doubles champions}}
+}}
+{{Women's tennis players who won two or more Grand Slam singles titles in one calendar year}}
+{{World Hard Court Championships women's singles champions}}
+{{Footer Olympic Champions Tennis Women}}
+{{Footer Olympic Champions Tennis Mixed Doubles}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lenglen, Suzanne}}
+[[Category:1899 births]]
+[[Category:1938 deaths]]
+[[Category:Deaths from pernicious anemia]]
+[[Category:Deaths from leukemia]]
+[[Category:Deaths from cancer in France]]
+[[Category:French female tennis players]]
+[[Category:French Championships (tennis) champions]]
+[[Category:Grand Slam (tennis) champions in mixed doubles]]
+[[Category:Grand Slam (tennis) champions in women's doubles]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Medalists at the 1920 Summer Olympics]]
+[[Category:Olympic bronze medalists for France]]
+[[Category:Olympic gold medalists for France]]
+[[Category:Olympic medalists in tennis]]
+[[Category:Olympic tennis players of France]]
+[[Category:Sportspeople from Paris]]
+[[Category:Professional tennis players before the Open Era]]
+[[Category:Tennis players at the 1920 Summer Olympics]]
+[[Category:Wimbledon champions (pre-Open Era)]]
+[[Category:World No. 1 tennis players]]

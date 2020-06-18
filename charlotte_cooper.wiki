@@ -1,0 +1,165 @@
+{{short description|English tennis player}}
+{{EngvarB|date=August 2013}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox tennis biography
+|name                              = Charlotte Cooper Sterry
+|image                             = Charlotte Cooper.jpg
+|caption                           =
+|fullname                          = Charlotte Reinagle Cooper Sterry
+|country                           = {{GBR}}
+|residence                         =
+|birth_date                        = {{birth date |df=yes|1870|09|22}}
+|birth_place                       = [[Ealing]], England
+|death_date                        = {{death date and age|df=yes|1966|10|10|1870|09|22}}
+|death_place                       = [[Helensburgh]], Scotland
+|height                            =
+|college                           =
+|turnedpro                         =
+|retired                           =
+|plays                             = Right–handed
+|careerprizemoney                  =
+|tennishofyear                     = 2013
+|tennishofid                       = charlotte-cooper-sterry 
+|website                           =
+|singlesrecord                     =
+|singlestitles                     =
+|highestsinglesranking             =
+|currentsinglesranking             =
+|AustralianOpenresult              =
+|FrenchOpenresult                  =
+|Wimbledonresult                   = '''W''' (1895, 1896, 1898, 1901, 1908)
+|USOpenresult                      =
+|Othertournaments                  = 
+|MastersCupresult                  =
+|WTAChampionshipsresult            =
+|Olympicsresult                    =
+|doublesrecord                     =
+|doublestitles                     =
+|highestdoublesranking             =
+|currentdoublesranking             =
+|grandslamsdoublesresults          =
+|AustralianOpenDoublesresult       =
+|FrenchOpenDoublesresult           =
+|WimbledonDoublesresult            = F (1913)
+|USOpenDoublesresult               =
+|OthertournamentsDoubles           = <!-- adds a "Other doubles tournaments" title -->
+|MastersCupDoublesresult           =
+|WTAChampionshipsDoublesresult     =
+|OlympicsDoublesresult             =
+|Mixed                             = <!-- adds mixed information-->
+|mixedrecord                       =
+|mixedtitles                       =
+|AustralianOpenMixedresult         =
+|FrenchOpenMixedresult             =
+|WimbledonMixedresult              = 3R (1914)
+|USOpenMixedresult                 =
+|OthertournamentsMixedDoubles      = 
+|OlympicMixedDoublesresult         =
+| medaltemplates-expand       = yes
+| medaltemplates              =
+{{MedalCountry | {{GBR2}} }}
+{{MedalCompetition|[[Tennis at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[1900 Summer Olympics|1900 Paris]]|[[Tennis at the 1900 Summer Olympics – Women's singles|Singles]]}}
+{{MedalGold|[[1900 Summer Olympics|1900 Paris]]|[[Tennis at the 1900 Summer Olympics – Mixed doubles|Mixed doubles]]}}
+}}
+
+'''Charlotte Cooper Sterry''' (née '''Charlotte Reinagle Cooper''', 22 September 1870 – 10 October 1966) was an English female [[tennis]] player who won five singles titles at the [[Wimbledon Championships]] and in 1900 became Olympic champion. In winning in Paris on 11 July 1900, she became the first female Olympic tennis champion as well as the first individual female Olympic champion.
+
+==Early life and career==
+[[File:Hillyard vs sterry at eastbourne.jpg|thumb|260px|Charlotte Cooper Sterry vs Blanche Bingley Hillyard at Eastbourne]]
+Charlotte Cooper was born on 22 September 1870 at Waldham Lodge, [[Ealing]], [[Middlesex]], England, the youngest daughter of Henry Cooper, a miller, and his wife Teresa Georgiana Miller.<ref name=oxford>{{cite web|title=Oxford Dictionary of National Biography – Sterry [née Cooper], Charlotte Reinagle|url=http://www.oxforddnb.com/view/printable/36284|publisher=Oxford University Press}}</ref> She learned to play tennis at the Ealing Lawn Tennis Club where she was first coached by H. Lawrence and later by Charles Martin and [[Harold Mahony]].{{efn|name=lawntennis|In the 1910 book by Dorothy Chambers titled ''"Lawn Tennis for Ladies"'' Cooper Sterry describes winning her first championship at the Ealing Club: "Winning my first championship of the Ealing Lawn Tennis Club at the age of 14 was a very important moment in my life. How well I remember, bedecked by my proud mother in my best clothes, running off to the Club on the Saturday afternoon to play in the final without a vestige of nerve (would that I had none now!), and winning — that was the first really important match of my life."}} She won her first senior singles title in 1893 at [[Ilkley]] <ref name="auto">{{cite web|last1=Smyth|first1=J. G.|title=Oxford DNB article: Sterry, Charlotte Reinagle|url=http://www.oxforddnb.com/view/printable/36284|website=archive.fo|publisher=Oxford University Press, 2004-2013|accessdate=20 October 2017|date=8 November 2013|url-status=bot: unknown|archiveurl=https://archive.today/20131108154214/http://www.oxforddnb.com/view/printable/36284|archivedate=8 November 2013}}</ref>. Between 1893 and 1917 she participated in 21 Wimbledon tournaments. At her first appearance she reached the semifinals of the singles event in which she lost to [[Blanche Bingley Hillyard]]. She won her first singles title in 1895, defeating Helen Jackson in the final of the All-Comers event.<ref>{{cite web|title=Tennis: Proud links to an All England legend|url=http://www.nzherald.co.nz/bay-of-plenty-times/sport/news/article.cfm?c_id=1503345&objectid=11068349|publisher=The New Zealand Herald|author=Kelly Exelby|date=10 July 2012}}</ref>{{efn|name=w1895}} In that match she was down 0–5 in both sets but managed to win in straight sets.<ref name=chambers>{{cite book|title=Lawn Tennis for Ladies|year=1910|publisher=Outing Publishing Company|location=London|url=https://archive.org/details/lawntennisforlad10961gut|author=Dorothy Lambert Chambers|edition=1}}</ref> In 1896, she successfully defended her title in the Challenge Round against [[Alice Pickering|Alice Simpson Pickering]]. Between 1897 and 1901 the titles were divided between Cooper Sterry (1898, 1901) and Bingley Hillyard (1897, 1899, 1900). The 1902 Challenge Round match against [[Muriel Robb]] was halted on the first day of play due to rainfall at 6–4, 11–13. The match was replayed in its entirety the next day and Robb won 7–5, 6–1, playing a total of 53 games which was then a record for the longest women's singles final.<ref>{{cite book|last=Barrett|first=John|title=Wimbledon : The Official History of the Championships|year=2013|publisher=Vision Sports Pub Ltd|location=Kingston upon Thames|isbn=9781907637896|page=77|edition=2nd edition.}}</ref><ref name=hedges>{{cite book|last=Hedges|first=Martin|title=The Concise Dictionary of Tennis|year=1978|publisher=Mayflower Books|location=New York|isbn=978-0861240128|pages=[https://archive.org/details/concisedictionar00hedg/page/202 202–203]|url-access=registration|url=https://archive.org/details/concisedictionar00hedg/page/202}}</ref> In 1908 as a mother of two she won her last singles title when she defeated [[Agnes Morton]] in straight sets in the All-Comers final after a seven-year hiatus and at the age of 37.<ref>{{cite web|title=Wimbledon player archive – Charlotte Sterry (Cooper)|url=http://www.wimbledon.com/en_GB/scores/draws/archive/players/8961bf84-de34-49c5-9af1-c5ffd5d2cde5/index.html|publisher=AELTC}}</ref><ref name=collins>{{cite book|title=The Bud Collins History of Tennis|year=2010|publisher=New Chapter Press|location=[New York]|isbn=978-0942257700|pages=445, 709|author=Bud Collins|edition=2nd}}</ref> She is the oldest Wimbledon's ladies’ singles champion and her record of eight consecutive singles finals stood until 1990 when [[Martina Navratilova]] reached her ninth consecutive singles final.<ref name=collins/><ref>{{cite web|title=Wimbledon Top 10: Oldest Champions|url=http://www.wimbledon.com/en_GB/news/articles/2013-06-29/201306171371466343940.html|publisher=AELTC|url-status=dead|archiveurl=https://web.archive.org/web/20150402161657/http://www.wimbledon.com/en_GB/news/articles/2013-06-29/201306171371466343940.html|archivedate=2 April 2015}}</ref>
+
+In addition to her singles titles, Cooper Sterry also won seven All-England mixed doubles titles; five times with Harold Mahony (1894–1898) <ref name="auto"/> and once with [[Laurence Doherty]] (1900) and Xenophon Casdagli (1908).{{efn|name=mixeddoubles|The Mixed Doubles only became an official Championship event in 1913.}} In 1913 she reached the final of the first Wimbledon women's doubles event with [[Dorothea Douglass]], 18 years after winning her first Wimbledon title.
+
+She won the singles title at the [[Irish Open (tennis)|Irish Lawn Tennis Championships]] in 1895 and 1898 <ref name="auto"/>, a prestigious tournament at the time <ref>{{cite book|last1=Lake|first1=Robert J.|title=A Social History of Tennis in Britain|date=2014|publisher=Routledge|isbn=9781134445578|page=49|url=https://books.google.com/books?id=8kyvBAAAQBAJ&pg=PA48&lpg=PA48&dq=how+important+were+the+irish+tennis+championships&source=bl&ots=Vzar8jBKTE&sig=REQFWi7lcpRbpMEzpycvcnpazAY&hl=en&sa=X&ved=0ahUKEwj7nqCCovrWAhVJFpQKHQuzB20Q6AEIVDAJ#v=onepage&q=how%20important%20were%20the%20irish%20tennis%20championships&f=false|language=en}}</ref>. At the [[1900 Summer Olympics]], where women participated for the first time, Cooper Sterry won the tennis singles event. On 11 July 1900 she defeated [[Hélène Prévost]] in the final in straight sets and became the first female Olympic tennis champion as well as the first individual female Olympic champion. With [[Reginald Doherty]], she won the [[Tennis at the 1900 Summer Olympics – Mixed doubles|mixed doubles title]] after a straight-sets victory in the final against Hélène Prévost and [[Harold Mahony]].<ref>{{cite web|title=Olympics – Charlotte Cooper|url=https://www.sports-reference.com/olympics/athletes/co/charlotte-cooper-1.html|archive-url=https://web.archive.org/web/20200417235336/https://www.sports-reference.com/olympics/athletes/co/charlotte-cooper-1.html|url-status=dead|archive-date=2020-04-17|publisher=Sports Reference}}</ref>{{efn|name=olympics|Medals were not awarded until the [[1904 Summer Olympics]].}} In 1901 she won the singles title at the German Championships, and in 1902 she won the Swiss Championship.<ref name=myers>{{cite book|title=Lawn Tennis at Home and Abroad|year=1903|publisher=Charles Scribner's Sons|location=New York|pages=170, 280|edition=1|editor=A Wallis Myers|oclc=5358651}}</ref> Cooper Sterry remained active in competitive tennis and continued to play in championship events well into her 50s.
+
+On 12 January 1901 she married Alfred Sterry, a solicitor, who became president of the [[Lawn Tennis Association]]. They had two children: Rex (born 1903) who was the vice-chairman of the [[All England Lawn Tennis and Croquet Club|All England Club]] for a period of 15 years during the 1960s and 1970s and [[Gwen Sterry|Gwen]] (born 1905), a tennis player who participated at Wimbledon and played on Britain's [[Wightman Cup]] team.<ref name=oxford/><ref name=robertson>{{cite book|last=Robertson|first=Max|title=The Encyclopedia of Tennis|year=1974|publisher=Allen & Unwin|location=London|isbn=9780047960420|pages=323, 324}}</ref><ref>{{cite web|title=Wimbledon players archive – Gwen Simmers (Sterry)|url=http://www.wimbledon.com/en_GB/scores/draws/archive/players/bae3ac29-6f22-4b6b-a57e-76a88df5bfe9/index.html|publisher=AELTC}}</ref><ref>{{cite web|title=Charlotte Cooper Sterry|url=http://www.helensburghheroes.com/heroes/charlotte_cooper_sterry|publisher=Helensburgh Heroes}}</ref>
+
+Cooper Sterry, who had been deaf since the age of 26, died on 10 October 1966 at the age of 96, in [[Helensburgh]], Scotland.<ref name=oxford/><ref>{{Cite web |url=http://www.sterryworldwide.com/charlotte2.htm |title=Charlotte Cooper – a biography}}</ref><ref>{{Cite web |url=http://www.heroescentre.co.uk/hall-of-fame/sport/sport-charlotte-cooper-sterry/ |title=Charlotte Cooper Sterry – All time tennis legend}}</ref>
+
+She was inducted into the [[International Tennis Hall of Fame]] in 2013.<ref>{{cite web|title=Hall of Famers – Charlotte Cooper Sterry|url=http://www.tennisfame.com/hall-of-famers/inductees/charlotte-cooper-sterry|publisher=International Tennis Hall of Fame}}</ref>
+
+==Playing style==
+Cooper Sterry had an offensive style of playing, attacking the net when the opportunity arose. She was one of a few female players of her time who served overhead. Her main strengths were her steadiness, temperament and tactical ability.<ref name=oxford/> Her excellent volleying skills stood out at a time when this was still a rarity in ladies tennis.<ref name=myers/>
+
+==Grand Slam finals==
+
+===Singles: 11 (5 titles, 6 runners-up)===
+
+{|class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:40px"|Year
+!style="width:125px"|Championship
+!style="width:50px" class="unsortable"|Surface
+!style="width:195px"|Opponent
+!style="width:130px" class="unsortable"|Score
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1895{{efn|name=w1895|This was actually the all-comers final as [[Blanche Bingley Hillyard]] did not defend her 1894 Wimbledon title, which resulted in the winner of the all-comers final winning the challenge round and, thus, Wimbledon in 1895 by walkover.}} || [[The Championships, Wimbledon|Wimbledon]] (1) || Grass || {{flagicon|UKGBI}} [[Helen Jackson Atkins]] || 7–5, 8–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1896 || Wimbledon (2) ||  Grass ||{{flagicon|UKGBI}} [[Alice Pickering|Alice Simpson Pickering]] ||6–2, 6–3
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1897 || [[The Championships, Wimbledon|Wimbledon]] ||  Grass || {{flagicon|UKGBI}} [[Blanche Bingley Hillyard]] || 7–5, 5–7, 2–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1898{{efn|name=w1898|This was actually the all-comers final as Blanche Bingley Hillyard did not defend her 1897 Wimbledon title, which resulted in the winner of the all-comers final winning the challenge round and, thus, Wimbledon in 1898 by walkover.}} || Wimbledon (3)|| Grass || {{flagicon|UKGBI}} [[Louisa Martin]] || 6–4, 6–4
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1899 || Wimbledon || Grass || {{flagicon|UKGBI}} Blanche Bingley Hillyard || 2–6, 3–6
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1900 || Wimbledon || Grass ||  {{flagicon|UKGBI}} Blanche Bingley Hillyard || 6–4, 4–6, 4–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1901 || Wimbledon (4)|| Grass || {{flagicon|UKGBI}} [[Blanche Bingley Hillyard]]|| 6–2, 6–2
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1902 || Wimbledon || Grass ||  {{flagicon|UKGBI}} [[Muriel Robb]] || 5–7, 1–6
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1904 || Wimbledon || Grass || {{flagicon|UKGBI}} [[Dorothea Douglass Lambert Chambers|Dorothea Lambert Chambers]] || 0–6, 3–6
+|-style="background:#cfc;"
+| style="background:#98fb98;"|Win ||1908{{efn|name=w1908|This was actually the all-comers final as [[May Sutton]] did not defend her 1907 Wimbledon title, which resulted in the winner of the all-comers final winning the challenge round and, thus, Wimbledon in 1908 by walkover.}} || Wimbledon (5) || Grass || {{flagicon|UKGBI}} [[Agnes Morton]]|| 6–4, 6–4
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss ||1912 || Wimbledon || Grass || {{flagicon|UKGBI}} [[Ethel Thomson Larcombe]] || 3–6, 1–6
+|}
+
+===Doubles: 1 (1 runner-up)===
+{|class="sortable wikitable" 
+!style="width:40px"|Result
+!style="width:40px"|Year
+!style="width:125px"|Championship
+!style="width:50px" class="unsortable"|Surface
+!style="width:175px"|Partner
+!style="width:175px"|Opponents
+!style="width:130px" class="unsortable"|Score
+|-style="background:#cfc;"
+| style="background:#ffa07a;"|Loss || 1913 || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|GBR}} [[Dorothea Douglass]] || {{flagicon|GBR}} [[Winifred McNair]] <br /> {{flagicon|GBR}} [[Dora Boothby]] || 4–6, 2–4 ret.
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Commons category|Charlotte Cooper (tennis player)|Charlotte Cooper}}
+{{reflist|2}}
+
+==External links==
+* {{Tennis Hall of Fame}}
+* {{ITF}}
+
+{{Footer Olympic Champions Tennis Women}}
+{{Wimbledon women's singles champions}}
+{{Footer Olympic Champions Tennis Mixed Doubles}}
+
+{{DEFAULTSORT:Cooper, Charlotte}}
+[[Category:1870 births]]
+[[Category:1966 deaths]]
+[[Category:19th-century English people]]
+[[Category:19th-century female tennis players]]
+[[Category:English female tennis players]]
+[[Category:English Olympic medallists]]
+[[Category:Olympic gold medallists for Great Britain]]
+[[Category:Olympic tennis players of Great Britain]]
+[[Category:People from Ealing]]
+[[Category:Tennis players at the 1900 Summer Olympics]]
+[[Category:Wimbledon champions (pre-Open Era)]]
+[[Category:Olympic medalists in tennis]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:Medalists at the 1900 Summer Olympics]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Tennis people from Greater London]]
+[[Category:British female tennis players]]
